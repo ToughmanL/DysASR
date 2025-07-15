@@ -1,0 +1,2 @@
+- task.data=/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec//data/CDSD
+- distributed_training.distributed_port=5000

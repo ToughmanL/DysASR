@@ -1,0 +1,44 @@
+nohup: ignoring input
+🔄 正在同步: /mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/UASpeech -> ASRmodels/FunASR/example/UASpeech
+sending incremental file list
+
+sent 9,862 bytes  received 143 bytes  6,670.00 bytes/sec
+total size is 64,963,891  speedup is 6,493.14
+✅ 完成同步: /mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/UASpeech -> ASRmodels/FunASR/example/UASpeech
+---------------------------------------------
+🔄 正在同步: /mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/CDSD -> ASRmodels/FunASR/example/CDSD
+sending incremental file list
+
+sent 4,566 bytes  received 67 bytes  9,266.00 bytes/sec
+total size is 31,633,874  speedup is 6,827.95
+✅ 完成同步: /mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/CDSD -> ASRmodels/FunASR/example/CDSD
+---------------------------------------------
+🔄 正在同步: /mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/MSDM -> ASRmodels/FunASR/example/MSDM
+sending incremental file list
+
+sent 6,623 bytes  received 93 bytes  13,432.00 bytes/sec
+total size is 120,058,317  speedup is 17,876.46
+✅ 完成同步: /mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/MSDM -> ASRmodels/FunASR/example/MSDM
+---------------------------------------------
+🔄 正在同步: /mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/SpeechAccessibility -> ASRmodels/FunASR/example/SpeechAccessibility
+sending incremental file list
+
+sent 16,323 bytes  received 234 bytes  11,038.00 bytes/sec
+total size is 161,328,370  speedup is 9,743.82
+✅ 完成同步: /mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/SpeechAccessibility -> ASRmodels/FunASR/example/SpeechAccessibility
+---------------------------------------------
+🔄 正在同步: /mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/VoiceBank -> ASRmodels/FunASR/example/VoiceBank
+sending incremental file list
+
+sent 2,291 bytes  received 31 bytes  4,644.00 bytes/sec
+total size is 18,990,273  speedup is 8,178.41
+✅ 完成同步: /mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/VoiceBank -> ASRmodels/FunASR/example/VoiceBank
+---------------------------------------------
+🔄 正在同步: /mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/TROGO -> ASRmodels/FunASR/example/TROGO
+sending incremental file list
+
+sent 12,982 bytes  received 123 bytes  8,736.67 bytes/sec
+total size is 11,156,052  speedup is 851.28
+✅ 完成同步: /mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/TROGO -> ASRmodels/FunASR/example/TROGO
+---------------------------------------------
+🎉 所有模型目录同步完成！

@@ -1,0 +1,999 @@
+nohup: ignoring input
+sending incremental file list
+./
+README.md
+         25,830 100%    0.00kB/s    0:00:00           25,830 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=581/583)
+__init__.py
+              0 100%    0.00kB/s    0:00:00 (xfr#2, to-chk=580/583)
+fintune_main_iter.py
+         13,227 100%    1.80MB/s    0:00:00           13,227 100%    1.58MB/s    0:00:00 (xfr#3, to-chk=579/583)
+rtf_mem.sh
+          1,857 100%   56.67kB/s    0:00:00            1,857 100%   56.67kB/s    0:00:00 (xfr#4, to-chk=578/583)
+run.sh
+            764 100%   22.61kB/s    0:00:00              764 100%   22.61kB/s    0:00:00 (xfr#5, to-chk=577/583)
+.vscode/
+.vscode/settings.json
+             27 100%    0.03kB/s    0:00:00               27 100%    0.03kB/s    0:00:00 (xfr#6, to-chk=564/583)
+config/
+config/finetuning/
+config/finetuning/CDSD.yaml
+          1,269 100%    1.33kB/s    0:00:00            1,269 100%    1.33kB/s    0:00:00 (xfr#7, to-chk=561/583)
+config/finetuning/base_100h.yaml
+            945 100%    0.99kB/s    0:00:00              945 100%    0.99kB/s    0:00:00 (xfr#8, to-chk=560/583)
+config/finetuning/base_10h.yaml
+          1,084 100%    1.12kB/s    0:00:00            1,084 100%    1.12kB/s    0:00:00 (xfr#9, to-chk=559/583)
+config/finetuning/base_10m.yaml
+          1,085 100%    1.10kB/s    0:00:00            1,085 100%    1.10kB/s    0:00:00 (xfr#10, to-chk=558/583)
+config/finetuning/base_1h.yaml
+          1,085 100%    1.09kB/s    0:00:00            1,085 100%    1.09kB/s    0:00:00 (xfr#11, to-chk=557/583)
+config/finetuning/base_960h.yaml
+            925 100%    0.93kB/s    0:00:00              925 100%    0.93kB/s    0:00:00 (xfr#12, to-chk=556/583)
+config/finetuning/vox_100h.yaml
+            953 100%    0.93kB/s    0:00:00              953 100%    0.93kB/s    0:00:01 (xfr#13, to-chk=555/583)
+config/finetuning/vox_10h.yaml
+          1,088 100%    1.06kB/s    0:00:00            1,088 100%    1.06kB/s    0:00:01 (xfr#14, to-chk=554/583)
+config/finetuning/vox_10m.yaml
+          1,089 100%    1.06kB/s    0:00:00            1,089 100%    1.06kB/s    0:00:01 (xfr#15, to-chk=553/583)
+config/finetuning/vox_1h.yaml
+          1,089 100%    1.06kB/s    0:00:00            1,089 100%    1.06kB/s    0:00:01 (xfr#16, to-chk=552/583)
+config/finetuning/vox_960h.yaml
+            937 100%    0.91kB/s    0:00:00              937 100%    0.91kB/s    0:00:01 (xfr#17, to-chk=551/583)
+config/pretraining/
+config/pretraining/wav2vec2_base_librispeech.yaml
+            990 100%    0.94kB/s    0:00:00              990 100%    0.94kB/s    0:00:01 (xfr#18, to-chk=550/583)
+config/pretraining/wav2vec2_conformer_base_librispeech.yaml
+          1,058 100%    1.01kB/s    0:00:00            1,058 100%    1.01kB/s    0:00:01 (xfr#19, to-chk=549/583)
+config/pretraining/wav2vec2_conformer_large_librivox.yaml
+          1,288 100%    1.21kB/s    0:00:00            1,288 100%    1.21kB/s    0:00:01 (xfr#20, to-chk=548/583)
+config/pretraining/wav2vec2_large_librivox.yaml
+          1,236 100%    1.16kB/s    0:00:00            1,236 100%    1.16kB/s    0:00:01 (xfr#21, to-chk=547/583)
+config/pretraining/wav2vec2_large_librivox_tpu-pod.yaml
+          1,309 100%    1.22kB/s    0:00:00            1,309 100%    1.22kB/s    0:00:01 (xfr#22, to-chk=546/583)
+config/pretraining/wav2vec2_large_librivox_tpu.yaml
+          1,432 100%    1.33kB/s    0:00:00            1,432 100%    1.33kB/s    0:00:01 (xfr#23, to-chk=545/583)
+data/
+data/CDSD/
+data/CDSD/dev.data.list
+         32,768   4%   30.13kB/s    0:00:21           65,536   9%   60.26kB/s    0:00:10          693,577 100%  551.12kB/s    0:00:01 (xfr#24, to-chk=538/583)
+data/CDSD/dev.ltr
+         32,768  30%  175.82kB/s    0:00:00          108,690 100%  580.01kB/s    0:00:00 (xfr#25, to-chk=537/583)
+data/CDSD/dev.text
+         32,768  23%  164.95kB/s    0:00:00          141,587 100%  687.90kB/s    0:00:00 (xfr#26, to-chk=536/583)
+data/CDSD/dev.tsv
+         32,768   9%  142.22kB/s    0:00:02          348,150 100%    1.40MB/s    0:00:00 (xfr#27, to-chk=535/583)
+data/CDSD/dev.wrd
+         32,768  41%  126.48kB/s    0:00:00           79,894 100%  307.17kB/s    0:00:00 (xfr#28, to-chk=534/583)
+data/CDSD/test.data.list
+         32,768   3%  125.49kB/s    0:00:06          866,903 100%    3.01MB/s    0:00:00 (xfr#29, to-chk=533/583)
+data/CDSD/test.ltr
+         32,768  26%  109.97kB/s    0:00:00          121,634 100%  408.19kB/s    0:00:00 (xfr#30, to-chk=532/583)
+data/CDSD/test.ltr-ltr.ltr.idx
+         32,768  66%  105.61kB/s    0:00:00           49,406 100%  159.23kB/s    0:00:00 (xfr#31, to-chk=531/583)
+data/CDSD/test.text
+         32,768  19%   97.86kB/s    0:00:01          167,353 100%  486.40kB/s    0:00:00 (xfr#32, to-chk=530/583)
+data/CDSD/test.tsv
+         32,768   7%   90.65kB/s    0:00:04          442,438 100%    1.15MB/s    0:00:00 (xfr#33, to-chk=529/583)
+data/CDSD/test.wrd
+         32,768  36%   80.81kB/s    0:00:00           89,168 100%  219.34kB/s    0:00:00 (xfr#34, to-chk=528/583)
+data/CDSD/train.data.list
+         32,768   0%   80.20kB/s    0:00:56        4,602,555 100%    9.71MB/s    0:00:00 (xfr#35, to-chk=527/583)
+data/CDSD/train.ltr
+         32,768   5%   69.72kB/s    0:00:07          581,268 100%    1.11MB/s    0:00:00 (xfr#36, to-chk=526/583)
+data/CDSD/train.ltr-ltr.ltr.idx
+         32,768  12%   63.49kB/s    0:00:03          265,274 100%  506.96kB/s    0:00:00 (xfr#37, to-chk=525/583)
+data/CDSD/train.tsv
+         32,768   1%   60.04kB/s    0:00:38        2,367,830 100%    3.58MB/s    0:00:00 (xfr#38, to-chk=524/583)
+data/CDSD/train.wrd
+         32,768   7%   49.38kB/s    0:00:07          424,899 100%  601.36kB/s    0:00:00 (xfr#39, to-chk=523/583)
+data/CDSD/valid.ltr-ltr.ltr.idx
+         32,768  84%   45.52kB/s    0:00:00           38,990 100%   54.16kB/s    0:00:00 (xfr#40, to-chk=522/583)
+data/MSDM/
+data/MSDM/dev.data.list
+         32,768   1%   45.20kB/s    0:00:47        2,189,982 100%    2.81MB/s    0:00:00 (xfr#41, to-chk=521/583)
+data/MSDM/dev.ltr
+         32,768  37%   42.05kB/s    0:00:01           86,266 100%  110.70kB/s    0:00:00 (xfr#42, to-chk=520/583)
+data/MSDM/dev.text
+         32,768  10%   41.08kB/s    0:00:06          316,077 100%  386.80kB/s    0:00:00 (xfr#43, to-chk=519/583)
+data/MSDM/dev.tsv
+         32,768   2%   39.41kB/s    0:00:30        1,248,246 100%    1.37MB/s    0:00:00 (xfr#44, to-chk=518/583)
+data/MSDM/dev.wrd
+         32,768  54%   36.00kB/s    0:00:00           60,129 100%   66.05kB/s    0:00:00 (xfr#45, to-chk=517/583)
+data/MSDM/test.data.list
+         32,768   2%   35.91kB/s    0:00:36        1,353,417 100%    1.41MB/s    0:00:00 (xfr#46, to-chk=516/583)
+data/MSDM/test.ltr
+         32,768  60%   34.19kB/s    0:00:00           54,606 100%   56.97kB/s    0:00:00 (xfr#47, to-chk=515/583)
+data/MSDM/test.text
+         32,768  16%   33.61kB/s    0:00:04          196,192 100%  198.96kB/s    0:00:00 (xfr#48, to-chk=514/583)
+data/MSDM/test.tsv
+         32,768   4%   32.75kB/s    0:00:22          294,912  38%  287.14kB/s    0:00:01          771,195 100%  747.88kB/s    0:00:01 (xfr#49, to-chk=513/583)
+data/MSDM/test.wrd
+         32,768  85%    5.21MB/s    0:00:00           38,132 100%    6.06MB/s    0:00:00 (xfr#50, to-chk=512/583)
+data/MSDM/train.data.list
+         32,768   0%    4.46MB/s    0:00:02       12,798,999 100%  158.52MB/s    0:00:00 (xfr#51, to-chk=511/583)
+data/MSDM/train.ltr
+         32,768   6%  340.43kB/s    0:00:01          502,652 100%    2.56MB/s    0:00:00 (xfr#52, to-chk=510/583)
+data/MSDM/train.tsv
+         32,768   0%  153.11kB/s    0:00:47        7,288,558 100%   13.47MB/s    0:00:00 (xfr#53, to-chk=509/583)
+data/MSDM/train.wrd
+         32,768   9%   60.84kB/s    0:00:05          350,275 100%  634.63kB/s    0:00:00 (xfr#54, to-chk=508/583)
+data/SpeechAccessibility/
+data/SpeechAccessibility/dev.data.list
+         32,768   0%   57.35kB/s    0:02:08        7,395,885 100%    8.83MB/s    0:00:00 (xfr#55, to-chk=507/583)
+data/SpeechAccessibility/dev.ltr
+         32,768   1%   39.46kB/s    0:00:58        2,340,168 100%    2.49MB/s    0:00:00 (xfr#56, to-chk=506/583)
+data/SpeechAccessibility/dev.text
+         32,768   1%   35.09kB/s    0:01:00        1,802,240  83%    1.72MB/s    0:00:00        2,154,737 100%    2.04MB/s    0:00:01 (xfr#57, to-chk=505/583)
+data/SpeechAccessibility/dev.tsv
+         32,768   0%    1.20MB/s    0:00:02        3,599,897 100%   23.20MB/s    0:00:00 (xfr#58, to-chk=504/583)
+data/SpeechAccessibility/dev.wrd
+         32,768   2%  197.53kB/s    0:00:05        1,170,094 100%    5.34MB/s    0:00:00 (xfr#59, to-chk=503/583)
+data/SpeechAccessibility/test.data.list
+         32,768   0%  132.78kB/s    0:01:35       12,697,078 100%   38.44MB/s    0:00:00 (xfr#60, to-chk=502/583)
+data/SpeechAccessibility/test.ltr
+         32,768   9%   96.97kB/s    0:00:03          358,417 100%  769.27kB/s    0:00:00 (xfr#61, to-chk=501/583)
+data/SpeechAccessibility/test.ltr-ltr.ltr.idx
+         19,958 100%   41.38kB/s    0:00:00           19,958 100%   41.38kB/s    0:00:00 (xfr#62, to-chk=500/583)
+data/SpeechAccessibility/test.text
+         32,768   0%   64.78kB/s    0:00:57        3,737,957 100%    5.44MB/s    0:00:00 (xfr#63, to-chk=499/583)
+data/SpeechAccessibility/test.tsv
+         32,768  11%   47.76kB/s    0:00:05          282,832 100%  404.99kB/s    0:00:00 (xfr#64, to-chk=498/583)
+data/SpeechAccessibility/test.wrd
+         32,768  18%   45.13kB/s    0:00:03          179,209 100%  244.08kB/s    0:00:00 (xfr#65, to-chk=497/583)
+data/SpeechAccessibility/train.data.list
+         32,768   0%   42.90kB/s    0:07:06       13,172,736  71%   12.56MB/s    0:00:00       18,308,724 100%   16.49MB/s    0:00:01 (xfr#66, to-chk=496/583)
+data/SpeechAccessibility/train.ltr
+         32,768   0%  271.19kB/s    0:00:24        6,573,118 100%   12.49MB/s    0:00:00 (xfr#67, to-chk=495/583)
+data/SpeechAccessibility/train.ltr-ltr.ltr.idx
+         32,768   5%   54.05kB/s    0:00:10          611,114 100%  956.40kB/s    0:00:00 (xfr#68, to-chk=494/583)
+data/SpeechAccessibility/train.text
+         32,768   0%   50.24kB/s    0:01:51        5,641,742 100%    6.55MB/s    0:00:00 (xfr#69, to-chk=493/583)
+data/SpeechAccessibility/train.tsv
+         32,768   0%   38.10kB/s    0:03:48        3,964,928  45%    3.78MB/s    0:00:01        8,725,198 100%    7.18MB/s    0:00:01 (xfr#70, to-chk=492/583)
+data/SpeechAccessibility/train.wrd
+         32,768   0%  184.97kB/s    0:00:17        3,286,590 100%    7.84MB/s    0:00:00 (xfr#71, to-chk=491/583)
+data/SpeechAccessibility/valid.ltr-ltr.ltr.idx
+         32,768  12%   77.11kB/s    0:00:02          255,086 100%  590.30kB/s    0:00:00 (xfr#72, to-chk=490/583)
+data/TROGO/
+data/TROGO/dev.data.list
+         32,768   2%   74.77kB/s    0:00:18        1,424,689 100%    3.00MB/s    0:00:00 (xfr#73, to-chk=489/583)
+data/TROGO/dev.ltr
+         32,768  15%   65.57kB/s    0:00:02          207,866 100%  410.92kB/s    0:00:00 (xfr#74, to-chk=488/583)
+data/TROGO/dev.text
+         32,768  13%   61.30kB/s    0:00:03          240,049 100%  443.14kB/s    0:00:00 (xfr#75, to-chk=487/583)
+data/TROGO/dev.tsv
+         32,768   4%   57.76kB/s    0:00:12          732,607 100%    1.17MB/s    0:00:00 (xfr#76, to-chk=486/583)
+data/TROGO/dev.wrd
+         32,768  31%   52.37kB/s    0:00:01          103,933 100%  165.84kB/s    0:00:00 (xfr#77, to-chk=485/583)
+data/TROGO/test.data.list
+         32,768  18%   51.45kB/s    0:00:02          181,752 100%  280.84kB/s    0:00:00 (xfr#78, to-chk=484/583)
+data/TROGO/test.ltr
+         26,540 100%   40.12kB/s    0:00:00           26,540 100%   40.12kB/s    0:00:00 (xfr#79, to-chk=483/583)
+data/TROGO/test.text
+         30,118 100%   44.77kB/s    0:00:00           30,118 100%   44.70kB/s    0:00:00 (xfr#80, to-chk=482/583)
+data/TROGO/test.tsv
+         32,768  34%   48.34kB/s    0:00:01           93,697 100%  135.96kB/s    0:00:00 (xfr#81, to-chk=481/583)
+data/TROGO/test.wrd
+         13,270 100%   19.11kB/s    0:00:00           13,270 100%   19.11kB/s    0:00:00 (xfr#82, to-chk=480/583)
+data/TROGO/train.data.list
+         32,768  27%   47.13kB/s    0:00:01          120,113 100%  171.74kB/s    0:00:00 (xfr#83, to-chk=479/583)
+data/TROGO/train.ltr
+         16,654 100%   23.13kB/s    0:00:00           16,654 100%   23.13kB/s    0:00:00 (xfr#84, to-chk=478/583)
+data/TROGO/train.tsv
+         32,768  52%   44.82kB/s    0:00:00           62,200 100%   85.07kB/s    0:00:00 (xfr#85, to-chk=477/583)
+data/TROGO/train.wrd
+          8,327 100%   11.31kB/s    0:00:00            8,327 100%   11.31kB/s    0:00:00 (xfr#86, to-chk=476/583)
+data/UASpeech/
+data/UASpeech/dev.data.list
+         32,768   0%   43.24kB/s    0:01:20        3,504,329 100%    3.61MB/s    0:00:00 (xfr#87, to-chk=475/583)
+data/UASpeech/dev.ltr
+         32,768  13%   33.83kB/s    0:00:05          234,122 100%  238.16kB/s    0:00:00 (xfr#88, to-chk=474/583)
+data/UASpeech/dev.text
+         32,768   8%   32.92kB/s    0:00:10          380,400 100%  376.00kB/s    0:00:00 (xfr#89, to-chk=473/583)
+data/UASpeech/dev.tsv
+         32,768   1%   31.81kB/s    0:00:59           65,536   3%   63.56kB/s    0:00:29        1,931,211 100%    1.74MB/s    0:00:01 (xfr#90, to-chk=472/583)
+data/UASpeech/dev.wrd
+         32,768  27%  581.82kB/s    0:00:00          117,061 100%    2.03MB/s    0:00:00 (xfr#91, to-chk=471/583)
+data/UASpeech/test.data.list
+         32,768   0%  444.44kB/s    0:00:10        4,718,032 100%   14.61MB/s    0:00:00 (xfr#92, to-chk=470/583)
+data/UASpeech/test.ltr
+         32,768  10%   96.39kB/s    0:00:02          315,096 100%  879.17kB/s    0:00:00 (xfr#93, to-chk=469/583)
+data/UASpeech/test.text
+         32,768   6%   83.55kB/s    0:00:05          512,086 100%    1.24MB/s    0:00:00 (xfr#94, to-chk=468/583)
+data/UASpeech/test.tsv
+         32,768   1%   77.29kB/s    0:00:33        2,597,432 100%    5.20MB/s    0:00:00 (xfr#95, to-chk=467/583)
+data/UASpeech/test.wrd
+         32,768  20%   66.67kB/s    0:00:01          157,548 100%  313.35kB/s    0:00:00 (xfr#96, to-chk=466/583)
+data/UASpeech/train.data.list
+         32,768   0%   62.62kB/s    0:05:15        9,732,096  49%    9.27MB/s    0:00:01       19,790,907 100%   12.95MB/s    0:00:01 (xfr#97, to-chk=465/583)
+data/UASpeech/train.ltr
+         32,768   2%   69.72kB/s    0:00:18        1,303,690 100%    2.49MB/s    0:00:00 (xfr#98, to-chk=464/583)
+data/UASpeech/train.tsv
+         32,768   0%   62.99kB/s    0:02:52       10,881,684 100%   14.51MB/s    0:00:00 (xfr#99, to-chk=463/583)
+data/UASpeech/train.wrd
+         32,768   5%   39.22kB/s    0:00:15          651,845 100%  759.63kB/s    0:00:00 (xfr#100, to-chk=462/583)
+data/VoiceBank/
+data/VoiceBank/dev.data.list
+         32,768  12%   37.96kB/s    0:00:05          260,139 100%  299.22kB/s    0:00:00 (xfr#101, to-chk=461/583)
+data/VoiceBank/dev.ltr
+         32,768  33%   36.45kB/s    0:00:01           98,914 100%  110.02kB/s    0:00:00 (xfr#102, to-chk=460/583)
+data/VoiceBank/dev.text
+         32,768  35%   35.83kB/s    0:00:01           93,505 100%  102.25kB/s    0:00:00 (xfr#103, to-chk=459/583)
+data/VoiceBank/dev.tsv
+         32,768  32%   35.71kB/s    0:00:01          100,791 100%  108.76kB/s    0:00:00 (xfr#104, to-chk=458/583)
+data/VoiceBank/dev.wrd
+         32,768  44%   34.52kB/s    0:00:01           73,687 100%   77.63kB/s    0:00:00 (xfr#105, to-chk=457/583)
+data/VoiceBank/test.data.list
+         32,768   5%   34.45kB/s    0:00:15          561,342 100%  579.48kB/s    0:00:00 (xfr#106, to-chk=456/583)
+data/VoiceBank/test.ltr
+         32,768  19%   33.13kB/s    0:00:04          169,928 100%  169.68kB/s    0:00:00 (xfr#107, to-chk=455/583)
+data/VoiceBank/test.text
+         32,768  19%   31.87kB/s    0:00:04           65,536  38%   63.75kB/s    0:00:01          171,315 100%  165.32kB/s    0:00:01 (xfr#108, to-chk=454/583)
+data/VoiceBank/test.tsv
+         32,768  13%    1.42MB/s    0:00:00          234,946 100%    7.00MB/s    0:00:00 (xfr#109, to-chk=453/583)
+data/VoiceBank/test.wrd
+         32,768  25%  941.18kB/s    0:00:00          126,276 100%    3.44MB/s    0:00:00 (xfr#110, to-chk=452/583)
+data/VoiceBank/train.data.list
+         32,768   1%  711.11kB/s    0:00:03        2,826,777 100%   35.47MB/s    0:00:00 (xfr#111, to-chk=451/583)
+data/VoiceBank/train.ltr
+         32,768   2%  326.53kB/s    0:00:04        1,361,752 100%    7.87MB/s    0:00:00 (xfr#112, to-chk=450/583)
+data/VoiceBank/train.tsv
+         32,768   3%  191.62kB/s    0:00:04          980,663 100%    5.06MB/s    0:00:00 (xfr#113, to-chk=449/583)
+data/VoiceBank/train.wrd
+         32,768   3%  156.86kB/s    0:00:06        1,016,525 100%    3.49MB/s    0:00:00 (xfr#114, to-chk=448/583)
+dataset/
+dataset/data_load.py
+          1,739 100%    5.98kB/s    0:00:00            1,739 100%    5.98kB/s    0:00:00 (xfr#115, to-chk=447/583)
+local/
+local/Wav2vecTransformer.py
+          3,920 100%   12.39kB/s    0:00:00            3,920 100%   12.39kB/s    0:00:00 (xfr#116, to-chk=446/583)
+local/cer_wer.py
+          1,869 100%    5.89kB/s    0:00:00            1,869 100%    5.89kB/s    0:00:00 (xfr#117, to-chk=445/583)
+local/data_convert.py
+          3,997 100%   11.86kB/s    0:00:00            3,997 100%   11.86kB/s    0:00:00 (xfr#118, to-chk=444/583)
+local/dict_prep.py
+          1,658 100%    4.82kB/s    0:00:00            1,658 100%    4.82kB/s    0:00:00 (xfr#119, to-chk=443/583)
+local/libri_labels.py
+          1,875 100%    5.28kB/s    0:00:00            1,875 100%    5.28kB/s    0:00:00 (xfr#120, to-chk=442/583)
+local/vq-wav2vec_featurize.py
+          7,680 100%   20.49kB/s    0:00:00            7,680 100%   20.49kB/s    0:00:00 (xfr#121, to-chk=441/583)
+local/wav2vec_featurize.py
+          7,020 100%   17.10kB/s    0:00:00            7,020 100%   17.10kB/s    0:00:00 (xfr#122, to-chk=440/583)
+local/wav2vec_fintune.py
+          1,171 100%    2.75kB/s    0:00:00            1,171 100%    2.75kB/s    0:00:00 (xfr#123, to-chk=439/583)
+local/wav2vec_infer.py
+          8,317 100%   19.48kB/s    0:00:00            8,317 100%   19.48kB/s    0:00:00 (xfr#124, to-chk=438/583)
+local/wav2vec_manifest.py
+          2,513 100%    5.86kB/s    0:00:00            2,513 100%    5.86kB/s    0:00:00 (xfr#125, to-chk=437/583)
+local/__pycache__/
+local/__pycache__/cer_wer.cpython-38.pyc
+          1,577 100%    3.33kB/s    0:00:00            1,577 100%    3.33kB/s    0:00:00 (xfr#126, to-chk=435/583)
+log/
+models/
+models/CDSD/
+models/CDSD/added_tokens.json
+             36 100%    0.07kB/s    0:00:00               36 100%    0.07kB/s    0:00:00 (xfr#127, to-chk=428/583)
+models/CDSD/preprocessor_config.json
+            256 100%    0.51kB/s    0:00:00              256 100%    0.51kB/s    0:00:00 (xfr#128, to-chk=427/583)
+models/CDSD/special_tokens_map.json
+            406 100%    0.79kB/s    0:00:00              406 100%    0.79kB/s    0:00:00 (xfr#129, to-chk=426/583)
+models/CDSD/tokenizer_config.json
+            475 100%    0.90kB/s    0:00:00              475 100%    0.90kB/s    0:00:00 (xfr#130, to-chk=425/583)
+models/CDSD/vocab.json
+         32,768   9%   59.81kB/s    0:00:05          351,973 100%  575.75kB/s    0:00:00 (xfr#131, to-chk=424/583)
+models/CDSD/best_model/
+models/CDSD/best_model/added_tokens.json
+             36 100%    0.06kB/s    0:00:00               36 100%    0.06kB/s    0:00:00 (xfr#132, to-chk=422/583)
+models/CDSD/best_model/config.json
+          2,335 100%    3.81kB/s    0:00:00            2,335 100%    3.81kB/s    0:00:00 (xfr#133, to-chk=421/583)
+models/CDSD/best_model/preprocessor_config.json
+            256 100%    0.42kB/s    0:00:00              256 100%    0.42kB/s    0:00:00 (xfr#134, to-chk=420/583)
+models/CDSD/best_model/special_tokens_map.json
+            406 100%    0.66kB/s    0:00:00              406 100%    0.66kB/s    0:00:00 (xfr#135, to-chk=419/583)
+models/CDSD/best_model/tokenizer_config.json
+            475 100%    0.76kB/s    0:00:00              475 100%    0.76kB/s    0:00:00 (xfr#136, to-chk=418/583)
+models/CDSD/best_model/vocab.json
+         32,768   9%   52.46kB/s    0:00:06          351,973 100%  519.22kB/s    0:00:00 (xfr#137, to-chk=417/583)
+models/MSDM/
+models/MSDM/added_tokens.json
+             36 100%    0.05kB/s    0:00:00               36 100%    0.05kB/s    0:00:00 (xfr#138, to-chk=416/583)
+models/MSDM/preprocessor_config.json
+            256 100%    0.35kB/s    0:00:00              256 100%    0.35kB/s    0:00:00 (xfr#139, to-chk=415/583)
+models/MSDM/special_tokens_map.json
+            406 100%    0.54kB/s    0:00:00              406 100%    0.54kB/s    0:00:00 (xfr#140, to-chk=414/583)
+models/MSDM/tokenizer_config.json
+            475 100%    0.62kB/s    0:00:00              475 100%    0.62kB/s    0:00:00 (xfr#141, to-chk=413/583)
+models/MSDM/vocab.json
+         32,768   9%   41.61kB/s    0:00:07          351,973 100%  409.68kB/s    0:00:00 (xfr#142, to-chk=412/583)
+models/MSDM/best_model/
+models/MSDM/best_model/added_tokens.json
+             36 100%    0.04kB/s    0:00:00               36 100%    0.04kB/s    0:00:00 (xfr#143, to-chk=410/583)
+models/MSDM/best_model/config.json
+          2,335 100%    2.61kB/s    0:00:00            2,335 100%    2.61kB/s    0:00:00 (xfr#144, to-chk=409/583)
+models/MSDM/best_model/preprocessor_config.json
+            256 100%    0.28kB/s    0:00:00              256 100%    0.28kB/s    0:00:00 (xfr#145, to-chk=408/583)
+models/MSDM/best_model/special_tokens_map.json
+            406 100%    0.44kB/s    0:00:00              406 100%    0.44kB/s    0:00:00 (xfr#146, to-chk=407/583)
+models/MSDM/best_model/tokenizer_config.json
+            475 100%    0.51kB/s    0:00:00              475 100%    0.51kB/s    0:00:00 (xfr#147, to-chk=406/583)
+models/MSDM/best_model/vocab.json
+         32,768   9%   34.37kB/s    0:00:09          351,973 100%  346.50kB/s    0:00:00 (xfr#148, to-chk=405/583)
+models/SpeechAccessibility/
+models/SpeechAccessibility/best_model -> model_ep90.pt/
+models/SpeechAccessibility/preprocessor_config.json
+            256 100%    0.25kB/s    0:00:00              256 100%    0.25kB/s    0:00:01 (xfr#149, to-chk=403/583)
+models/SpeechAccessibility/special_tokens_map.json
+             96 100%    0.09kB/s    0:00:00               96 100%    0.09kB/s    0:00:01 (xfr#150, to-chk=402/583)
+models/SpeechAccessibility/tokenizer_config.json
+            465 100%    0.43kB/s    0:00:00              465 100%    0.43kB/s    0:00:01 (xfr#151, to-chk=401/583)
+models/SpeechAccessibility/vocab.json
+            369 100%    0.34kB/s    0:00:00              369 100%    0.34kB/s    0:00:01 (xfr#152, to-chk=400/583)
+models/SpeechAccessibility/best_model_bak/
+models/SpeechAccessibility/best_model_bak/config.json
+          2,325 100%    2.09kB/s    0:00:00            2,325 100%    2.09kB/s    0:00:01 (xfr#153, to-chk=398/583)
+models/SpeechAccessibility/best_model_bak/preprocessor_config.json
+            256 100%    0.23kB/s    0:00:00              256 100%    0.23kB/s    0:00:01 (xfr#154, to-chk=397/583)
+models/SpeechAccessibility/best_model_bak/special_tokens_map.json
+             96 100%    0.08kB/s    0:00:00               96 100%    0.08kB/s    0:00:01 (xfr#155, to-chk=396/583)
+models/SpeechAccessibility/best_model_bak/tokenizer_config.json
+            465 100%    0.41kB/s    0:00:00              465 100%    0.41kB/s    0:00:01 (xfr#156, to-chk=395/583)
+models/SpeechAccessibility/best_model_bak/vocab.json
+            369 100%    0.32kB/s    0:00:00              369 100%    0.32kB/s    0:00:01 (xfr#157, to-chk=394/583)
+models/TROGO/
+models/TROGO/preprocessor_config.json
+            256 100%    0.22kB/s    0:00:00              256 100%    0.22kB/s    0:00:01 (xfr#158, to-chk=393/583)
+models/TROGO/special_tokens_map.json
+             96 100%    0.08kB/s    0:00:00               96 100%    0.08kB/s    0:00:01 (xfr#159, to-chk=392/583)
+models/TROGO/tokenizer_config.json
+            465 100%    0.38kB/s    0:00:00              465 100%    0.38kB/s    0:00:01 (xfr#160, to-chk=391/583)
+models/TROGO/vocab.json
+            369 100%    0.30kB/s    0:00:00              369 100%    0.30kB/s    0:00:01 (xfr#161, to-chk=390/583)
+models/TROGO/best_model/
+models/TROGO/best_model/config.json
+          2,325 100%    1.88kB/s    0:00:00            2,325 100%    1.88kB/s    0:00:01 (xfr#162, to-chk=388/583)
+models/TROGO/best_model/preprocessor_config.json
+            256 100%    0.21kB/s    0:00:00              256 100%    0.21kB/s    0:00:01 (xfr#163, to-chk=387/583)
+models/TROGO/best_model/special_tokens_map.json
+             96 100%    0.08kB/s    0:00:00               96 100%    0.08kB/s    0:00:01 (xfr#164, to-chk=386/583)
+models/TROGO/best_model/tokenizer_config.json
+            465 100%    0.36kB/s    0:00:00              465 100%    0.36kB/s    0:00:01 (xfr#165, to-chk=385/583)
+models/TROGO/best_model/vocab.json
+            369 100%    0.29kB/s    0:00:00              369 100%    0.29kB/s    0:00:01 (xfr#166, to-chk=384/583)
+models/UASpeech/
+models/UASpeech/preprocessor_config.json
+            256 100%    0.19kB/s    0:00:00              256 100%    0.19kB/s    0:00:01 (xfr#167, to-chk=383/583)
+models/UASpeech/special_tokens_map.json
+             96 100%    0.07kB/s    0:00:00               96 100%    0.07kB/s    0:00:01 (xfr#168, to-chk=382/583)
+models/UASpeech/tokenizer_config.json
+            465 100%    0.34kB/s    0:00:00              465 100%    0.34kB/s    0:00:01 (xfr#169, to-chk=381/583)
+models/UASpeech/vocab.json
+            369 100%    0.27kB/s    0:00:00              369 100%    0.27kB/s    0:00:01 (xfr#170, to-chk=380/583)
+models/UASpeech/best_model/
+models/UASpeech/best_model/config.json
+          2,325 100%    1.68kB/s    0:00:00            2,325 100%    1.68kB/s    0:00:01 (xfr#171, to-chk=378/583)
+models/UASpeech/best_model/preprocessor_config.json
+            256 100%    0.18kB/s    0:00:00              256 100%    0.18kB/s    0:00:01 (xfr#172, to-chk=377/583)
+models/UASpeech/best_model/special_tokens_map.json
+             96 100%    0.07kB/s    0:00:00               96 100%    0.07kB/s    0:00:01 (xfr#173, to-chk=376/583)
+models/UASpeech/best_model/tokenizer_config.json
+            465 100%    0.33kB/s    0:00:00              465 100%    0.33kB/s    0:00:01 (xfr#174, to-chk=375/583)
+models/UASpeech/best_model/vocab.json
+            369 100%    0.26kB/s    0:00:00              369 100%    0.26kB/s    0:00:01 (xfr#175, to-chk=374/583)
+models/VoiceBank/
+models/VoiceBank/added_tokens.json
+             36 100%    0.02kB/s    0:00:00               36 100%    0.02kB/s    0:00:01 (xfr#176, to-chk=373/583)
+models/VoiceBank/preprocessor_config.json
+            256 100%    0.17kB/s    0:00:00              256 100%    0.17kB/s    0:00:01 (xfr#177, to-chk=372/583)
+models/VoiceBank/special_tokens_map.json
+            406 100%    0.27kB/s    0:00:00              406 100%    0.27kB/s    0:00:01 (xfr#178, to-chk=371/583)
+models/VoiceBank/tokenizer_config.json
+            475 100%    0.32kB/s    0:00:00              475 100%    0.32kB/s    0:00:01 (xfr#179, to-chk=370/583)
+models/VoiceBank/vocab.json
+         32,768   9%   21.49kB/s    0:00:14           65,536  18%   42.98kB/s    0:00:06          351,973 100%  205.21kB/s    0:00:01 (xfr#180, to-chk=369/583)
+models/VoiceBank/best_model/
+models/VoiceBank/best_model/added_tokens.json
+             36 100%    0.19kB/s    0:00:00               36 100%    0.19kB/s    0:00:00 (xfr#181, to-chk=367/583)
+models/VoiceBank/best_model/config.json
+          2,335 100%   12.06kB/s    0:00:00            2,335 100%   12.06kB/s    0:00:00 (xfr#182, to-chk=366/583)
+models/VoiceBank/best_model/preprocessor_config.json
+            256 100%    1.32kB/s    0:00:00              256 100%    1.32kB/s    0:00:00 (xfr#183, to-chk=365/583)
+models/VoiceBank/best_model/special_tokens_map.json
+            406 100%    2.09kB/s    0:00:00              406 100%    2.09kB/s    0:00:00 (xfr#184, to-chk=364/583)
+models/VoiceBank/best_model/tokenizer_config.json
+            475 100%    2.38kB/s    0:00:00              475 100%    2.38kB/s    0:00:00 (xfr#185, to-chk=363/583)
+models/VoiceBank/best_model/vocab.json
+         32,768   9%  161.62kB/s    0:00:01          351,973 100%    1.34MB/s    0:00:00 (xfr#186, to-chk=362/583)
+outputs/
+outputs/2025-02-27/
+outputs/2025-02-27/13-07-01/
+outputs/2025-02-27/13-07-01/.hydra/
+outputs/2025-02-27/13-07-01/.hydra/config.yaml
+          6,062 100%   21.76kB/s    0:00:00            6,062 100%   21.76kB/s    0:00:00 (xfr#187, to-chk=324/583)
+outputs/2025-02-27/13-07-01/.hydra/hydra.yaml
+          2,951 100%   10.33kB/s    0:00:00            2,951 100%   10.33kB/s    0:00:00 (xfr#188, to-chk=323/583)
+outputs/2025-02-27/13-07-01/.hydra/overrides.yaml
+            190 100%    0.65kB/s    0:00:00              190 100%    0.65kB/s    0:00:00 (xfr#189, to-chk=322/583)
+outputs/2025-02-27/13-07-01/checkpoints/
+outputs/2025-02-27/13-08-58/
+outputs/2025-02-27/13-08-58/.hydra/
+outputs/2025-02-27/13-08-58/.hydra/config.yaml
+          6,062 100%   19.41kB/s    0:00:00            6,062 100%   19.41kB/s    0:00:00 (xfr#190, to-chk=319/583)
+outputs/2025-02-27/13-08-58/.hydra/hydra.yaml
+          2,951 100%    9.09kB/s    0:00:00            2,951 100%    9.09kB/s    0:00:00 (xfr#191, to-chk=318/583)
+outputs/2025-02-27/13-08-58/.hydra/overrides.yaml
+            190 100%    0.57kB/s    0:00:00              190 100%    0.57kB/s    0:00:00 (xfr#192, to-chk=317/583)
+outputs/2025-02-27/13-08-58/checkpoints/
+outputs/2025-02-27/13-10-39/
+outputs/2025-02-27/13-10-39/.hydra/
+outputs/2025-02-27/13-10-39/.hydra/config.yaml
+          6,062 100%   17.21kB/s    0:00:00            6,062 100%   17.21kB/s    0:00:00 (xfr#193, to-chk=314/583)
+outputs/2025-02-27/13-10-39/.hydra/hydra.yaml
+          2,951 100%    8.07kB/s    0:00:00            2,951 100%    8.07kB/s    0:00:00 (xfr#194, to-chk=313/583)
+outputs/2025-02-27/13-10-39/.hydra/overrides.yaml
+            190 100%    0.51kB/s    0:00:00              190 100%    0.51kB/s    0:00:00 (xfr#195, to-chk=312/583)
+outputs/2025-02-27/13-10-39/checkpoints/
+outputs/2025-02-27/13-20-38/
+outputs/2025-02-27/13-20-38/.hydra/
+outputs/2025-02-27/13-20-38/.hydra/config.yaml
+          6,062 100%   15.30kB/s    0:00:00            6,062 100%   15.30kB/s    0:00:00 (xfr#196, to-chk=309/583)
+outputs/2025-02-27/13-20-38/.hydra/hydra.yaml
+          2,951 100%    7.39kB/s    0:00:00            2,951 100%    7.37kB/s    0:00:00 (xfr#197, to-chk=308/583)
+outputs/2025-02-27/13-20-38/.hydra/overrides.yaml
+            190 100%    0.47kB/s    0:00:00              190 100%    0.47kB/s    0:00:00 (xfr#198, to-chk=307/583)
+outputs/2025-02-27/13-20-38/checkpoints/
+outputs/2025-02-27/13-21-47/
+outputs/2025-02-27/13-21-47/.hydra/
+outputs/2025-02-27/13-21-47/.hydra/config.yaml
+          6,062 100%   14.37kB/s    0:00:00            6,062 100%   14.37kB/s    0:00:00 (xfr#199, to-chk=304/583)
+outputs/2025-02-27/13-21-47/.hydra/hydra.yaml
+          2,951 100%    6.73kB/s    0:00:00            2,951 100%    6.73kB/s    0:00:00 (xfr#200, to-chk=303/583)
+outputs/2025-02-27/13-21-47/.hydra/overrides.yaml
+            190 100%    0.43kB/s    0:00:00              190 100%    0.43kB/s    0:00:00 (xfr#201, to-chk=302/583)
+outputs/2025-02-27/13-21-47/checkpoints/
+outputs/2025-02-27/13-24-20/
+outputs/2025-02-27/13-24-20/.hydra/
+outputs/2025-02-27/13-24-20/.hydra/config.yaml
+          6,138 100%   13.65kB/s    0:00:00            6,138 100%   13.65kB/s    0:00:00 (xfr#202, to-chk=299/583)
+outputs/2025-02-27/13-24-20/.hydra/hydra.yaml
+          3,103 100%    6.89kB/s    0:00:00            3,103 100%    6.87kB/s    0:00:00 (xfr#203, to-chk=298/583)
+outputs/2025-02-27/13-24-20/.hydra/overrides.yaml
+            266 100%    0.59kB/s    0:00:00              266 100%    0.59kB/s    0:00:00 (xfr#204, to-chk=297/583)
+outputs/2025-02-27/13-24-20/checkpoints/
+outputs/2025-02-27/13-33-22/
+outputs/2025-02-27/13-33-22/.hydra/
+outputs/2025-02-27/13-33-22/.hydra/config.yaml
+          6,138 100%   12.92kB/s    0:00:00            6,138 100%   12.92kB/s    0:00:00 (xfr#205, to-chk=294/583)
+outputs/2025-02-27/13-33-22/.hydra/hydra.yaml
+          3,103 100%    6.42kB/s    0:00:00            3,103 100%    6.42kB/s    0:00:00 (xfr#206, to-chk=293/583)
+outputs/2025-02-27/13-33-22/.hydra/overrides.yaml
+            266 100%    0.53kB/s    0:00:00              266 100%    0.53kB/s    0:00:00 (xfr#207, to-chk=292/583)
+outputs/2025-02-27/13-33-22/checkpoints/
+outputs/2025-02-27/13-36-19/
+outputs/2025-02-27/13-36-19/.hydra/
+outputs/2025-02-27/13-36-19/.hydra/config.yaml
+          6,132 100%   12.10kB/s    0:00:00            6,132 100%   12.10kB/s    0:00:00 (xfr#208, to-chk=289/583)
+outputs/2025-02-27/13-36-19/.hydra/hydra.yaml
+          3,103 100%    6.06kB/s    0:00:00            3,103 100%    6.05kB/s    0:00:00 (xfr#209, to-chk=288/583)
+outputs/2025-02-27/13-36-19/.hydra/overrides.yaml
+            266 100%    0.49kB/s    0:00:00              266 100%    0.49kB/s    0:00:00 (xfr#210, to-chk=287/583)
+outputs/2025-02-27/13-36-19/checkpoints/
+outputs/2025-02-27/13-42-35/
+outputs/2025-02-27/13-42-35/.hydra/
+outputs/2025-02-27/13-42-35/.hydra/config.yaml
+          6,361 100%   11.57kB/s    0:00:00            6,361 100%   11.57kB/s    0:00:00 (xfr#211, to-chk=285/583)
+outputs/2025-02-27/13-42-35/.hydra/hydra.yaml
+          2,653 100%    4.72kB/s    0:00:00            2,653 100%    4.72kB/s    0:00:00 (xfr#212, to-chk=284/583)
+outputs/2025-02-27/13-42-35/.hydra/overrides.yaml
+             45 100%    0.08kB/s    0:00:00               45 100%    0.08kB/s    0:00:00 (xfr#213, to-chk=283/583)
+outputs/2025-02-27/13-43-26/
+outputs/2025-02-27/13-43-26/.hydra/
+outputs/2025-02-27/13-43-26/.hydra/config.yaml
+          6,133 100%   10.34kB/s    0:00:00            6,133 100%   10.34kB/s    0:00:00 (xfr#214, to-chk=280/583)
+outputs/2025-02-27/13-43-26/.hydra/hydra.yaml
+          2,653 100%    4.30kB/s    0:00:00            2,653 100%    4.30kB/s    0:00:00 (xfr#215, to-chk=279/583)
+outputs/2025-02-27/13-43-26/.hydra/overrides.yaml
+             45 100%    0.07kB/s    0:00:00               45 100%    0.07kB/s    0:00:00 (xfr#216, to-chk=278/583)
+outputs/2025-02-27/13-43-26/checkpoints/
+outputs/2025-02-27/13-44-12/
+outputs/2025-02-27/13-44-12/.hydra/
+outputs/2025-02-27/13-44-12/.hydra/config.yaml
+          6,133 100%    9.52kB/s    0:00:00            6,133 100%    9.52kB/s    0:00:00 (xfr#217, to-chk=275/583)
+outputs/2025-02-27/13-44-12/.hydra/hydra.yaml
+          2,653 100%    4.06kB/s    0:00:00            2,653 100%    4.06kB/s    0:00:00 (xfr#218, to-chk=274/583)
+outputs/2025-02-27/13-44-12/.hydra/overrides.yaml
+             45 100%    0.07kB/s    0:00:00               45 100%    0.07kB/s    0:00:00 (xfr#219, to-chk=273/583)
+outputs/2025-02-27/13-44-12/checkpoints/
+outputs/2025-02-27/13-44-38/
+outputs/2025-02-27/13-44-38/.hydra/
+outputs/2025-02-27/13-44-38/.hydra/config.yaml
+          6,133 100%    9.05kB/s    0:00:00            6,133 100%    9.05kB/s    0:00:00 (xfr#220, to-chk=270/583)
+outputs/2025-02-27/13-44-38/.hydra/hydra.yaml
+          2,653 100%    3.88kB/s    0:00:00            2,653 100%    3.87kB/s    0:00:00 (xfr#221, to-chk=269/583)
+outputs/2025-02-27/13-44-38/.hydra/overrides.yaml
+             45 100%    0.07kB/s    0:00:00               45 100%    0.07kB/s    0:00:00 (xfr#222, to-chk=268/583)
+outputs/2025-02-27/13-44-38/checkpoints/
+outputs/2025-02-27/14-02-02/
+outputs/2025-02-27/14-02-02/.hydra/
+outputs/2025-02-27/14-02-02/.hydra/config.yaml
+          6,133 100%    8.71kB/s    0:00:00            6,133 100%    8.71kB/s    0:00:00 (xfr#223, to-chk=265/583)
+outputs/2025-02-27/14-02-02/.hydra/hydra.yaml
+          2,653 100%    3.66kB/s    0:00:00            2,653 100%    3.66kB/s    0:00:00 (xfr#224, to-chk=264/583)
+outputs/2025-02-27/14-02-02/.hydra/overrides.yaml
+             45 100%    0.06kB/s    0:00:00               45 100%    0.06kB/s    0:00:00 (xfr#225, to-chk=263/583)
+outputs/2025-02-27/14-02-02/checkpoints/
+outputs/2025-02-27/14-04-35/
+outputs/2025-02-27/14-04-35/.hydra/
+outputs/2025-02-27/14-04-35/.hydra/config.yaml
+          6,133 100%    8.05kB/s    0:00:00            6,133 100%    8.05kB/s    0:00:00 (xfr#226, to-chk=260/583)
+outputs/2025-02-27/14-04-35/.hydra/hydra.yaml
+          2,653 100%    3.41kB/s    0:00:00            2,653 100%    3.41kB/s    0:00:00 (xfr#227, to-chk=259/583)
+outputs/2025-02-27/14-04-35/.hydra/overrides.yaml
+             45 100%    0.06kB/s    0:00:00               45 100%    0.06kB/s    0:00:00 (xfr#228, to-chk=258/583)
+outputs/2025-02-27/14-04-35/checkpoints/
+outputs/2025-02-27/14-07-47/
+outputs/2025-02-27/14-07-47/.hydra/
+outputs/2025-02-27/14-07-47/.hydra/config.yaml
+          6,133 100%    7.69kB/s    0:00:00            6,133 100%    7.69kB/s    0:00:00 (xfr#229, to-chk=255/583)
+outputs/2025-02-27/14-07-47/.hydra/hydra.yaml
+          2,653 100%    3.25kB/s    0:00:00            2,653 100%    3.25kB/s    0:00:00 (xfr#230, to-chk=254/583)
+outputs/2025-02-27/14-07-47/.hydra/overrides.yaml
+             45 100%    0.05kB/s    0:00:00               45 100%    0.05kB/s    0:00:00 (xfr#231, to-chk=253/583)
+outputs/2025-02-27/14-07-47/checkpoints/
+outputs/2025-02-27/14-11-01/
+outputs/2025-02-27/14-11-01/.hydra/
+outputs/2025-02-27/14-11-01/.hydra/config.yaml
+          6,133 100%    7.48kB/s    0:00:00            6,133 100%    7.47kB/s    0:00:00 (xfr#232, to-chk=250/583)
+outputs/2025-02-27/14-11-01/.hydra/hydra.yaml
+          2,653 100%    3.22kB/s    0:00:00            2,653 100%    3.22kB/s    0:00:00 (xfr#233, to-chk=249/583)
+outputs/2025-02-27/14-11-01/.hydra/overrides.yaml
+             45 100%    0.05kB/s    0:00:00               45 100%    0.05kB/s    0:00:00 (xfr#234, to-chk=248/583)
+outputs/2025-02-27/14-11-01/checkpoints/
+outputs/2025-02-27/14-11-56/
+outputs/2025-02-27/14-11-56/.hydra/
+outputs/2025-02-27/14-11-56/.hydra/config.yaml
+          6,157 100%    7.40kB/s    0:00:00            6,157 100%    7.40kB/s    0:00:00 (xfr#235, to-chk=246/583)
+outputs/2025-02-27/14-11-56/.hydra/hydra.yaml
+          2,653 100%    3.19kB/s    0:00:00            2,653 100%    3.19kB/s    0:00:00 (xfr#236, to-chk=245/583)
+outputs/2025-02-27/14-11-56/.hydra/overrides.yaml
+             45 100%    0.05kB/s    0:00:00               45 100%    0.05kB/s    0:00:00 (xfr#237, to-chk=244/583)
+outputs/2025-02-27/14-12-25/
+outputs/2025-02-27/14-12-25/.hydra/
+outputs/2025-02-27/14-12-25/.hydra/config.yaml
+          6,133 100%    7.19kB/s    0:00:00            6,133 100%    7.19kB/s    0:00:00 (xfr#238, to-chk=241/583)
+outputs/2025-02-27/14-12-25/.hydra/hydra.yaml
+          2,653 100%    3.10kB/s    0:00:00            2,653 100%    3.10kB/s    0:00:00 (xfr#239, to-chk=240/583)
+outputs/2025-02-27/14-12-25/.hydra/overrides.yaml
+             45 100%    0.05kB/s    0:00:00               45 100%    0.05kB/s    0:00:00 (xfr#240, to-chk=239/583)
+outputs/2025-02-27/14-12-25/checkpoints/
+outputs/2025-02-27/14-18-55/
+outputs/2025-02-27/14-18-55/.hydra/
+outputs/2025-02-27/14-18-55/.hydra/config.yaml
+          6,135 100%    7.17kB/s    0:00:00            6,135 100%    7.16kB/s    0:00:00 (xfr#241, to-chk=236/583)
+outputs/2025-02-27/14-18-55/.hydra/hydra.yaml
+          2,653 100%    3.10kB/s    0:00:00            2,653 100%    3.09kB/s    0:00:00 (xfr#242, to-chk=235/583)
+outputs/2025-02-27/14-18-55/.hydra/overrides.yaml
+             45 100%    0.05kB/s    0:00:00               45 100%    0.05kB/s    0:00:00 (xfr#243, to-chk=234/583)
+outputs/2025-02-27/14-18-55/checkpoints/
+outputs/2025-02-27/14-24-01/
+outputs/2025-02-27/14-24-01/.hydra/
+outputs/2025-02-27/14-24-01/.hydra/config.yaml
+          6,133 100%    7.00kB/s    0:00:00            6,133 100%    7.00kB/s    0:00:00 (xfr#244, to-chk=231/583)
+outputs/2025-02-27/14-24-01/.hydra/hydra.yaml
+          2,653 100%    3.02kB/s    0:00:00            2,653 100%    3.02kB/s    0:00:00 (xfr#245, to-chk=230/583)
+outputs/2025-02-27/14-24-01/.hydra/overrides.yaml
+             45 100%    0.05kB/s    0:00:00               45 100%    0.05kB/s    0:00:00 (xfr#246, to-chk=229/583)
+outputs/2025-02-27/14-24-01/checkpoints/
+outputs/2025-02-27/14-36-50/
+outputs/2025-02-27/14-36-50/.hydra/
+outputs/2025-02-27/14-36-50/.hydra/config.yaml
+          6,137 100%    6.78kB/s    0:00:00            6,137 100%    6.78kB/s    0:00:00 (xfr#247, to-chk=226/583)
+outputs/2025-02-27/14-36-50/.hydra/hydra.yaml
+          2,653 100%    2.92kB/s    0:00:00            2,653 100%    2.92kB/s    0:00:00 (xfr#248, to-chk=225/583)
+outputs/2025-02-27/14-36-50/.hydra/overrides.yaml
+             45 100%    0.05kB/s    0:00:00               45 100%    0.05kB/s    0:00:00 (xfr#249, to-chk=224/583)
+outputs/2025-02-27/14-36-50/checkpoints/
+outputs/2025-02-27/14-39-10/
+outputs/2025-02-27/14-39-10/.hydra/
+outputs/2025-02-27/14-39-10/.hydra/config.yaml
+          6,137 100%    6.59kB/s    0:00:00            6,137 100%    6.59kB/s    0:00:00 (xfr#250, to-chk=221/583)
+outputs/2025-02-27/14-39-10/.hydra/hydra.yaml
+          2,653 100%    2.83kB/s    0:00:00            2,653 100%    2.83kB/s    0:00:00 (xfr#251, to-chk=220/583)
+outputs/2025-02-27/14-39-10/.hydra/overrides.yaml
+             45 100%    0.05kB/s    0:00:00               45 100%    0.05kB/s    0:00:00 (xfr#252, to-chk=219/583)
+outputs/2025-02-27/14-39-10/checkpoints/
+outputs/2025-02-27/14-41-51/
+outputs/2025-02-27/14-41-51/.hydra/
+outputs/2025-02-27/14-41-51/.hydra/config.yaml
+          6,133 100%    6.32kB/s    0:00:00            6,133 100%    6.32kB/s    0:00:00 (xfr#253, to-chk=216/583)
+outputs/2025-02-27/14-41-51/.hydra/hydra.yaml
+          2,653 100%    2.70kB/s    0:00:00            2,653 100%    2.70kB/s    0:00:00 (xfr#254, to-chk=215/583)
+outputs/2025-02-27/14-41-51/.hydra/overrides.yaml
+             45 100%    0.05kB/s    0:00:00               45 100%    0.05kB/s    0:00:00 (xfr#255, to-chk=214/583)
+outputs/2025-02-27/14-41-51/checkpoints/
+outputs/2025-02-27/14-42-47/
+outputs/2025-02-27/14-42-47/.hydra/
+outputs/2025-02-27/14-42-47/.hydra/config.yaml
+          6,133 100%    6.06kB/s    0:00:00            6,133 100%    6.06kB/s    0:00:00 (xfr#256, to-chk=211/583)
+outputs/2025-02-27/14-42-47/.hydra/hydra.yaml
+          2,653 100%    2.53kB/s    0:00:00            2,653 100%    2.53kB/s    0:00:01 (xfr#257, to-chk=210/583)
+outputs/2025-02-27/14-42-47/.hydra/overrides.yaml
+             45 100%    0.04kB/s    0:00:00               45 100%    0.04kB/s    0:00:01 (xfr#258, to-chk=209/583)
+outputs/2025-02-27/14-42-47/checkpoints/
+outputs/2025-02-27/14-44-35/
+outputs/2025-02-27/14-44-35/.hydra/
+outputs/2025-02-27/14-44-35/.hydra/config.yaml
+          6,133 100%    5.78kB/s    0:00:00            6,133 100%    5.78kB/s    0:00:01 (xfr#259, to-chk=206/583)
+outputs/2025-02-27/14-44-35/.hydra/hydra.yaml
+          2,653 100%    2.50kB/s    0:00:00            2,653 100%    2.50kB/s    0:00:01 (xfr#260, to-chk=205/583)
+outputs/2025-02-27/14-44-35/.hydra/overrides.yaml
+             45 100%    0.04kB/s    0:00:00               45 100%    0.04kB/s    0:00:01 (xfr#261, to-chk=204/583)
+outputs/2025-02-27/14-44-35/checkpoints/
+outputs/2025-02-27/14-47-52/
+outputs/2025-02-27/14-47-52/.hydra/
+outputs/2025-02-27/14-47-52/.hydra/config.yaml
+          6,133 100%    5.70kB/s    0:00:00            6,133 100%    5.70kB/s    0:00:01 (xfr#262, to-chk=201/583)
+outputs/2025-02-27/14-47-52/.hydra/hydra.yaml
+          2,653 100%    2.46kB/s    0:00:00            2,653 100%    2.45kB/s    0:00:01 (xfr#263, to-chk=200/583)
+outputs/2025-02-27/14-47-52/.hydra/overrides.yaml
+             45 100%    0.04kB/s    0:00:00               45 100%    0.04kB/s    0:00:01 (xfr#264, to-chk=199/583)
+outputs/2025-02-27/14-47-52/checkpoints/
+outputs/2025-02-27/14-54-12/
+outputs/2025-02-27/14-54-12/.hydra/
+outputs/2025-02-27/14-54-12/.hydra/config.yaml
+          6,137 100%    5.64kB/s    0:00:00            6,137 100%    5.64kB/s    0:00:01 (xfr#265, to-chk=196/583)
+outputs/2025-02-27/14-54-12/.hydra/hydra.yaml
+          2,653 100%    2.44kB/s    0:00:00            2,653 100%    2.43kB/s    0:00:01 (xfr#266, to-chk=195/583)
+outputs/2025-02-27/14-54-12/.hydra/overrides.yaml
+             45 100%    0.04kB/s    0:00:00               45 100%    0.04kB/s    0:00:01 (xfr#267, to-chk=194/583)
+outputs/2025-02-27/14-54-12/checkpoints/
+outputs/2025-02-27/14-55-04/
+outputs/2025-02-27/14-55-04/.hydra/
+outputs/2025-02-27/14-55-04/.hydra/config.yaml
+          6,137 100%    5.50kB/s    0:00:00            6,137 100%    5.50kB/s    0:00:01 (xfr#268, to-chk=191/583)
+outputs/2025-02-27/14-55-04/.hydra/hydra.yaml
+          2,653 100%    2.36kB/s    0:00:00            2,653 100%    2.36kB/s    0:00:01 (xfr#269, to-chk=190/583)
+outputs/2025-02-27/14-55-04/.hydra/overrides.yaml
+             45 100%    0.04kB/s    0:00:00               45 100%    0.04kB/s    0:00:01 (xfr#270, to-chk=189/583)
+outputs/2025-02-27/14-55-04/checkpoints/
+outputs/2025-02-27/15-09-59/
+outputs/2025-02-27/15-09-59/.hydra/
+outputs/2025-02-27/15-09-59/.hydra/config.yaml
+          6,137 100%    5.13kB/s    0:00:00            6,137 100%    5.13kB/s    0:00:01 (xfr#271, to-chk=186/583)
+outputs/2025-02-27/15-09-59/.hydra/hydra.yaml
+          2,653 100%    2.18kB/s    0:00:00            2,653 100%    2.18kB/s    0:00:01 (xfr#272, to-chk=185/583)
+outputs/2025-02-27/15-09-59/.hydra/overrides.yaml
+             45 100%    0.04kB/s    0:00:00               45 100%    0.04kB/s    0:00:01 (xfr#273, to-chk=184/583)
+outputs/2025-02-27/15-09-59/checkpoints/
+outputs/2025-02-27/15-10-14/
+outputs/2025-02-27/15-10-14/.hydra/
+outputs/2025-02-27/15-10-14/.hydra/config.yaml
+          6,133 100%    4.90kB/s    0:00:00            6,133 100%    4.90kB/s    0:00:01 (xfr#274, to-chk=181/583)
+outputs/2025-02-27/15-10-14/.hydra/hydra.yaml
+          2,653 100%    2.12kB/s    0:00:00            2,653 100%    2.11kB/s    0:00:01 (xfr#275, to-chk=180/583)
+outputs/2025-02-27/15-10-14/.hydra/overrides.yaml
+             45 100%    0.04kB/s    0:00:00               45 100%    0.04kB/s    0:00:01 (xfr#276, to-chk=179/583)
+outputs/2025-02-27/15-10-14/checkpoints/
+outputs/2025-02-27/15-16-17/
+outputs/2025-02-27/15-16-17/.hydra/
+outputs/2025-02-27/15-16-17/.hydra/config.yaml
+          6,133 100%    4.87kB/s    0:00:00            6,133 100%    4.86kB/s    0:00:01 (xfr#277, to-chk=176/583)
+outputs/2025-02-27/15-16-17/.hydra/hydra.yaml
+          2,853 100%    2.26kB/s    0:00:00            2,853 100%    2.26kB/s    0:00:01 (xfr#278, to-chk=175/583)
+outputs/2025-02-27/15-16-17/.hydra/overrides.yaml
+            144 100%    0.11kB/s    0:00:00              144 100%    0.11kB/s    0:00:01 (xfr#279, to-chk=174/583)
+outputs/2025-02-27/15-16-17/checkpoints/
+outputs/2025-02-27/15-31-24/
+outputs/2025-02-27/15-31-24/.hydra/
+outputs/2025-02-27/15-31-24/.hydra/config.yaml
+          6,133 100%    4.80kB/s    0:00:00            6,133 100%    4.80kB/s    0:00:01 (xfr#280, to-chk=171/583)
+outputs/2025-02-27/15-31-24/.hydra/hydra.yaml
+          2,853 100%    2.20kB/s    0:00:00            2,853 100%    2.20kB/s    0:00:01 (xfr#281, to-chk=170/583)
+outputs/2025-02-27/15-31-24/.hydra/overrides.yaml
+            144 100%    0.11kB/s    0:00:00              144 100%    0.11kB/s    0:00:01 (xfr#282, to-chk=169/583)
+outputs/2025-02-27/15-31-24/checkpoints/
+outputs/2025-02-27/15-37-24/
+outputs/2025-02-27/15-37-24/.hydra/
+outputs/2025-02-27/15-37-24/.hydra/config.yaml
+          6,133 100%    4.73kB/s    0:00:00            6,133 100%    4.73kB/s    0:00:01 (xfr#283, to-chk=166/583)
+outputs/2025-02-27/15-37-24/.hydra/hydra.yaml
+          2,853 100%    2.20kB/s    0:00:00            2,853 100%    2.20kB/s    0:00:01 (xfr#284, to-chk=165/583)
+outputs/2025-02-27/15-37-24/.hydra/overrides.yaml
+            144 100%    0.11kB/s    0:00:00              144 100%    0.11kB/s    0:00:01 (xfr#285, to-chk=164/583)
+outputs/2025-02-27/15-37-24/checkpoints/
+outputs/2025-05-16/
+outputs/2025-05-16/08-24-35/
+outputs/2025-05-16/08-24-35/.hydra/
+outputs/2025-05-16/08-24-35/.hydra/config.yaml
+          6,133 100%    4.64kB/s    0:00:00            6,133 100%    4.64kB/s    0:00:01 (xfr#286, to-chk=159/583)
+outputs/2025-05-16/08-24-35/.hydra/hydra.yaml
+          2,853 100%    2.15kB/s    0:00:00            2,853 100%    2.15kB/s    0:00:01 (xfr#287, to-chk=158/583)
+outputs/2025-05-16/08-24-35/.hydra/overrides.yaml
+            144 100%    0.11kB/s    0:00:00              144 100%    0.11kB/s    0:00:01 (xfr#288, to-chk=157/583)
+outputs/2025-05-16/08-24-35/checkpoints/
+outputs/2025-05-16/08-29-14/
+outputs/2025-05-16/08-29-14/.hydra/
+outputs/2025-05-16/08-29-14/.hydra/config.yaml
+          6,133 100%    4.53kB/s    0:00:00            6,133 100%    4.53kB/s    0:00:01 (xfr#289, to-chk=154/583)
+outputs/2025-05-16/08-29-14/.hydra/hydra.yaml
+          2,853 100%    2.07kB/s    0:00:00            2,853 100%    2.07kB/s    0:00:01 (xfr#290, to-chk=153/583)
+outputs/2025-05-16/08-29-14/.hydra/overrides.yaml
+            144 100%    0.10kB/s    0:00:00              144 100%    0.10kB/s    0:00:01 (xfr#291, to-chk=152/583)
+outputs/2025-05-16/08-29-14/checkpoints/
+results/
+results/finetune/
+results/finetune/CDSD/
+results/finetune/CDSD/dev.wav2vec2.text
+         32,768  23%   22.68kB/s    0:00:04           65,536  47%   40.53kB/s    0:00:01          139,058 100%   81.51kB/s    0:00:01 (xfr#292, to-chk=143/583)
+results/finetune/CDSD/dev.wer
+            110 100%    1.12kB/s    0:00:00              110 100%    1.12kB/s    0:00:00 (xfr#293, to-chk=142/583)
+results/finetune/CDSD/test.wav2vec2.text
+         32,768  20%  326.53kB/s    0:00:00          161,341 100%    1.24MB/s    0:00:00 (xfr#294, to-chk=141/583)
+results/finetune/CDSD/test.wer
+            109 100%    0.78kB/s    0:00:00              109 100%    0.78kB/s    0:00:00 (xfr#295, to-chk=140/583)
+results/finetune/MSDM/
+results/finetune/MSDM/dev.wav2vec2.text
+         32,768  10%  207.79kB/s    0:00:01          313,626 100%    1.65MB/s    0:00:00 (xfr#296, to-chk=139/583)
+results/finetune/MSDM/dev.wer
+            107 100%    0.51kB/s    0:00:00              107 100%    0.51kB/s    0:00:00 (xfr#297, to-chk=138/583)
+results/finetune/MSDM/test.wav2vec2.text
+         32,768  16%  146.79kB/s    0:00:01          193,714 100%  775.30kB/s    0:00:00 (xfr#298, to-chk=137/583)
+results/finetune/MSDM/test.wer
+            106 100%    0.34kB/s    0:00:00              106 100%    0.34kB/s    0:00:00 (xfr#299, to-chk=136/583)
+results/finetune/SpeechAccessibility/
+results/finetune/SpeechAccessibility/dev.wav2vec2.text
+         32,768   1%   97.56kB/s    0:00:21        2,128,084 100%    4.25MB/s    0:00:00 (xfr#300, to-chk=135/583)
+results/finetune/SpeechAccessibility/dev.wer
+            114 100%    0.22kB/s    0:00:00              114 100%    0.22kB/s    0:00:00 (xfr#301, to-chk=134/583)
+results/finetune/SpeechAccessibility/test.wav2vec2.text
+         32,768   0%   61.42kB/s    0:00:59        3,683,640 100%    4.52MB/s    0:00:00 (xfr#302, to-chk=133/583)
+results/finetune/SpeechAccessibility/test.wer
+            115 100%    0.14kB/s    0:00:00              115 100%    0.14kB/s    0:00:00 (xfr#303, to-chk=132/583)
+results/finetune/TROGO/
+results/finetune/TROGO/dev.wav2vec2.text
+         32,768  14%   39.17kB/s    0:00:04          219,571 100%  253.46kB/s    0:00:00 (xfr#304, to-chk=131/583)
+results/finetune/TROGO/dev.wer
+            108 100%    0.12kB/s    0:00:00              108 100%    0.12kB/s    0:00:00 (xfr#305, to-chk=130/583)
+results/finetune/TROGO/test.wav2vec2.text
+         24,709 100%   27.08kB/s    0:00:00           24,709 100%   27.08kB/s    0:00:00 (xfr#306, to-chk=129/583)
+results/finetune/TROGO/test.wer
+            104 100%    0.11kB/s    0:00:00              104 100%    0.11kB/s    0:00:00 (xfr#307, to-chk=128/583)
+results/finetune/UASpeech/
+results/finetune/UASpeech/dev.wav2vec2.text
+         32,768   8%   34.59kB/s    0:00:09          371,221 100%  380.00kB/s    0:00:00 (xfr#308, to-chk=127/583)
+results/finetune/UASpeech/dev.wer
+            106 100%    0.11kB/s    0:00:00              106 100%    0.11kB/s    0:00:00 (xfr#309, to-chk=126/583)
+results/finetune/UASpeech/test.wav2vec2.text
+         32,768   6%   32.10kB/s    0:00:14          131,072  26%  125.24kB/s    0:00:02          502,890 100%  479.13kB/s    0:00:01 (xfr#310, to-chk=125/583)
+results/finetune/UASpeech/test.wer
+            106 100%    4.93kB/s    0:00:00              106 100%    4.93kB/s    0:00:00 (xfr#311, to-chk=124/583)
+results/finetune/VoiceBank/
+results/finetune/VoiceBank/dev.wav2vec2.text
+         32,768  35%    1.25MB/s    0:00:00           92,345 100%    2.94MB/s    0:00:00 (xfr#312, to-chk=123/583)
+results/finetune/VoiceBank/dev.wer
+            109 100%    3.43kB/s    0:00:00              109 100%    3.43kB/s    0:00:00 (xfr#313, to-chk=122/583)
+results/finetune/VoiceBank/test.wav2vec2.text
+         32,768  19%    1.01MB/s    0:00:00          170,187 100%    1.93MB/s    0:00:00 (xfr#314, to-chk=121/583)
+results/finetune/VoiceBank/test.wer
+            109 100%    1.06kB/s    0:00:00              109 100%    1.06kB/s    0:00:00 (xfr#315, to-chk=120/583)
+results/nofinetune/
+results/nofinetune/CDSD/
+results/nofinetune/CDSD/dev.wav2vec2.text
+         32,768  23%  301.89kB/s    0:00:00          140,663 100%    1.02MB/s    0:00:00 (xfr#316, to-chk=113/583)
+results/nofinetune/CDSD/dev.wer
+            109 100%    0.74kB/s    0:00:00              109 100%    0.74kB/s    0:00:00 (xfr#317, to-chk=112/583)
+results/nofinetune/CDSD/test.wav2vec2.text
+         32,768  20%  220.69kB/s    0:00:00          163,103 100%  942.49kB/s    0:00:00 (xfr#318, to-chk=111/583)
+results/nofinetune/CDSD/test.wer
+            109 100%    0.56kB/s    0:00:00              109 100%    0.56kB/s    0:00:00 (xfr#319, to-chk=110/583)
+results/nofinetune/MSDM/
+results/nofinetune/MSDM/dev.wav2vec2.text
+         32,768  10%  143.50kB/s    0:00:01          317,696 100%    1.18MB/s    0:00:00 (xfr#320, to-chk=109/583)
+results/nofinetune/MSDM/dev.wer
+            108 100%    0.38kB/s    0:00:00              108 100%    0.38kB/s    0:00:00 (xfr#321, to-chk=108/583)
+results/nofinetune/MSDM/test.wav2vec2.text
+         32,768  16%  107.74kB/s    0:00:01          195,127 100%  593.63kB/s    0:00:00 (xfr#322, to-chk=107/583)
+results/nofinetune/MSDM/test.wer
+            108 100%    0.32kB/s    0:00:00              108 100%    0.32kB/s    0:00:00 (xfr#323, to-chk=106/583)
+results/nofinetune/SpeechAccessibility/
+results/nofinetune/SpeechAccessibility/dev.wav2vec2.text
+         32,768   1%   91.43kB/s    0:00:22        2,095,301 100%    4.08MB/s    0:00:00 (xfr#324, to-chk=105/583)
+results/nofinetune/SpeechAccessibility/dev.wer
+            115 100%    0.22kB/s    0:00:00              115 100%    0.22kB/s    0:00:00 (xfr#325, to-chk=104/583)
+results/nofinetune/SpeechAccessibility/test.wav2vec2.text
+         32,768  13%   60.72kB/s    0:00:03          237,333 100%  417.60kB/s    0:00:00 (xfr#326, to-chk=103/583)
+results/nofinetune/SpeechAccessibility/test.wer
+            114 100%    0.19kB/s    0:00:00              114 100%    0.19kB/s    0:00:00 (xfr#327, to-chk=102/583)
+results/nofinetune/TROGO/
+results/nofinetune/TROGO/dev.wav2vec2.text
+         32,768  13%   51.70kB/s    0:00:04          242,720 100%  366.92kB/s    0:00:00 (xfr#328, to-chk=101/583)
+results/nofinetune/TROGO/dev.wer
+            109 100%    0.16kB/s    0:00:00              109 100%    0.16kB/s    0:00:00 (xfr#329, to-chk=100/583)
+results/nofinetune/TROGO/test.wav2vec2.text
+         30,329 100%   44.14kB/s    0:00:00           30,329 100%   44.14kB/s    0:00:00 (xfr#330, to-chk=99/583)
+results/nofinetune/TROGO/test.wer
+            104 100%    0.15kB/s    0:00:00              104 100%    0.15kB/s    0:00:00 (xfr#331, to-chk=98/583)
+results/nofinetune/UASpeech/
+results/nofinetune/UASpeech/dev.wav2vec2.text
+         32,768   8%   43.36kB/s    0:00:08          406,846 100%  515.99kB/s    0:00:00 (xfr#332, to-chk=97/583)
+results/nofinetune/UASpeech/dev.wer
+            109 100%    0.14kB/s    0:00:00              109 100%    0.14kB/s    0:00:00 (xfr#333, to-chk=96/583)
+results/nofinetune/UASpeech/test.wav2vec2.text
+         32,768   6%   39.22kB/s    0:00:12          533,386 100%  604.27kB/s    0:00:00 (xfr#334, to-chk=95/583)
+results/nofinetune/UASpeech/test.wer
+            107 100%    0.12kB/s    0:00:00              107 100%    0.12kB/s    0:00:00 (xfr#335, to-chk=94/583)
+results/nofinetune/VoiceBank/
+results/nofinetune/VoiceBank/dev.wav2vec2.text
+         32,768  38%   36.61kB/s    0:00:01           84,995 100%   94.97kB/s    0:00:00 (xfr#336, to-chk=93/583)
+results/nofinetune/VoiceBank/dev.wer
+            108 100%    0.12kB/s    0:00:00              108 100%    0.12kB/s    0:00:00 (xfr#337, to-chk=92/583)
+results/nofinetune/VoiceBank/test.wav2vec2.text
+         32,768  20%   36.08kB/s    0:00:03          156,218 100%  163.69kB/s    0:00:00 (xfr#338, to-chk=91/583)
+results/nofinetune/VoiceBank/test.wer
+            109 100%    0.11kB/s    0:00:00              109 100%    0.11kB/s    0:00:00 (xfr#339, to-chk=90/583)
+scripts/
+scripts/binarize_manifest.sh
+          1,105 100%    1.13kB/s    0:00:00            1,105 100%    1.13kB/s    0:00:00 (xfr#340, to-chk=89/583)
+unsupervised/
+unsupervised/README.md
+          7,834 100%    7.80kB/s    0:00:00            7,834 100%    7.80kB/s    0:00:00 (xfr#341, to-chk=88/583)
+unsupervised/__init__.py
+              0 100%    0.00kB/s    0:00:00 (xfr#342, to-chk=87/583)
+unsupervised/w2vu_generate.py
+         22,454 100%   21.82kB/s    0:00:00           22,454 100%   21.82kB/s    0:00:01 (xfr#343, to-chk=86/583)
+unsupervised/config/
+unsupervised/config/finetuning/
+unsupervised/config/finetuning/w2v_finetune.yaml
+          1,047 100%    0.99kB/s    0:00:00            1,047 100%    0.99kB/s    0:00:01 (xfr#344, to-chk=74/583)
+unsupervised/config/gan/
+unsupervised/config/gan/w2vu.yaml
+          2,182 100%    2.02kB/s    0:00:00            2,182 100%    2.02kB/s    0:00:01 (xfr#345, to-chk=73/583)
+unsupervised/config/gan/w2vu2.yaml
+          3,176 100%    2.93kB/s    0:00:00            3,176 100%    2.93kB/s    0:00:01 (xfr#346, to-chk=72/583)
+unsupervised/config/generate/
+unsupervised/config/generate/viterbi.yaml
+            303 100%    0.28kB/s    0:00:00              303 100%    0.28kB/s    0:00:01 (xfr#347, to-chk=71/583)
+unsupervised/config/timit_matched/
+unsupervised/config/timit_matched/test.uid
+          2,321 100%    2.12kB/s    0:00:00            2,321 100%    2.12kB/s    0:00:01 (xfr#348, to-chk=70/583)
+unsupervised/config/timit_matched/train.uid
+         32,768  73%   29.77kB/s    0:00:00           44,833 100%   40.69kB/s    0:00:00           44,833 100%   40.69kB/s    0:00:01 (xfr#349, to-chk=69/583)
+unsupervised/config/timit_matched/train_text.uid
+         32,768  73%   31.25MB/s    0:00:00           44,833 100%   21.38MB/s    0:00:00 (xfr#350, to-chk=68/583)
+unsupervised/config/timit_matched/valid.uid
+          4,839 100%  945.12kB/s    0:00:00            4,839 100%  945.12kB/s    0:00:00 (xfr#351, to-chk=67/583)
+unsupervised/config/timit_unmatched/
+unsupervised/config/timit_unmatched/test.uid
+         19,622 100%  467.37kB/s    0:00:00           19,622 100%  467.37kB/s    0:00:00 (xfr#352, to-chk=66/583)
+unsupervised/config/timit_unmatched/train.uid
+         32,768  93%  680.85kB/s    0:00:00           34,958 100%  726.35kB/s    0:00:00 (xfr#353, to-chk=65/583)
+unsupervised/config/timit_unmatched/train_text.uid
+         11,543 100%  144.52kB/s    0:00:00           11,543 100%  144.52kB/s    0:00:00 (xfr#354, to-chk=64/583)
+unsupervised/config/timit_unmatched/valid.uid
+          7,572 100%   90.18kB/s    0:00:00            7,572 100%   90.18kB/s    0:00:00 (xfr#355, to-chk=63/583)
+unsupervised/data/
+unsupervised/data/__init__.py
+            370 100%    4.15kB/s    0:00:00              370 100%    4.15kB/s    0:00:00 (xfr#356, to-chk=62/583)
+unsupervised/data/extracted_features_dataset.py
+          5,038 100%   55.91kB/s    0:00:00            5,038 100%   55.91kB/s    0:00:00 (xfr#357, to-chk=61/583)
+unsupervised/data/random_input_dataset.py
+          1,905 100%   20.67kB/s    0:00:00            1,905 100%   20.67kB/s    0:00:00 (xfr#358, to-chk=60/583)
+unsupervised/kaldi_self_train/
+unsupervised/kaldi_self_train/README.md
+          2,700 100%   26.37kB/s    0:00:00            2,700 100%   26.11kB/s    0:00:00 (xfr#359, to-chk=59/583)
+unsupervised/kaldi_self_train/st/
+unsupervised/kaldi_self_train/st/cmd.sh
+            898 100%    8.12kB/s    0:00:00              898 100%    8.12kB/s    0:00:00 (xfr#360, to-chk=57/583)
+unsupervised/kaldi_self_train/st/decode_phone.sh
+          1,015 100%    8.85kB/s    0:00:00            1,015 100%    8.77kB/s    0:00:00 (xfr#361, to-chk=56/583)
+unsupervised/kaldi_self_train/st/decode_word_step1.sh
+          1,592 100%   13.06kB/s    0:00:00            1,592 100%   12.96kB/s    0:00:00 (xfr#362, to-chk=55/583)
+unsupervised/kaldi_self_train/st/decode_word_step2.sh
+            886 100%    7.09kB/s    0:00:00              886 100%    7.09kB/s    0:00:00 (xfr#363, to-chk=54/583)
+unsupervised/kaldi_self_train/st/path.sh
+            311 100%    2.45kB/s    0:00:00              311 100%    2.41kB/s    0:00:00 (xfr#364, to-chk=53/583)
+unsupervised/kaldi_self_train/st/steps -> ../../wsj/s5/steps
+unsupervised/kaldi_self_train/st/train.sh
+          1,482 100%   11.13kB/s    0:00:00            1,482 100%   11.13kB/s    0:00:00 (xfr#365, to-chk=51/583)
+unsupervised/kaldi_self_train/st/utils -> ../../wsj/s5/utils
+unsupervised/kaldi_self_train/st/local/
+unsupervised/kaldi_self_train/st/local/copy_aligned_text.py
+             93 100%    0.69kB/s    0:00:00               93 100%    0.68kB/s    0:00:00 (xfr#366, to-chk=47/583)
+unsupervised/kaldi_self_train/st/local/decode.sh
+            631 100%    4.50kB/s    0:00:00              631 100%    4.50kB/s    0:00:00 (xfr#367, to-chk=46/583)
+unsupervised/kaldi_self_train/st/local/prepare_data_from_w2v.py
+          2,137 100%   14.59kB/s    0:00:00            2,137 100%   14.59kB/s    0:00:00 (xfr#368, to-chk=45/583)
+unsupervised/kaldi_self_train/st/local/prepare_lang.sh
+            890 100%    5.95kB/s    0:00:00              890 100%    5.91kB/s    0:00:00 (xfr#369, to-chk=44/583)
+unsupervised/kaldi_self_train/st/local/prepare_lang_word.sh
+            826 100%    5.38kB/s    0:00:00              826 100%    5.38kB/s    0:00:00 (xfr#370, to-chk=43/583)
+unsupervised/kaldi_self_train/st/local/prepare_lm.sh
+            690 100%    4.40kB/s    0:00:00              690 100%    4.32kB/s    0:00:00 (xfr#371, to-chk=42/583)
+unsupervised/kaldi_self_train/st/local/score.sh
+          2,108 100%   13.11kB/s    0:00:00            2,108 100%   13.03kB/s    0:00:00 (xfr#372, to-chk=41/583)
+unsupervised/kaldi_self_train/st/local/show_wer.sh
+          1,445 100%    8.82kB/s    0:00:00            1,445 100%    8.76kB/s    0:00:00 (xfr#373, to-chk=40/583)
+unsupervised/kaldi_self_train/st/local/train_subset_lgbeam.sh
+          3,807 100%   22.26kB/s    0:00:00            3,807 100%   22.13kB/s    0:00:00 (xfr#374, to-chk=39/583)
+unsupervised/kaldi_self_train/st/local/unsup_select.py
+          4,767 100%   27.55kB/s    0:00:00            4,767 100%   27.22kB/s    0:00:00 (xfr#375, to-chk=38/583)
+unsupervised/kaldi_self_train/st/local/unsup_select_decode.sh
+            956 100%    5.40kB/s    0:00:00              956 100%    5.37kB/s    0:00:00 (xfr#376, to-chk=37/583)
+unsupervised/kaldi_self_train/st/local/unsup_select_decode_word.sh
+            984 100%    5.31kB/s    0:00:00              984 100%    5.28kB/s    0:00:00 (xfr#377, to-chk=36/583)
+unsupervised/kaldi_self_train/st/steps_gan/
+unsupervised/kaldi_self_train/st/steps_gan/train_deltas.sh
+          6,803 100%   36.11kB/s    0:00:00            6,803 100%   35.91kB/s    0:00:00 (xfr#378, to-chk=35/583)
+unsupervised/kaldi_self_train/st/steps_gan/train_lda_mllt.sh
+          9,363 100%   47.62kB/s    0:00:00            9,363 100%   47.38kB/s    0:00:00 (xfr#379, to-chk=34/583)
+unsupervised/kaldi_self_train/st/steps_gan/train_sat.sh
+         11,595 100%   57.77kB/s    0:00:00           11,595 100%   57.77kB/s    0:00:00 (xfr#380, to-chk=33/583)
+unsupervised/models/
+unsupervised/models/__init__.py
+            244 100%    1.00kB/s    0:00:00              244 100%    1.00kB/s    0:00:00 (xfr#381, to-chk=32/583)
+unsupervised/models/wav2vec_u.py
+         22,945 100%   93.36kB/s    0:00:00           22,945 100%   92.98kB/s    0:00:00 (xfr#382, to-chk=31/583)
+unsupervised/scripts/
+unsupervised/scripts/apply_pca.py
+          2,496 100%   10.07kB/s    0:00:00            2,496 100%   10.03kB/s    0:00:00 (xfr#383, to-chk=30/583)
+unsupervised/scripts/copy_labels.py
+            298 100%    1.18kB/s    0:00:00              298 100%    1.18kB/s    0:00:00 (xfr#384, to-chk=29/583)
+unsupervised/scripts/filter_lexicon.py
+            939 100%    3.67kB/s    0:00:00              939 100%    3.67kB/s    0:00:00 (xfr#385, to-chk=28/583)
+unsupervised/scripts/filter_tsv.py
+            955 100%    3.70kB/s    0:00:00              955 100%    3.69kB/s    0:00:00 (xfr#386, to-chk=27/583)
+unsupervised/scripts/g2p_wrd_to_phn.py
+          1,104 100%    4.21kB/s    0:00:00            1,104 100%    4.21kB/s    0:00:00 (xfr#387, to-chk=26/583)
+unsupervised/scripts/ltr_to_wrd.py
+            359 100%    1.36kB/s    0:00:00              359 100%    1.34kB/s    0:00:00 (xfr#388, to-chk=25/583)
+unsupervised/scripts/mean_pool.py
+          3,187 100%   11.70kB/s    0:00:00            3,187 100%   11.70kB/s    0:00:00 (xfr#389, to-chk=24/583)
+unsupervised/scripts/merge_clusters.py
+          3,543 100%   12.91kB/s    0:00:00            3,543 100%   12.91kB/s    0:00:00 (xfr#390, to-chk=23/583)
+unsupervised/scripts/normalize_and_filter_text.py
+          1,997 100%    7.12kB/s    0:00:00            1,997 100%    7.12kB/s    0:00:00 (xfr#391, to-chk=22/583)
+unsupervised/scripts/normalize_text.py
+            489 100%    1.72kB/s    0:00:00              489 100%    1.71kB/s    0:00:00 (xfr#392, to-chk=21/583)
+unsupervised/scripts/pca.py
+          1,471 100%    5.11kB/s    0:00:00            1,471 100%    5.09kB/s    0:00:00 (xfr#393, to-chk=20/583)
+unsupervised/scripts/phonemize_with_sil.py
+          2,045 100%    6.93kB/s    0:00:00            2,045 100%    6.93kB/s    0:00:00 (xfr#394, to-chk=19/583)
+unsupervised/scripts/prepare_audio.sh
+          2,237 100%    7.14kB/s    0:00:00            2,237 100%    7.14kB/s    0:00:00 (xfr#395, to-chk=18/583)
+unsupervised/scripts/prepare_audio_v2.sh
+          1,564 100%    4.91kB/s    0:00:00            1,564 100%    4.91kB/s    0:00:00 (xfr#396, to-chk=17/583)
+unsupervised/scripts/prepare_text.sh
+          4,668 100%   14.47kB/s    0:00:00            4,668 100%   14.43kB/s    0:00:00 (xfr#397, to-chk=16/583)
+unsupervised/scripts/prepare_timit.sh
+          3,466 100%   10.64kB/s    0:00:00            3,466 100%   10.64kB/s    0:00:00 (xfr#398, to-chk=15/583)
+unsupervised/scripts/remove_silence.py
+          1,927 100%    5.84kB/s    0:00:00            1,927 100%    5.84kB/s    0:00:00 (xfr#399, to-chk=14/583)
+unsupervised/scripts/vads.py
+          2,569 100%    7.72kB/s    0:00:00            2,569 100%    7.72kB/s    0:00:00 (xfr#400, to-chk=13/583)
+unsupervised/scripts/wav2vec_apply_cluster_faiss.py
+          4,015 100%   12.03kB/s    0:00:00            4,015 100%   11.99kB/s    0:00:00 (xfr#401, to-chk=12/583)
+unsupervised/scripts/wav2vec_cluster_faiss.py
+          6,315 100%   18.74kB/s    0:00:00            6,315 100%   18.74kB/s    0:00:00 (xfr#402, to-chk=11/583)
+unsupervised/scripts/wav2vec_extract_features.py
+          3,673 100%   10.87kB/s    0:00:00            3,673 100%   10.87kB/s    0:00:00 (xfr#403, to-chk=10/583)
+unsupervised/scripts/wer.py
+          2,264 100%    6.58kB/s    0:00:00            2,264 100%    6.58kB/s    0:00:00 (xfr#404, to-chk=9/583)
+unsupervised/scripts/wrd_to_ltr.py
+            365 100%    1.06kB/s    0:00:00              365 100%    1.05kB/s    0:00:00 (xfr#405, to-chk=8/583)
+unsupervised/tasks/
+unsupervised/tasks/__init__.py
+            270 100%    0.77kB/s    0:00:00              270 100%    0.77kB/s    0:00:00 (xfr#406, to-chk=7/583)
+unsupervised/tasks/unpaired_audio_text.py
+         15,658 100%   44.71kB/s    0:00:00           15,658 100%   44.32kB/s    0:00:00 (xfr#407, to-chk=6/583)
+xlsr/
+xlsr/README.md
+          5,713 100%   16.08kB/s    0:00:00            5,713 100%   16.08kB/s    0:00:00 (xfr#408, to-chk=5/583)
+xlsr/config/
+xlsr/config/finetune.yaml
+          1,151 100%    3.23kB/s    0:00:00            1,151 100%    3.21kB/s    0:00:00 (xfr#409, to-chk=2/583)
+xlsr/scripts/
+xlsr/scripts/eval_speaker_clf_task.py
+          6,786 100%   18.93kB/s    0:00:00            6,786 100%   18.83kB/s    0:00:00 (xfr#410, to-chk=1/583)
+xlsr/scripts/gen_audio_embedding.py
+          9,209 100%   15.59kB/s    0:00:00            9,209 100%   15.59kB/s    0:00:00 (xfr#411, to-chk=0/583)
+
+sent 190,047,397 bytes  received 8,709 bytes  13,107,317.66 bytes/sec
+total size is 189,967,176  speedup is 1.00

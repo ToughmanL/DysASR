@@ -1,0 +1,1510 @@
+nohup: ignoring input
+sending incremental file list
+./
+.gitignore
+            107 100%    0.00kB/s    0:00:00              107 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=899/901)
+LICENSE
+         11,357 100%   10.83MB/s    0:00:00           11,357 100%   10.83MB/s    0:00:00 (xfr#2, to-chk=898/901)
+README.md
+         23,408 100%   22.32MB/s    0:00:00           23,408 100%   11.16MB/s    0:00:00 (xfr#3, to-chk=897/901)
+README_en.md
+         22,934 100%   10.94MB/s    0:00:00           22,934 100%   10.94MB/s    0:00:00 (xfr#4, to-chk=896/901)
+aishell.py
+          5,547 100%    2.65MB/s    0:00:00            5,547 100%    2.65MB/s    0:00:00 (xfr#5, to-chk=895/901)
+convert-ggml.py
+          6,078 100%    1.93MB/s    0:00:00            6,078 100%    1.93MB/s    0:00:00 (xfr#6, to-chk=894/901)
+evaluation.py
+          7,114 100%    2.26MB/s    0:00:00            7,114 100%    2.26MB/s    0:00:00 (xfr#7, to-chk=893/901)
+finetune.py
+         10,898 100%    3.46MB/s    0:00:00           10,898 100%    3.46MB/s    0:00:00 (xfr#8, to-chk=892/901)
+infer.py
+          3,739 100%    1.19MB/s    0:00:00            3,739 100%    1.19MB/s    0:00:00 (xfr#9, to-chk=891/901)
+infer_ct2.py
+          2,780 100%  904.95kB/s    0:00:00            2,780 100%  904.95kB/s    0:00:00 (xfr#10, to-chk=890/901)
+infer_gui.py
+         11,589 100%    3.68MB/s    0:00:00           11,589 100%    3.68MB/s    0:00:00 (xfr#11, to-chk=889/901)
+infer_server.py
+          5,503 100%    1.75MB/s    0:00:00            5,503 100%    1.75MB/s    0:00:00 (xfr#12, to-chk=888/901)
+infer_thirteen.py
+          4,671 100%    1.48MB/s    0:00:00            4,671 100%    1.48MB/s    0:00:00 (xfr#13, to-chk=887/901)
+merge_lora.py
+          2,535 100%  618.90kB/s    0:00:00            2,535 100%  618.90kB/s    0:00:00 (xfr#14, to-chk=886/901)
+nohup.out
+          3,036 100%  741.21kB/s    0:00:00            3,036 100%  741.21kB/s    0:00:00 (xfr#15, to-chk=885/901)
+rtf_mem.sh
+          2,048 100%  500.00kB/s    0:00:00            2,048 100%  500.00kB/s    0:00:00 (xfr#16, to-chk=884/901)
+run.sh
+          6,392 100%   77.06kB/s    0:00:00            6,392 100%   77.06kB/s    0:00:00 (xfr#17, to-chk=883/901)
+.git/
+.git/COMMIT_EDITMSG
+              9 100%    0.00kB/s    0:00:00                9 100%    0.00kB/s    0:00:00 (xfr#18, to-chk=866/901)
+.git/FETCH_HEAD
+            102 100%   99.61kB/s    0:00:00              102 100%   99.61kB/s    0:00:00 (xfr#19, to-chk=865/901)
+.git/HEAD
+             23 100%   22.46kB/s    0:00:00               23 100%   22.46kB/s    0:00:00 (xfr#20, to-chk=864/901)
+.git/MERGE_HEAD
+             41 100%   40.04kB/s    0:00:00               41 100%   40.04kB/s    0:00:00 (xfr#21, to-chk=863/901)
+.git/MERGE_MODE
+              0 100%    0.00kB/s    0:00:00 (xfr#22, to-chk=862/901)
+.git/MERGE_MSG
+             96 100%   93.75kB/s    0:00:00               96 100%   93.75kB/s    0:00:00 (xfr#23, to-chk=861/901)
+.git/ORIG_HEAD
+             41 100%   40.04kB/s    0:00:00               41 100%   40.04kB/s    0:00:00 (xfr#24, to-chk=860/901)
+.git/config
+            273 100%  266.60kB/s    0:00:00              273 100%  266.60kB/s    0:00:00 (xfr#25, to-chk=859/901)
+.git/description
+             73 100%   71.29kB/s    0:00:00               73 100%   71.29kB/s    0:00:00 (xfr#26, to-chk=858/901)
+.git/index
+         21,969 100%   20.95MB/s    0:00:00           21,969 100%   20.95MB/s    0:00:00 (xfr#27, to-chk=857/901)
+.git/packed-refs
+            107 100%  104.49kB/s    0:00:00              107 100%  104.49kB/s    0:00:00 (xfr#28, to-chk=856/901)
+.git/branches/
+.git/hooks/
+.git/hooks/applypatch-msg.sample
+            478 100%  466.80kB/s    0:00:00              478 100%  466.80kB/s    0:00:00 (xfr#29, to-chk=849/901)
+.git/hooks/commit-msg.sample
+            896 100%  875.00kB/s    0:00:00              896 100%  875.00kB/s    0:00:00 (xfr#30, to-chk=848/901)
+.git/hooks/post-update.sample
+            189 100%  184.57kB/s    0:00:00              189 100%  184.57kB/s    0:00:00 (xfr#31, to-chk=847/901)
+.git/hooks/pre-applypatch.sample
+            424 100%  414.06kB/s    0:00:00              424 100%  414.06kB/s    0:00:00 (xfr#32, to-chk=846/901)
+.git/hooks/pre-commit.sample
+          1,642 100%    1.57MB/s    0:00:00            1,642 100%    1.57MB/s    0:00:00 (xfr#33, to-chk=845/901)
+.git/hooks/pre-push.sample
+          1,348 100%    1.29MB/s    0:00:00            1,348 100%    1.29MB/s    0:00:00 (xfr#34, to-chk=844/901)
+.git/hooks/pre-rebase.sample
+          4,898 100%    4.67MB/s    0:00:00            4,898 100%    4.67MB/s    0:00:00 (xfr#35, to-chk=843/901)
+.git/hooks/prepare-commit-msg.sample
+          1,239 100%    1.18MB/s    0:00:00            1,239 100%    1.18MB/s    0:00:00 (xfr#36, to-chk=842/901)
+.git/hooks/update.sample
+          3,610 100%    3.44MB/s    0:00:00            3,610 100%    3.44MB/s    0:00:00 (xfr#37, to-chk=841/901)
+.git/info/
+.git/info/exclude
+            240 100%  234.38kB/s    0:00:00              240 100%  234.38kB/s    0:00:00 (xfr#38, to-chk=840/901)
+.git/logs/
+.git/logs/HEAD
+            338 100%  330.08kB/s    0:00:00              338 100%  330.08kB/s    0:00:00 (xfr#39, to-chk=839/901)
+.git/logs/refs/
+.git/logs/refs/heads/
+.git/logs/refs/heads/master
+            338 100%  165.04kB/s    0:00:00              338 100%  165.04kB/s    0:00:00 (xfr#40, to-chk=835/901)
+.git/logs/refs/remotes/
+.git/logs/refs/remotes/origin/
+.git/logs/refs/remotes/origin/HEAD
+            191 100%   93.26kB/s    0:00:00              191 100%   93.26kB/s    0:00:00 (xfr#41, to-chk=833/901)
+.git/logs/refs/remotes/origin/master
+            149 100%   72.75kB/s    0:00:00              149 100%   72.75kB/s    0:00:00 (xfr#42, to-chk=832/901)
+.git/objects/
+.git/objects/00/
+.git/objects/00/5622addcca182f7362f90b7f2da19e984cd6ad
+          8,590 100%    4.10MB/s    0:00:00            8,590 100%    4.10MB/s    0:00:00 (xfr#43, to-chk=730/901)
+.git/objects/02/
+.git/objects/02/e97c668ed67c6906fad36c770fafc01f620f4e
+            205 100%  100.10kB/s    0:00:00              205 100%  100.10kB/s    0:00:00 (xfr#44, to-chk=729/901)
+.git/objects/05/
+.git/objects/05/81aa9a7c52d7041658a42b66e1c764a8d1cee5
+             83 100%   40.53kB/s    0:00:00               83 100%   40.53kB/s    0:00:00 (xfr#45, to-chk=728/901)
+.git/objects/06/
+.git/objects/06/9a75238c8c4bb629e52634b9c6aeef0fdb0ef4
+          8,599 100%    4.10MB/s    0:00:00            8,599 100%    4.10MB/s    0:00:00 (xfr#46, to-chk=727/901)
+.git/objects/09/
+.git/objects/09/482af360ff74c3667f264a31ae03f5aa9423a8
+             79 100%   38.57kB/s    0:00:00               79 100%   38.57kB/s    0:00:00 (xfr#47, to-chk=726/901)
+.git/objects/09/a8c6d4d4fcb24aa9199dd6b25baf8127646310
+            198 100%   96.68kB/s    0:00:00              198 100%   96.68kB/s    0:00:00 (xfr#48, to-chk=725/901)
+.git/objects/09/c54993049d151af4a5ea0a9bc15f405176e9da
+             84 100%   41.02kB/s    0:00:00               84 100%   27.34kB/s    0:00:00 (xfr#49, to-chk=724/901)
+.git/objects/0d/
+.git/objects/0d/9bb45b6388ae2d6e2906eae1cd862d13d0276d
+         32,768  97%   10.42MB/s    0:00:00           33,643 100%   10.69MB/s    0:00:00 (xfr#50, to-chk=723/901)
+.git/objects/0e/
+.git/objects/0e/929544c66b779a5c94c24deeea7da8152b51f5
+         32,768  70%   87.91kB/s    0:00:00           46,616 100%  125.06kB/s    0:00:00 (xfr#51, to-chk=722/901)
+.git/objects/14/
+.git/objects/14/e4f2d32259dc23dc195e5ec5b47de2f0a69593
+          5,215 100%   13.99kB/s    0:00:00            5,215 100%   13.99kB/s    0:00:00 (xfr#52, to-chk=721/901)
+.git/objects/16/
+.git/objects/16/c4ab4667f9942a28e399eb0e07f7c5f832f892
+             85 100%    0.23kB/s    0:00:00               85 100%    0.23kB/s    0:00:00 (xfr#53, to-chk=720/901)
+.git/objects/16/f455a60c9b294120b0b589cb5b96e4d90e265b
+            204 100%    0.55kB/s    0:00:00              204 100%    0.55kB/s    0:00:00 (xfr#54, to-chk=719/901)
+.git/objects/19/
+.git/objects/19/63f3c8315029a27879bc4d676384c5cae85326
+         32,768  60%   87.67kB/s    0:00:00           54,158 100%  144.90kB/s    0:00:00 (xfr#55, to-chk=718/901)
+.git/objects/1b/
+.git/objects/1b/20b820bf2c9b55156b6553732e2fc38397d1b6
+            204 100%    0.55kB/s    0:00:00              204 100%    0.55kB/s    0:00:00 (xfr#56, to-chk=717/901)
+.git/objects/1b/749293a9ff1d4cedb9623d1709ae8f58776852
+            857 100%    2.29kB/s    0:00:00              857 100%    2.29kB/s    0:00:00 (xfr#57, to-chk=716/901)
+.git/objects/1f/
+.git/objects/1f/52643c040411f2c0832ac2dbcb4d1ae83aac77
+          8,047 100%   21.53kB/s    0:00:00            8,047 100%   21.53kB/s    0:00:00 (xfr#58, to-chk=715/901)
+.git/objects/22/
+.git/objects/22/81bf0e78f7054e46c85178a0e0345216469681
+            304 100%    0.81kB/s    0:00:00              304 100%    0.81kB/s    0:00:00 (xfr#59, to-chk=714/901)
+.git/objects/23/
+.git/objects/23/aab9ce89ca75a8e146ff50ced6fd670f176e17
+          6,544 100%    8.19kB/s    0:00:00            6,544 100%    8.19kB/s    0:00:00 (xfr#60, to-chk=713/901)
+.git/objects/24/
+.git/objects/24/51b738ada51b4ea095e75f83368cf473df6a49
+            204 100%    0.26kB/s    0:00:00              204 100%    0.26kB/s    0:00:00 (xfr#61, to-chk=712/901)
+.git/objects/28/
+.git/objects/28/de11e46973be7cc30120e84322c723ac189a96
+            203 100%    0.25kB/s    0:00:00              203 100%    0.25kB/s    0:00:00 (xfr#62, to-chk=711/901)
+.git/objects/29/
+.git/objects/29/b6f5a683b0f0ad9ceb6b9409eab95957448158
+         20,597 100%   25.75kB/s    0:00:00           20,597 100%   25.75kB/s    0:00:00 (xfr#63, to-chk=710/901)
+.git/objects/2b/
+.git/objects/2b/80e644032d2fd9e161f7acd869c972d989f806
+         15,642 100%   19.56kB/s    0:00:00           15,642 100%   19.56kB/s    0:00:00 (xfr#64, to-chk=709/901)
+.git/objects/2c/
+.git/objects/2c/98b3d89c4812281c862d3b1579388e2bbbf7ea
+          2,389 100%    2.99kB/s    0:00:00            2,389 100%    2.99kB/s    0:00:00 (xfr#65, to-chk=708/901)
+.git/objects/2e/
+.git/objects/2e/07146337e66878442cec1f7cc1ac443325fe02
+         30,652 100%   33.56kB/s    0:00:00           30,652 100%   33.56kB/s    0:00:00 (xfr#66, to-chk=707/901)
+.git/objects/31/
+.git/objects/31/ab8b8b3be2aa22458df67842519760d384b77e
+          1,590 100%    1.74kB/s    0:00:00            1,590 100%    1.74kB/s    0:00:00 (xfr#67, to-chk=706/901)
+.git/objects/32/
+.git/objects/32/d64292a3e9f5784f520e09cd7a7d7a515ad655
+         32,768  77%   35.83kB/s    0:00:00           42,192 100%   46.14kB/s    0:00:00 (xfr#68, to-chk=705/901)
+.git/objects/33/
+.git/objects/33/1c99b6c5a464422a91ffe989bfc119bfd3c3e7
+            189 100%    0.21kB/s    0:00:00              189 100%    0.21kB/s    0:00:00 (xfr#69, to-chk=704/901)
+.git/objects/34/
+.git/objects/34/567ae0b7e2dd9e8f97e949d2dd7157d10eab69
+             84 100%    0.09kB/s    0:00:00               84 100%    0.09kB/s    0:00:00 (xfr#70, to-chk=703/901)
+.git/objects/36/
+.git/objects/36/a78d03f75422c48d16811992e36d352f79ffc7
+             79 100%    0.09kB/s    0:00:00               79 100%    0.09kB/s    0:00:00 (xfr#71, to-chk=702/901)
+.git/objects/37/
+.git/objects/37/e0d238cf2f2aecf17210c1f846656cc22e0c3f
+          1,084 100%    1.19kB/s    0:00:00            1,084 100%    1.19kB/s    0:00:00 (xfr#72, to-chk=701/901)
+.git/objects/38/
+.git/objects/38/be0815cf2d8bfb89a0776aeff741e0f5ddbd76
+         31,500 100%   34.45kB/s    0:00:00           31,500 100%   34.45kB/s    0:00:00 (xfr#73, to-chk=700/901)
+.git/objects/3a/
+.git/objects/3a/45c454bc6d44ccfb3a80c71226a470ad26b62c
+         32,768  63%   28.09kB/s    0:00:00           51,934 100%   44.49kB/s    0:00:00           51,934 100%   44.45kB/s    0:00:01 (xfr#74, to-chk=699/901)
+.git/objects/3d/
+.git/objects/3d/0d9f32e83ac51916e9b7c6117ea1b8caa66bf4
+          2,429 100%    2.32MB/s    0:00:00            2,429 100%    2.32MB/s    0:00:00 (xfr#75, to-chk=698/901)
+.git/objects/3d/28b0a5d4400fec0497c58bc9b68911d9b87bb2
+          8,471 100%    4.04MB/s    0:00:00            8,471 100%    4.04MB/s    0:00:00 (xfr#76, to-chk=697/901)
+.git/objects/3e/
+.git/objects/3e/0ad5c582d84a9323d254edd7a2e7443b4c5778
+             80 100%   39.06kB/s    0:00:00               80 100%   39.06kB/s    0:00:00 (xfr#77, to-chk=696/901)
+.git/objects/41/
+.git/objects/41/0192dbd03fb1ff9f32330604e00b87e2f785cb
+         20,984 100%   10.01MB/s    0:00:00           20,984 100%   10.01MB/s    0:00:00 (xfr#78, to-chk=695/901)
+.git/objects/41/5e1902f9a600e06482b06e2ae858a87cf7ee77
+            985 100%  160.32kB/s    0:00:00              985 100%  160.32kB/s    0:00:00 (xfr#79, to-chk=694/901)
+.git/objects/45/
+.git/objects/45/01ac0630a25b1174ad392cc4c32c7c4a1f69df
+          2,242 100%  364.91kB/s    0:00:00            2,242 100%  364.91kB/s    0:00:00 (xfr#80, to-chk=693/901)
+.git/objects/45/89850e9df50ae5dbfb292528b92b8663526e04
+          2,165 100%  352.38kB/s    0:00:00            2,165 100%  352.38kB/s    0:00:00 (xfr#81, to-chk=692/901)
+.git/objects/46/
+.git/objects/46/c8c335eae584c58a06b1fc5175a6a8e0456adb
+             80 100%   13.02kB/s    0:00:00               80 100%   13.02kB/s    0:00:00 (xfr#82, to-chk=691/901)
+.git/objects/46/e1270b22925f4fb66004536aab69ebf972e926
+            858 100%   76.17kB/s    0:00:00              858 100%   76.17kB/s    0:00:00 (xfr#83, to-chk=690/901)
+.git/objects/48/
+.git/objects/48/ef9d59a87d348b1e73a6b7adf52d07b325b952
+             38 100%    3.37kB/s    0:00:00               38 100%    3.37kB/s    0:00:00 (xfr#84, to-chk=689/901)
+.git/objects/4a/
+.git/objects/4a/50ed7b91d646bf191bcb437b80d4c775037e8c
+          7,442 100%  605.63kB/s    0:00:00            7,442 100%  605.63kB/s    0:00:00 (xfr#85, to-chk=688/901)
+.git/objects/4a/988367c5a57a5f900ca1dbb676f67119f5ada4
+         27,192 100%    2.16MB/s    0:00:00           27,192 100%    2.16MB/s    0:00:00 (xfr#86, to-chk=687/901)
+.git/objects/4c/
+.git/objects/4c/aeacf41950989ec922f205e96d0fba44486477
+            185 100%   15.06kB/s    0:00:00              185 100%   15.06kB/s    0:00:00 (xfr#87, to-chk=686/901)
+.git/objects/4c/ba6b10f5afbd1f6ab4b8402ffe6f76767fb292
+            204 100%   16.60kB/s    0:00:00              204 100%   16.60kB/s    0:00:00 (xfr#88, to-chk=685/901)
+.git/objects/50/
+.git/objects/50/60515cda400c99f2b6547b790ec96bc53fcb78
+             85 100%    6.92kB/s    0:00:00               85 100%    6.92kB/s    0:00:00 (xfr#89, to-chk=684/901)
+.git/objects/50/60807e377fb5a76aeea0192fc86edac218ae99
+             85 100%    6.92kB/s    0:00:00               85 100%    6.92kB/s    0:00:00 (xfr#90, to-chk=683/901)
+.git/objects/50/db83b02e1412a572bd0a94b6d1cc0e50b9ab1b
+         32,768  81%  288.29kB/s    0:00:00           40,036 100%  352.23kB/s    0:00:00 (xfr#91, to-chk=682/901)
+.git/objects/53/
+.git/objects/53/e225991158d60743b0509062cdad0aa31ab72f
+          4,559 100%   38.71kB/s    0:00:00            4,559 100%   38.71kB/s    0:00:00 (xfr#92, to-chk=681/901)
+.git/objects/57/
+.git/objects/57/2aa2ae1a620d445089dce85afc7e21546ee9db
+             78 100%    0.66kB/s    0:00:00               78 100%    0.66kB/s    0:00:00 (xfr#93, to-chk=680/901)
+.git/objects/5e/
+.git/objects/5e/23e2379ac3e4710b7dd5e52ee56f1fb15c3b95
+         32,768  72%   85.56kB/s    0:00:00           45,242 100%  118.13kB/s    0:00:00 (xfr#94, to-chk=679/901)
+.git/objects/60/
+.git/objects/60/c106231f681cfb97886c4a1c1c512cccb45fe8
+            855 100%    2.22kB/s    0:00:00              855 100%    2.22kB/s    0:00:00 (xfr#95, to-chk=678/901)
+.git/objects/63/
+.git/objects/63/6a48d85ca90625e040d324a2d9b7a78ba48b0e
+         32,768  63%   81.01kB/s    0:00:00           51,373 100%  127.01kB/s    0:00:00 (xfr#96, to-chk=677/901)
+.git/objects/6d/
+.git/objects/6d/cf98866285cd2ded4ecebf1d88c4d0ec0816b6
+             83 100%    0.20kB/s    0:00:00               83 100%    0.20kB/s    0:00:00 (xfr#97, to-chk=676/901)
+.git/objects/6e/
+.git/objects/6e/1ed1e28087245828adba6007a5d6a7ba4d3e52
+            234 100%    0.58kB/s    0:00:00              234 100%    0.58kB/s    0:00:00 (xfr#98, to-chk=675/901)
+.git/objects/71/
+.git/objects/71/63757231ed0029226be9dd2bb3955034c07d74
+            156 100%    0.38kB/s    0:00:00              156 100%    0.38kB/s    0:00:00 (xfr#99, to-chk=674/901)
+.git/objects/71/96713a76cc29617725385ad0e09d1a2bccc21c
+            244 100%    0.60kB/s    0:00:00              244 100%    0.60kB/s    0:00:00 (xfr#100, to-chk=673/901)
+.git/objects/72/
+.git/objects/72/f8c2a70b87197f910c197dd0238a96628a6f02
+          2,394 100%    5.89kB/s    0:00:00            2,394 100%    5.89kB/s    0:00:00 (xfr#101, to-chk=672/901)
+.git/objects/75/
+.git/objects/75/3aee9bb6080c31bf361e38c9011bb5fed78867
+         12,855 100%   26.37kB/s    0:00:00           12,855 100%   26.37kB/s    0:00:00 (xfr#102, to-chk=671/901)
+.git/objects/75/48cc6ea72044b0f9f47db5935abdd8beb68105
+          1,945 100%    3.98kB/s    0:00:00            1,945 100%    3.98kB/s    0:00:00 (xfr#103, to-chk=670/901)
+.git/objects/75/6bd46b17365d3f5422161cbf1370a0ba6da999
+             83 100%    0.17kB/s    0:00:00               83 100%    0.17kB/s    0:00:00 (xfr#104, to-chk=669/901)
+.git/objects/7a/
+.git/objects/7a/3e9cdb97e2099f9b4bd536d6802d423ba80b10
+            242 100%    0.49kB/s    0:00:00              242 100%    0.49kB/s    0:00:00 (xfr#105, to-chk=668/901)
+.git/objects/7b/
+.git/objects/7b/8c92ae0229d94e8cdfa2b1c97cefcae4803959
+            190 100%    0.39kB/s    0:00:00              190 100%    0.39kB/s    0:00:00 (xfr#106, to-chk=667/901)
+.git/objects/7b/9655a504328cee2b038d77a9f232a6f2c1f045
+            181 100%    0.37kB/s    0:00:00              181 100%    0.37kB/s    0:00:00 (xfr#107, to-chk=666/901)
+.git/objects/7f/
+.git/objects/7f/db22aa5e4458b854d89f22a42344ab868309ef
+          2,591 100%    5.26kB/s    0:00:00            2,591 100%    5.26kB/s    0:00:00 (xfr#108, to-chk=665/901)
+.git/objects/82/
+.git/objects/82/49b77ea59983833a23e8653a482beb70aca05f
+         32,768  61%   66.53kB/s    0:00:00           53,226 100%   91.35kB/s    0:00:00 (xfr#109, to-chk=664/901)
+.git/objects/82/950c39e9bf9b7189b56b331adafbfb594a0d28
+         23,026 100%   39.52kB/s    0:00:00           23,026 100%   39.52kB/s    0:00:00 (xfr#110, to-chk=663/901)
+.git/objects/85/
+.git/objects/85/3ac581a6a0dcbc21d9b8a98515e9fbebb4a11d
+          1,592 100%    2.73kB/s    0:00:00            1,592 100%    2.73kB/s    0:00:00 (xfr#111, to-chk=662/901)
+.git/objects/87/
+.git/objects/87/41031962c17a23a3078bc86d67c8e4db9591d3
+            242 100%    0.42kB/s    0:00:00              242 100%    0.42kB/s    0:00:00 (xfr#112, to-chk=661/901)
+.git/objects/87/9f835d53a89522e808263c70072e7c093e82fa
+          8,483 100%   14.56kB/s    0:00:00            8,483 100%   14.56kB/s    0:00:00 (xfr#113, to-chk=660/901)
+.git/objects/87/bc65b6dbed3ffbd787bcc9a16f7182d19966b7
+             81 100%    0.14kB/s    0:00:00               81 100%    0.14kB/s    0:00:00 (xfr#114, to-chk=659/901)
+.git/objects/8c/
+.git/objects/8c/1cc2715e2cbd1e61c917be8807b5bd0887ff0e
+          3,695 100%    6.33kB/s    0:00:00            3,695 100%    6.33kB/s    0:00:00 (xfr#115, to-chk=658/901)
+.git/objects/8c/ee351c765abdbc6c0b0a219a5aabc187ea43cb
+            857 100%    1.47kB/s    0:00:00              857 100%    1.47kB/s    0:00:00 (xfr#116, to-chk=657/901)
+.git/objects/8d/
+.git/objects/8d/ccf5df740327f87828be2bfd659aef6e10e4e2
+          6,818 100%    7.03kB/s    0:00:00            6,818 100%    7.03kB/s    0:00:00 (xfr#117, to-chk=656/901)
+.git/objects/8f/
+.git/objects/8f/877f43188f1e973606c50da1671ab77c928a5e
+          1,566 100%    1.61kB/s    0:00:00            1,566 100%    1.61kB/s    0:00:00 (xfr#118, to-chk=655/901)
+.git/objects/93/
+.git/objects/93/54fbe701d7436e68947f9492ed1069c0e0b5d9
+            185 100%    0.19kB/s    0:00:00              185 100%    0.19kB/s    0:00:00 (xfr#119, to-chk=654/901)
+.git/objects/93/9b0b870e21735748b04e0516ed47cd8c2f6ad9
+            856 100%    0.88kB/s    0:00:00              856 100%    0.88kB/s    0:00:00 (xfr#120, to-chk=653/901)
+.git/objects/95/
+.git/objects/95/d21129f942add0dcc101fce7f68cfefb4ee461
+          8,591 100%    8.83kB/s    0:00:00            8,591 100%    8.83kB/s    0:00:00 (xfr#121, to-chk=652/901)
+.git/objects/99/
+.git/objects/99/27d5cc4f1eead4e332427b40b8ba973baff918
+          3,637 100%    3.74kB/s    0:00:00            3,637 100%    3.74kB/s    0:00:00 (xfr#122, to-chk=651/901)
+.git/objects/9a/
+.git/objects/9a/68b6447b6a7c415d3ca5552e38829395d85d6e
+          3,636 100%    3.74kB/s    0:00:00            3,636 100%    3.74kB/s    0:00:00 (xfr#123, to-chk=650/901)
+.git/objects/9a/707ac724a472c2c56f67a16c75df015a9e85e6
+          8,451 100%    8.69kB/s    0:00:00            8,451 100%    8.69kB/s    0:00:00 (xfr#124, to-chk=649/901)
+.git/objects/9a/982062f0a4ebe45d4f6d9c25d392d6ea0cad9c
+          2,161 100%    2.22kB/s    0:00:00            2,161 100%    2.22kB/s    0:00:00 (xfr#125, to-chk=648/901)
+.git/objects/9d/
+.git/objects/9d/b1c01535fdce3c03c1f7294733572b22a1faf3
+          3,617 100%    3.71kB/s    0:00:00            3,617 100%    3.71kB/s    0:00:00 (xfr#126, to-chk=647/901)
+.git/objects/9f/
+.git/objects/9f/ddbb042ffcab490b587ead788eb4d00883e90f
+            232 100%    0.24kB/s    0:00:00              232 100%    0.24kB/s    0:00:00 (xfr#127, to-chk=646/901)
+.git/objects/a6/
+.git/objects/a6/ba4714132c3f60bac63d1bae9753c1ffd94424
+             85 100%    0.09kB/s    0:00:00               85 100%    0.09kB/s    0:00:00 (xfr#128, to-chk=645/901)
+.git/objects/a7/
+.git/objects/a7/73eb801cdcad1553a3b8c6e328882cd66a0ed5
+          8,440 100%    8.65kB/s    0:00:00            8,440 100%    8.65kB/s    0:00:00 (xfr#129, to-chk=644/901)
+.git/objects/ab/
+.git/objects/ab/4c07f5eb0413daf8b428c528cbbf19d56c8512
+         14,844 100%   15.21kB/s    0:00:00           14,844 100%   15.21kB/s    0:00:00 (xfr#130, to-chk=643/901)
+.git/objects/ad/
+.git/objects/ad/e90eab718d7ff155a00c54762343eb6a16ad94
+          3,722 100%    3.77kB/s    0:00:00            3,722 100%    3.77kB/s    0:00:00 (xfr#131, to-chk=642/901)
+.git/objects/af/
+.git/objects/af/f4eb1cabfdfa52549a41192ee088bf0877839e
+         32,768  90%   33.06kB/s    0:00:00           36,012 100%   36.33kB/s    0:00:00 (xfr#132, to-chk=641/901)
+.git/objects/b0/
+.git/objects/b0/6810e6d608923170f5c1fedc0d36c0aea589ba
+          2,361 100%    2.38kB/s    0:00:00            2,361 100%    2.38kB/s    0:00:00 (xfr#133, to-chk=640/901)
+.git/objects/b1/
+.git/objects/b1/2111adf89f342d6a009dda057aeece89f63f15
+            818 100%    0.82kB/s    0:00:00              818 100%    0.82kB/s    0:00:00 (xfr#134, to-chk=639/901)
+.git/objects/b2/
+.git/objects/b2/46648494a154880283afc75bc018c7c213a0d3
+         32,768  25%   25.38kB/s    0:00:03           65,536  50%   49.31kB/s    0:00:01          129,834 100%   90.89kB/s    0:00:01 (xfr#135, to-chk=638/901)
+.git/objects/b5/
+.git/objects/b5/0e2314e245018b01a22442a40152cddcdd14d8
+            169 100%    1.72kB/s    0:00:00              169 100%    1.72kB/s    0:00:00 (xfr#136, to-chk=637/901)
+.git/objects/bc/
+.git/objects/bc/5517cd23c75203bf63e8a6fb11b9ef3aa28972
+            199 100%    1.92kB/s    0:00:00              199 100%    1.92kB/s    0:00:00 (xfr#137, to-chk=636/901)
+.git/objects/bd/
+.git/objects/bd/efd2dc5f95a883e94f0002927b7d136b2e73c2
+          2,104 100%    9.69kB/s    0:00:00            2,104 100%    9.69kB/s    0:00:00 (xfr#138, to-chk=635/901)
+.git/objects/c0/
+.git/objects/c0/2e954b4248f897f562c6d072ac998df68bb91f
+            204 100%    0.94kB/s    0:00:00              204 100%    0.94kB/s    0:00:00 (xfr#139, to-chk=634/901)
+.git/objects/c1/
+.git/objects/c1/f43c9ed870e3a73077671d98ba045f5d663599
+            857 100%    3.93kB/s    0:00:00              857 100%    3.93kB/s    0:00:00 (xfr#140, to-chk=633/901)
+.git/objects/c6/
+.git/objects/c6/bfd6c2f79c7003f6aaa3be699e64dbbcbfa15e
+         32,768  78%  149.53kB/s    0:00:00           41,513 100%  188.56kB/s    0:00:00 (xfr#141, to-chk=632/901)
+.git/objects/c7/
+.git/objects/c7/29352b8de12b0b856e6b5dc215ae34e4d89f1f
+          4,633 100%   21.04kB/s    0:00:00            4,633 100%   21.04kB/s    0:00:00 (xfr#142, to-chk=631/901)
+.git/objects/ca/
+.git/objects/ca/557fae6d79395483a269268984dc2c30cf44fa
+            204 100%    0.93kB/s    0:00:00              204 100%    0.93kB/s    0:00:00 (xfr#143, to-chk=630/901)
+.git/objects/ca/6e09248a6f8e25cf2ab626f5373a1f4c3907a1
+            111 100%    0.50kB/s    0:00:00              111 100%    0.50kB/s    0:00:00 (xfr#144, to-chk=629/901)
+.git/objects/cc/
+.git/objects/cc/ff542a7e47b17f4098e35c309e7fd079d36d44
+         30,577 100%  138.24kB/s    0:00:00           30,577 100%  138.24kB/s    0:00:00 (xfr#145, to-chk=628/901)
+.git/objects/ce/
+.git/objects/ce/7e1ac38a5fc48b62eef7e66464530bb3dabcc0
+         32,768  27%  148.15kB/s    0:00:00          117,313 100%  253.46kB/s    0:00:00 (xfr#146, to-chk=627/901)
+.git/objects/d1/
+.git/objects/d1/818f0e2b5e4c17e5227d64d1d5785f4afcfd26
+            170 100%    0.37kB/s    0:00:00              170 100%    0.37kB/s    0:00:00 (xfr#147, to-chk=626/901)
+.git/objects/d1/842011c3ccaf4a93ada928c943a2e0b5b36d56
+             80 100%    0.17kB/s    0:00:00               80 100%    0.17kB/s    0:00:00 (xfr#148, to-chk=625/901)
+.git/objects/d2/
+.git/objects/d2/18d5d4a1a4e52d32e7b54a281f40a72ea2542e
+            858 100%    1.85kB/s    0:00:00              858 100%    1.85kB/s    0:00:00 (xfr#149, to-chk=624/901)
+.git/objects/d3/
+.git/objects/d3/5277da6ae81d893bc13332bae9cedaf1b1e133
+            854 100%    1.84kB/s    0:00:00              854 100%    1.84kB/s    0:00:00 (xfr#150, to-chk=623/901)
+.git/objects/d5/
+.git/objects/d5/4532bef433419eebd2d98907a165dffc10ffdd
+            310 100%    0.66kB/s    0:00:00              310 100%    0.66kB/s    0:00:00 (xfr#151, to-chk=622/901)
+.git/objects/d8/
+.git/objects/d8/1a54af2ceee990edd110432157d35e9a833bf6
+            776 100%    1.66kB/s    0:00:00              776 100%    1.66kB/s    0:00:00 (xfr#152, to-chk=621/901)
+.git/objects/de/
+.git/objects/de/77e1c0bd171554e6115b190a55aca036d1bf11
+            859 100%    1.84kB/s    0:00:00              859 100%    1.84kB/s    0:00:00 (xfr#153, to-chk=620/901)
+.git/objects/e0/
+.git/objects/e0/5214ac0eb86625819c9e2d98c8b0da1470508c
+         32,768  77%   70.18kB/s    0:00:00           42,501 100%   91.02kB/s    0:00:00 (xfr#154, to-chk=619/901)
+.git/objects/e0/71212279043c231714895bfd612947851756f5
+          3,637 100%    7.79kB/s    0:00:00            3,637 100%    7.79kB/s    0:00:00 (xfr#155, to-chk=618/901)
+.git/objects/e0/737367f7412f2ed189515e56103ef60e563819
+         32,768  67%   70.02kB/s    0:00:00           48,294 100%  103.20kB/s    0:00:00 (xfr#156, to-chk=617/901)
+.git/objects/e0/f5b833a743979c8110ecf07de36240f822707a
+         32,768  14%   70.02kB/s    0:00:02          229,457 100%  321.03kB/s    0:00:00 (xfr#157, to-chk=616/901)
+.git/objects/e1/
+.git/objects/e1/d0956025ac899e0b79f381852f12405d1ff253
+            857 100%    1.19kB/s    0:00:00              857 100%    1.19kB/s    0:00:00 (xfr#158, to-chk=615/901)
+.git/objects/e4/
+.git/objects/e4/14e6d173268237f3acf56c6726ee3b43fcb9a0
+             79 100%    0.11kB/s    0:00:00               79 100%    0.11kB/s    0:00:00 (xfr#159, to-chk=614/901)
+.git/objects/e6/
+.git/objects/e6/4e46006098d92c032e01dd321771c2d78a92d7
+            198 100%    0.28kB/s    0:00:00              198 100%    0.28kB/s    0:00:00 (xfr#160, to-chk=613/901)
+.git/objects/e9/
+.git/objects/e9/22c250ed2d44663e4919171214a79f385037dc
+          5,448 100%    7.56kB/s    0:00:00            5,448 100%    7.56kB/s    0:00:00 (xfr#161, to-chk=612/901)
+.git/objects/e9/b57cc08fe1476233cfa506f9eaa4b434a3a392
+            203 100%    0.28kB/s    0:00:00              203 100%    0.28kB/s    0:00:00 (xfr#162, to-chk=611/901)
+.git/objects/ea/
+.git/objects/ea/8ac71637d9b4be848640a61ed3d3937ff54961
+            347 100%    0.48kB/s    0:00:00              347 100%    0.48kB/s    0:00:00 (xfr#163, to-chk=610/901)
+.git/objects/ea/cea63181c4dde0de5d131f5bc64c420fc2f083
+             86 100%    0.12kB/s    0:00:00               86 100%    0.12kB/s    0:00:00 (xfr#164, to-chk=609/901)
+.git/objects/eb/
+.git/objects/eb/90e299a0dca9181d6a4c1106984e3be4f7412d
+            854 100%    1.18kB/s    0:00:00              854 100%    1.18kB/s    0:00:00 (xfr#165, to-chk=608/901)
+.git/objects/ed/
+.git/objects/ed/45e1761a96184ca164cbd39411a809a8003c98
+         17,250 100%   23.89kB/s    0:00:00           17,250 100%   23.89kB/s    0:00:00 (xfr#166, to-chk=607/901)
+.git/objects/ee/
+.git/objects/ee/fd7ffb5d13e681a2490449b2a27a5e32532142
+         25,680 100%   35.57kB/s    0:00:00           25,680 100%   35.57kB/s    0:00:00 (xfr#167, to-chk=606/901)
+.git/objects/ef/
+.git/objects/ef/85b409717426094c78060b5bda995b4569bc71
+             83 100%    0.11kB/s    0:00:00               83 100%    0.11kB/s    0:00:00 (xfr#168, to-chk=605/901)
+.git/objects/f1/
+.git/objects/f1/eff2cc5a5d6436cd8b99585bddcb5652f87dc8
+            857 100%    1.19kB/s    0:00:00              857 100%    1.19kB/s    0:00:00 (xfr#169, to-chk=604/901)
+.git/objects/f3/
+.git/objects/f3/03bc23c622db06cb62cb1e46cd13cef8a1d73b
+            205 100%    0.28kB/s    0:00:00              205 100%    0.28kB/s    0:00:00 (xfr#170, to-chk=603/901)
+.git/objects/f3/7ffd306835895f75a96181f50b8a0db4c76942
+             85 100%    0.12kB/s    0:00:00               85 100%    0.12kB/s    0:00:00 (xfr#171, to-chk=602/901)
+.git/objects/fa/
+.git/objects/fa/c45c3f0fb1b3c209dcc33916cbdd9ff0613fb2
+            203 100%    0.28kB/s    0:00:00              203 100%    0.28kB/s    0:00:00 (xfr#172, to-chk=601/901)
+.git/objects/info/
+.git/objects/pack/
+.git/objects/pack/pack-d1144069eb8df888e2d77cd8d96e182d7b30c427.idx
+         30,220 100%   41.68kB/s    0:00:00           30,220 100%   41.68kB/s    0:00:00 (xfr#173, to-chk=600/901)
+.git/objects/pack/pack-d1144069eb8df888e2d77cd8d96e182d7b30c427.pack
+         32,768   0%   45.13kB/s    0:02:05           65,536   1%   59.87kB/s    0:01:33        5,682,626 100%    4.82MB/s    0:00:01 (xfr#174, to-chk=599/901)
+.git/refs/
+.git/refs/heads/
+.git/refs/heads/master
+             41 100%    0.74kB/s    0:00:00               41 100%    0.74kB/s    0:00:00 (xfr#175, to-chk=595/901)
+.git/refs/remotes/
+.git/refs/remotes/origin/
+.git/refs/remotes/origin/HEAD
+             32 100%    0.56kB/s    0:00:00               32 100%    0.56kB/s    0:00:00 (xfr#176, to-chk=593/901)
+.git/refs/remotes/origin/master
+             41 100%    0.71kB/s    0:00:00               41 100%    0.71kB/s    0:00:00 (xfr#177, to-chk=592/901)
+.git/refs/tags/
+AndroidDemo/
+AndroidDemo/.gitignore
+            225 100%    3.92kB/s    0:00:00              225 100%    3.92kB/s    0:00:00 (xfr#178, to-chk=591/901)
+AndroidDemo/README.md
+          1,738 100%   30.31kB/s    0:00:00            1,738 100%   30.31kB/s    0:00:00 (xfr#179, to-chk=590/901)
+AndroidDemo/README_en.md
+          2,018 100%   35.19kB/s    0:00:00            2,018 100%   35.19kB/s    0:00:00 (xfr#180, to-chk=589/901)
+AndroidDemo/build.gradle
+            296 100%    5.16kB/s    0:00:00              296 100%    5.16kB/s    0:00:00 (xfr#181, to-chk=588/901)
+AndroidDemo/gradle.properties
+          1,358 100%   22.87kB/s    0:00:00            1,358 100%   22.87kB/s    0:00:00 (xfr#182, to-chk=587/901)
+AndroidDemo/gradlew
+          5,766 100%   97.08kB/s    0:00:00            5,766 100%   97.08kB/s    0:00:00 (xfr#183, to-chk=586/901)
+AndroidDemo/gradlew.bat
+          2,674 100%   45.02kB/s    0:00:00            2,674 100%   45.02kB/s    0:00:00 (xfr#184, to-chk=585/901)
+AndroidDemo/settings.gradle
+            328 100%    5.52kB/s    0:00:00              328 100%    5.52kB/s    0:00:00 (xfr#185, to-chk=584/901)
+AndroidDemo/app/
+AndroidDemo/app/.gitignore
+             31 100%    0.52kB/s    0:00:00               31 100%    0.52kB/s    0:00:00 (xfr#186, to-chk=581/901)
+AndroidDemo/app/build.gradle
+          2,404 100%   40.48kB/s    0:00:00            2,404 100%   40.48kB/s    0:00:00 (xfr#187, to-chk=580/901)
+AndroidDemo/app/proguard-rules.pro
+            750 100%   12.63kB/s    0:00:00              750 100%   12.63kB/s    0:00:00 (xfr#188, to-chk=579/901)
+AndroidDemo/app/src/
+AndroidDemo/app/src/androidTest/
+AndroidDemo/app/src/androidTest/java/
+AndroidDemo/app/src/androidTest/java/com/
+AndroidDemo/app/src/androidTest/java/com/yeyupiaoling/
+AndroidDemo/app/src/androidTest/java/com/yeyupiaoling/whisper/
+AndroidDemo/app/src/androidTest/java/com/yeyupiaoling/whisper/ExampleInstrumentedTest.kt
+            675 100%   11.17kB/s    0:00:00              675 100%   11.17kB/s    0:00:00 (xfr#189, to-chk=570/901)
+AndroidDemo/app/src/main/
+AndroidDemo/app/src/main/AndroidManifest.xml
+          1,466 100%   24.27kB/s    0:00:00            1,466 100%   24.27kB/s    0:00:00 (xfr#190, to-chk=569/901)
+AndroidDemo/app/src/main/assets/
+AndroidDemo/app/src/main/assets/samples/
+AndroidDemo/app/src/main/java/
+AndroidDemo/app/src/main/java/com/
+AndroidDemo/app/src/main/java/com/yeyupiaoling/
+AndroidDemo/app/src/main/java/com/yeyupiaoling/whisper/
+AndroidDemo/app/src/main/java/com/yeyupiaoling/whisper/AudioFileActivity.kt
+          5,457 100%   90.32kB/s    0:00:00            5,457 100%   90.32kB/s    0:00:00 (xfr#191, to-chk=560/901)
+AndroidDemo/app/src/main/java/com/yeyupiaoling/whisper/AudioView.kt
+          5,899 100%   97.64kB/s    0:00:00            5,899 100%   97.64kB/s    0:00:00 (xfr#192, to-chk=559/901)
+AndroidDemo/app/src/main/java/com/yeyupiaoling/whisper/LibWhisper.kt
+          5,508 100%   91.17kB/s    0:00:00            5,508 100%   91.17kB/s    0:00:00 (xfr#193, to-chk=558/901)
+AndroidDemo/app/src/main/java/com/yeyupiaoling/whisper/MainActivity.kt
+          1,172 100%   19.40kB/s    0:00:00            1,172 100%   19.40kB/s    0:00:00 (xfr#194, to-chk=557/901)
+AndroidDemo/app/src/main/java/com/yeyupiaoling/whisper/RecordActivity.kt
+          7,872 100%  130.30kB/s    0:00:00            7,872 100%  130.30kB/s    0:00:00 (xfr#195, to-chk=556/901)
+AndroidDemo/app/src/main/java/com/yeyupiaoling/whisper/TestActivity.kt
+          4,586 100%   75.91kB/s    0:00:00            4,586 100%   75.91kB/s    0:00:00 (xfr#196, to-chk=555/901)
+AndroidDemo/app/src/main/java/com/yeyupiaoling/whisper/Utils.kt
+          4,472 100%   74.02kB/s    0:00:00            4,472 100%   74.02kB/s    0:00:00 (xfr#197, to-chk=554/901)
+AndroidDemo/app/src/main/java/com/yeyupiaoling/whisper/WhisperCpuConfig.kt
+          2,525 100%   41.79kB/s    0:00:00            2,525 100%   41.79kB/s    0:00:00 (xfr#198, to-chk=553/901)
+AndroidDemo/app/src/main/jni/
+AndroidDemo/app/src/main/jni/whisper/
+AndroidDemo/app/src/main/jni/whisper/Android.mk
+            834 100%   13.80kB/s    0:00:00              834 100%   13.80kB/s    0:00:00 (xfr#199, to-chk=551/901)
+AndroidDemo/app/src/main/jni/whisper/Application.mk
+             21 100%    0.35kB/s    0:00:00               21 100%    0.35kB/s    0:00:00 (xfr#200, to-chk=550/901)
+AndroidDemo/app/src/main/jni/whisper/Whisper.mk
+            845 100%   13.99kB/s    0:00:00              845 100%   13.99kB/s    0:00:00 (xfr#201, to-chk=549/901)
+AndroidDemo/app/src/main/jni/whisper/jni.c
+          8,440 100%  139.70kB/s    0:00:00            8,440 100%  139.70kB/s    0:00:00 (xfr#202, to-chk=548/901)
+AndroidDemo/app/src/main/jni/whisper/libwhisper/
+AndroidDemo/app/src/main/jni/whisper/libwhisper/ggml-alloc.c
+         27,134 100%  449.12kB/s    0:00:00           27,134 100%  449.12kB/s    0:00:00 (xfr#203, to-chk=546/901)
+AndroidDemo/app/src/main/jni/whisper/libwhisper/ggml-alloc.h
+          3,465 100%   56.40kB/s    0:00:00            3,465 100%   56.40kB/s    0:00:00 (xfr#204, to-chk=545/901)
+AndroidDemo/app/src/main/jni/whisper/libwhisper/ggml-backend-impl.h
+          3,265 100%   53.14kB/s    0:00:00            3,265 100%   53.14kB/s    0:00:00 (xfr#205, to-chk=544/901)
+AndroidDemo/app/src/main/jni/whisper/libwhisper/ggml-backend.c
+         32,768  90%  533.33kB/s    0:00:00           36,282 100%  590.53kB/s    0:00:00 (xfr#206, to-chk=543/901)
+AndroidDemo/app/src/main/jni/whisper/libwhisper/ggml-backend.h
+          5,894 100%   95.93kB/s    0:00:00            5,894 100%   95.93kB/s    0:00:00 (xfr#207, to-chk=542/901)
+AndroidDemo/app/src/main/jni/whisper/libwhisper/ggml-impl.h
+          7,382 100%  120.15kB/s    0:00:00            7,382 100%  120.15kB/s    0:00:00 (xfr#208, to-chk=541/901)
+AndroidDemo/app/src/main/jni/whisper/libwhisper/ggml-quants.c
+         32,768  11%   54.70kB/s    0:00:04          291,024 100%  317.19kB/s    0:00:00 (xfr#209, to-chk=540/901)
+AndroidDemo/app/src/main/jni/whisper/libwhisper/ggml-quants.h
+         10,231 100%   11.14kB/s    0:00:00           10,231 100%   11.14kB/s    0:00:00 (xfr#210, to-chk=539/901)
+AndroidDemo/app/src/main/jni/whisper/libwhisper/ggml.c
+         32,768   5%   35.67kB/s    0:00:16          631,756 100%  647.38kB/s    0:00:00 (xfr#211, to-chk=538/901)
+AndroidDemo/app/src/main/jni/whisper/libwhisper/ggml.h
+         32,768  41%   33.58kB/s    0:00:01           79,054 100%   80.75kB/s    0:00:00 (xfr#212, to-chk=537/901)
+AndroidDemo/app/src/main/jni/whisper/libwhisper/whisper.cpp
+         32,768  14%   33.37kB/s    0:00:05          131,072  58%  127.49kB/s    0:00:00          225,969 100%  219.79kB/s    0:00:01 (xfr#213, to-chk=536/901)
+AndroidDemo/app/src/main/jni/whisper/libwhisper/whisper.h
+         29,895 100%   28.51MB/s    0:00:00           29,895 100%   28.51MB/s    0:00:00 (xfr#214, to-chk=535/901)
+AndroidDemo/app/src/main/res/
+AndroidDemo/app/src/main/res/drawable-v24/
+AndroidDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+          1,702 100%  831.05kB/s    0:00:00            1,702 100%  831.05kB/s    0:00:00 (xfr#215, to-chk=523/901)
+AndroidDemo/app/src/main/res/drawable/
+AndroidDemo/app/src/main/res/drawable/ic_launcher_background.xml
+          5,606 100%    2.67MB/s    0:00:00            5,606 100%    2.67MB/s    0:00:00 (xfr#216, to-chk=522/901)
+AndroidDemo/app/src/main/res/layout/
+AndroidDemo/app/src/main/res/layout/activity_audio_file.xml
+            862 100%  420.90kB/s    0:00:00              862 100%  420.90kB/s    0:00:00 (xfr#217, to-chk=521/901)
+AndroidDemo/app/src/main/res/layout/activity_main.xml
+            958 100%  467.77kB/s    0:00:00              958 100%  467.77kB/s    0:00:00 (xfr#218, to-chk=520/901)
+AndroidDemo/app/src/main/res/layout/activity_record.xml
+          1,138 100%  555.66kB/s    0:00:00            1,138 100%  555.66kB/s    0:00:00 (xfr#219, to-chk=519/901)
+AndroidDemo/app/src/main/res/layout/activity_test.xml
+          1,204 100%  587.89kB/s    0:00:00            1,204 100%  587.89kB/s    0:00:00 (xfr#220, to-chk=518/901)
+AndroidDemo/app/src/main/res/mipmap-anydpi-v26/
+AndroidDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+            343 100%  167.48kB/s    0:00:00              343 100%  167.48kB/s    0:00:00 (xfr#221, to-chk=517/901)
+AndroidDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+            343 100%  167.48kB/s    0:00:00              343 100%  167.48kB/s    0:00:00 (xfr#222, to-chk=516/901)
+AndroidDemo/app/src/main/res/mipmap-hdpi/
+AndroidDemo/app/src/main/res/mipmap-hdpi/ic_launcher.webp
+          1,404 100%  457.03kB/s    0:00:00            1,404 100%  457.03kB/s    0:00:00 (xfr#223, to-chk=515/901)
+AndroidDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp
+          2,898 100%  943.36kB/s    0:00:00            2,898 100%  943.36kB/s    0:00:00 (xfr#224, to-chk=514/901)
+AndroidDemo/app/src/main/res/mipmap-mdpi/
+AndroidDemo/app/src/main/res/mipmap-mdpi/ic_launcher.webp
+            982 100%  319.66kB/s    0:00:00              982 100%  319.66kB/s    0:00:00 (xfr#225, to-chk=513/901)
+AndroidDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp
+          1,772 100%  576.82kB/s    0:00:00            1,772 100%  576.82kB/s    0:00:00 (xfr#226, to-chk=512/901)
+AndroidDemo/app/src/main/res/mipmap-xhdpi/
+AndroidDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.webp
+          1,900 100%  618.49kB/s    0:00:00            1,900 100%  618.49kB/s    0:00:00 (xfr#227, to-chk=511/901)
+AndroidDemo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp
+          3,918 100%    1.25MB/s    0:00:00            3,918 100%    1.25MB/s    0:00:00 (xfr#228, to-chk=510/901)
+AndroidDemo/app/src/main/res/mipmap-xxhdpi/
+AndroidDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp
+          2,884 100%  938.80kB/s    0:00:00            2,884 100%  938.80kB/s    0:00:00 (xfr#229, to-chk=509/901)
+AndroidDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp
+          5,914 100%    1.88MB/s    0:00:00            5,914 100%    1.88MB/s    0:00:00 (xfr#230, to-chk=508/901)
+AndroidDemo/app/src/main/res/mipmap-xxxhdpi/
+AndroidDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp
+          3,844 100%  938.48kB/s    0:00:00            3,844 100%  938.48kB/s    0:00:00 (xfr#231, to-chk=507/901)
+AndroidDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp
+          7,778 100%    1.85MB/s    0:00:00            7,778 100%    1.85MB/s    0:00:00 (xfr#232, to-chk=506/901)
+AndroidDemo/app/src/main/res/values/
+AndroidDemo/app/src/main/res/values/colors.xml
+            378 100%   92.29kB/s    0:00:00              378 100%   92.29kB/s    0:00:00 (xfr#233, to-chk=505/901)
+AndroidDemo/app/src/main/res/values/strings.xml
+             81 100%   19.78kB/s    0:00:00               81 100%   19.78kB/s    0:00:00 (xfr#234, to-chk=504/901)
+AndroidDemo/app/src/main/res/values/themes.xml
+            872 100%  212.89kB/s    0:00:00              872 100%  212.89kB/s    0:00:00 (xfr#235, to-chk=503/901)
+AndroidDemo/app/src/main/res/xml/
+AndroidDemo/app/src/main/res/xml/backup_rules.xml
+            478 100%  116.70kB/s    0:00:00              478 100%  116.70kB/s    0:00:00 (xfr#236, to-chk=502/901)
+AndroidDemo/app/src/main/res/xml/data_extraction_rules.xml
+            551 100%  134.52kB/s    0:00:00              551 100%  134.52kB/s    0:00:00 (xfr#237, to-chk=501/901)
+AndroidDemo/app/src/test/
+AndroidDemo/app/src/test/java/
+AndroidDemo/app/src/test/java/com/
+AndroidDemo/app/src/test/java/com/yeyupiaoling/
+AndroidDemo/app/src/test/java/com/yeyupiaoling/whisper/
+AndroidDemo/app/src/test/java/com/yeyupiaoling/whisper/ExampleUnitTest.kt
+            348 100%   84.96kB/s    0:00:00              348 100%   84.96kB/s    0:00:00 (xfr#238, to-chk=496/901)
+AndroidDemo/gradle/
+AndroidDemo/gradle/wrapper/
+AndroidDemo/gradle/wrapper/gradle-wrapper.jar
+         32,768  55%    6.25MB/s    0:00:00           59,203 100%  589.95kB/s    0:00:00 (xfr#239, to-chk=494/901)
+AndroidDemo/gradle/wrapper/gradle-wrapper.properties
+            230 100%    2.29kB/s    0:00:00              230 100%    2.29kB/s    0:00:00 (xfr#240, to-chk=493/901)
+WhisperDesktop/
+WhisperDesktop/README.md
+          1,104 100%   11.00kB/s    0:00:00            1,104 100%   11.00kB/s    0:00:00 (xfr#241, to-chk=492/901)
+WhisperDesktop/README_en.md
+          1,298 100%   12.93kB/s    0:00:00            1,298 100%   12.93kB/s    0:00:00 (xfr#242, to-chk=491/901)
+WhisperDesktop/Whisper.dll
+         32,768   5%  326.53kB/s    0:00:01          576,512 100%  913.96kB/s    0:00:00 (xfr#243, to-chk=490/901)
+WhisperDesktop/WhisperDesktop.exe
+         32,768   9%   51.86kB/s    0:00:05          343,040 100%  493.37kB/s    0:00:00 (xfr#244, to-chk=489/901)
+configs/
+configs/augmentation.json
+            664 100%    0.95kB/s    0:00:00              664 100%    0.95kB/s    0:00:00 (xfr#245, to-chk=488/901)
+dataset/
+dataset/CDSD/
+dataset/CDSD/dev.json
+         32,768   2%   46.99kB/s    0:00:22        1,101,737 100%    1.42MB/s    0:00:00 (xfr#246, to-chk=481/901)
+dataset/CDSD/test.json
+         32,768   2%   43.36kB/s    0:00:31        1,416,221 100%    1.72MB/s    0:00:00 (xfr#247, to-chk=480/901)
+dataset/CDSD/train.json
+         32,768   0%   40.76kB/s    0:02:56        7,243,574 100%    8.16MB/s    0:00:00 (xfr#248, to-chk=479/901)
+dataset/MSDM/
+dataset/MSDM/dev.json
+         32,768   1%   37.78kB/s    0:01:21        3,107,091 100%    3.26MB/s    0:00:00 (xfr#249, to-chk=478/901)
+dataset/MSDM/test.json
+         32,768   1%   35.16kB/s    0:00:53        1,920,471 100%    1.87MB/s    0:00:00 (xfr#250, to-chk=477/901)
+dataset/MSDM/train.json
+         32,768   0%   32.65kB/s    0:09:15          131,072   0%  125.61kB/s    0:02:23       18,159,332 100%   15.84MB/s    0:00:01 (xfr#251, to-chk=476/901)
+dataset/SpeechAccessibility/
+dataset/SpeechAccessibility/dev.json
+         32,768   0%  432.43kB/s    0:00:23       10,208,119 100%   37.73MB/s    0:00:00 (xfr#252, to-chk=475/901)
+dataset/SpeechAccessibility/test.json
+         32,768   0%  124.03kB/s    0:02:21       17,557,194 100%   29.69MB/s    0:00:00 (xfr#253, to-chk=474/901)
+dataset/SpeechAccessibility/train.json
+         32,768   0%   56.64kB/s    0:07:30       25,539,404 100%   30.79MB/s    0:00:00 (xfr#254, to-chk=473/901)
+dataset/TORGO/
+dataset/TORGO/dev.json
+         32,768   1%   40.46kB/s    0:00:53        2,183,996 100%    2.10MB/s    0:00:00 (xfr#255, to-chk=472/901)
+dataset/TORGO/test.json
+         32,768  11%   32.16kB/s    0:00:07          131,072  46%  124.15kB/s    0:00:01          280,304 100%  265.25kB/s    0:00:01 (xfr#256, to-chk=471/901)
+dataset/TORGO/train.json
+         32,768  17%   31.25MB/s    0:00:00          186,482 100%    9.88MB/s    0:00:00 (xfr#257, to-chk=470/901)
+dataset/UASPEECH/
+dataset/UASPEECH/dev.json
+         32,768   0%    1.74MB/s    0:00:02        5,362,010 100%   60.88MB/s    0:00:00 (xfr#258, to-chk=469/901)
+dataset/UASPEECH/test.json
+         32,768   0%  376.47kB/s    0:00:19        7,218,350 100%   43.30MB/s    0:00:00 (xfr#259, to-chk=468/901)
+dataset/UASPEECH/train.json
+         32,768   0%  201.26kB/s    0:02:29       30,134,404 100%   94.22MB/s    0:00:00 (xfr#260, to-chk=467/901)
+dataset/VoiceBank/
+dataset/VoiceBank/dev.json
+         32,768   7%  104.92kB/s    0:00:03          440,072 100%  914.38kB/s    0:00:00 (xfr#261, to-chk=466/901)
+dataset/VoiceBank/test.json
+         32,768   3%   68.09kB/s    0:00:13          935,771 100%    1.68MB/s    0:00:00 (xfr#262, to-chk=465/901)
+dataset/VoiceBank/train.json
+         32,768   0%   60.15kB/s    0:01:20        4,864,948 100%    7.73MB/s    0:00:00 (xfr#263, to-chk=464/901)
+docs/
+docs/images/
+docs/images/android.jpg
+          7,852 100%   12.78kB/s    0:00:00            7,852 100%   12.78kB/s    0:00:00 (xfr#264, to-chk=462/901)
+docs/images/android1.jpg
+         32,768  76%   53.33kB/s    0:00:00           42,967 100%   69.93kB/s    0:00:00 (xfr#265, to-chk=461/901)
+docs/images/android2.jpg
+         32,768  73%   53.33kB/s    0:00:00           44,775 100%   72.88kB/s    0:00:00 (xfr#266, to-chk=460/901)
+docs/images/android3.jpg
+         32,768  64%   53.33kB/s    0:00:00           50,613 100%   82.38kB/s    0:00:00 (xfr#267, to-chk=459/901)
+docs/images/android4.jpg
+         32,768  41%   46.99kB/s    0:00:00           79,708 100%  108.11kB/s    0:00:00 (xfr#268, to-chk=458/901)
+docs/images/desktop1.jpg
+         19,788 100%   26.84kB/s    0:00:00           19,788 100%   26.84kB/s    0:00:00 (xfr#269, to-chk=457/901)
+docs/images/desktop2.jpg
+         32,768  99%   44.44kB/s    0:00:00           32,774 100%   44.45kB/s    0:00:00 (xfr#270, to-chk=456/901)
+docs/images/desktop3.jpg
+         25,952 100%   33.97kB/s    0:00:00           25,952 100%   33.97kB/s    0:00:00 (xfr#271, to-chk=455/901)
+docs/images/gui.jpg
+         18,472 100%   24.18kB/s    0:00:00           18,472 100%   24.18kB/s    0:00:00 (xfr#272, to-chk=454/901)
+docs/images/qq.png
+         32,768  63%   40.76kB/s    0:00:00           51,564 100%   64.15kB/s    0:00:00 (xfr#273, to-chk=453/901)
+docs/images/web.jpg
+         24,447 100%   30.41kB/s    0:00:00           24,447 100%   30.41kB/s    0:00:00 (xfr#274, to-chk=452/901)
+init_results/
+init_results/CDSD/
+init_results/MSDM/
+init_results/SpeechAccessibility/
+init_results/TORGO/
+init_results/UASPEECH/
+init_results/VoiceBank/
+log/
+metrics/
+metrics/__init__.py
+              0 100%    0.00kB/s    0:00:00 (xfr#275, to-chk=445/901)
+metrics/cer.py
+          5,876 100%    7.30kB/s    0:00:00            5,876 100%    7.30kB/s    0:00:00 (xfr#276, to-chk=444/901)
+metrics/wer.py
+          4,797 100%    5.96kB/s    0:00:00            4,797 100%    5.96kB/s    0:00:00 (xfr#277, to-chk=443/901)
+models/
+models/CDSD/
+models/CDSD/whisper-base-finetune/
+models/CDSD/whisper-base-finetune/added_tokens.json
+         32,768  94%   36.53kB/s    0:00:00           34,604 100%   38.58kB/s    0:00:00 (xfr#278, to-chk=435/901)
+models/CDSD/whisper-base-finetune/config.json
+          1,407 100%    1.57kB/s    0:00:00            1,407 100%    1.57kB/s    0:00:00 (xfr#279, to-chk=434/901)
+models/CDSD/whisper-base-finetune/generation_config.json
+          3,802 100%    4.24kB/s    0:00:00            3,802 100%    4.24kB/s    0:00:00 (xfr#280, to-chk=433/901)
+models/CDSD/whisper-base-finetune/normalizer.json
+         32,768  62%   36.53kB/s    0:00:00           52,666 100%   58.71kB/s    0:00:00 (xfr#281, to-chk=432/901)
+models/CDSD/whisper-base-finetune/preprocessor_config.json
+            339 100%    0.38kB/s    0:00:00              339 100%    0.38kB/s    0:00:00 (xfr#282, to-chk=431/901)
+models/CDSD/whisper-base-finetune/special_tokens_map.json
+          2,194 100%    2.44kB/s    0:00:00            2,194 100%    2.44kB/s    0:00:00 (xfr#283, to-chk=430/901)
+models/CDSD/whisper-base-finetune/tokenizer.json
+         32,768   0%   32.00kB/s    0:02:01           65,536   1%   57.97kB/s    0:01:06        3,930,494 100%    3.03MB/s    0:00:01 (xfr#284, to-chk=429/901)
+models/CDSD/whisper-base-finetune/tokenizer_config.json
+         32,768  11%  240.60kB/s    0:00:01          282,713 100%    1.60MB/s    0:00:00 (xfr#285, to-chk=428/901)
+models/CDSD/whisper-base-finetune/vocab.json
+         32,768   3%  189.35kB/s    0:00:05        1,036,584 100%    4.39MB/s    0:00:00 (xfr#286, to-chk=427/901)
+models/MSDM/
+models/MSDM/whisper-base-finetune/
+models/MSDM/whisper-base-finetune/added_tokens.json
+         32,768  94%  141.59kB/s    0:00:00           34,604 100%  149.53kB/s    0:00:00 (xfr#287, to-chk=425/901)
+models/MSDM/whisper-base-finetune/config.json
+          1,407 100%    6.08kB/s    0:00:00            1,407 100%    6.08kB/s    0:00:00 (xfr#288, to-chk=424/901)
+models/MSDM/whisper-base-finetune/generation_config.json
+          3,802 100%   16.43kB/s    0:00:00            3,802 100%   16.43kB/s    0:00:00 (xfr#289, to-chk=423/901)
+models/MSDM/whisper-base-finetune/normalizer.json
+         32,768  62%  141.59kB/s    0:00:00           52,666 100%  227.57kB/s    0:00:00 (xfr#290, to-chk=422/901)
+models/MSDM/whisper-base-finetune/preprocessor_config.json
+            339 100%    1.46kB/s    0:00:00              339 100%    1.46kB/s    0:00:00 (xfr#291, to-chk=421/901)
+models/MSDM/whisper-base-finetune/special_tokens_map.json
+          2,194 100%    9.44kB/s    0:00:00            2,194 100%    9.44kB/s    0:00:00 (xfr#292, to-chk=420/901)
+models/MSDM/whisper-base-finetune/tokenizer.json
+         32,768   0%  140.97kB/s    0:00:27        3,930,494 100%    8.08MB/s    0:00:00 (xfr#293, to-chk=419/901)
+models/MSDM/whisper-base-finetune/tokenizer_config.json
+         32,768  11%   68.82kB/s    0:00:03          282,713 100%  538.18kB/s    0:00:00 (xfr#294, to-chk=418/901)
+models/MSDM/whisper-base-finetune/vocab.json
+         32,768   3%   62.26kB/s    0:00:16        1,036,584 100%    1.78MB/s    0:00:00 (xfr#295, to-chk=417/901)
+models/MSDM/whisper-base-finetune/whisper-base-finetune/
+models/MSDM/whisper-base-finetune/whisper-base-finetune/added_tokens.json
+         32,768  94%   57.76kB/s    0:00:00           34,604 100%   61.00kB/s    0:00:00 (xfr#296, to-chk=415/901)
+models/MSDM/whisper-base-finetune/whisper-base-finetune/config.json
+          1,407 100%    2.48kB/s    0:00:00            1,407 100%    2.48kB/s    0:00:00 (xfr#297, to-chk=414/901)
+models/MSDM/whisper-base-finetune/whisper-base-finetune/generation_config.json
+          3,802 100%    6.70kB/s    0:00:00            3,802 100%    6.70kB/s    0:00:00 (xfr#298, to-chk=413/901)
+models/MSDM/whisper-base-finetune/whisper-base-finetune/normalizer.json
+         32,768  62%   57.66kB/s    0:00:00           52,666 100%   92.67kB/s    0:00:00 (xfr#299, to-chk=412/901)
+models/MSDM/whisper-base-finetune/whisper-base-finetune/preprocessor_config.json
+            339 100%    0.60kB/s    0:00:00              339 100%    0.60kB/s    0:00:00 (xfr#300, to-chk=411/901)
+models/MSDM/whisper-base-finetune/whisper-base-finetune/special_tokens_map.json
+          2,194 100%    3.86kB/s    0:00:00            2,194 100%    3.86kB/s    0:00:00 (xfr#301, to-chk=410/901)
+models/MSDM/whisper-base-finetune/whisper-base-finetune/tokenizer.json
+         32,768   0%   57.66kB/s    0:01:07        3,930,494 100%    4.65MB/s    0:00:00 (xfr#302, to-chk=409/901)
+models/MSDM/whisper-base-finetune/whisper-base-finetune/tokenizer_config.json
+         32,768  11%   39.70kB/s    0:00:06          282,713 100%  326.73kB/s    0:00:00 (xfr#303, to-chk=408/901)
+models/MSDM/whisper-base-finetune/whisper-base-finetune/vocab.json
+         32,768   3%   37.65kB/s    0:00:26        1,036,584 100%    1.08MB/s    0:00:00 (xfr#304, to-chk=407/901)
+models/SpeechAccessibility/
+models/SpeechAccessibility/whisper-base-finetune/
+models/SpeechAccessibility/whisper-base-finetune/added_tokens.json
+         32,768  94%   34.93kB/s    0:00:00           34,604 100%   36.89kB/s    0:00:00 (xfr#305, to-chk=405/901)
+models/SpeechAccessibility/whisper-base-finetune/config.json
+          1,407 100%    1.50kB/s    0:00:00            1,407 100%    1.50kB/s    0:00:00 (xfr#306, to-chk=404/901)
+models/SpeechAccessibility/whisper-base-finetune/generation_config.json
+          3,802 100%    4.05kB/s    0:00:00            3,802 100%    4.05kB/s    0:00:00 (xfr#307, to-chk=403/901)
+models/SpeechAccessibility/whisper-base-finetune/normalizer.json
+         32,768  62%   34.90kB/s    0:00:00           52,666 100%   56.09kB/s    0:00:00 (xfr#308, to-chk=402/901)
+models/SpeechAccessibility/whisper-base-finetune/preprocessor_config.json
+            339 100%    0.36kB/s    0:00:00              339 100%    0.36kB/s    0:00:00 (xfr#309, to-chk=401/901)
+models/SpeechAccessibility/whisper-base-finetune/special_tokens_map.json
+          2,194 100%    2.34kB/s    0:00:00            2,194 100%    2.34kB/s    0:00:00 (xfr#310, to-chk=400/901)
+models/SpeechAccessibility/whisper-base-finetune/tokenizer.json
+         32,768   0%   34.86kB/s    0:01:51           65,536   1%   60.43kB/s    0:01:03        3,930,494 100%    3.25MB/s    0:00:01 (xfr#311, to-chk=399/901)
+models/SpeechAccessibility/whisper-base-finetune/tokenizer_config.json
+         32,768  11%  344.09kB/s    0:00:00          282,713 100%    2.07MB/s    0:00:00 (xfr#312, to-chk=398/901)
+models/SpeechAccessibility/whisper-base-finetune/vocab.json
+         32,768   3%  246.15kB/s    0:00:04        1,036,584 100%    5.78MB/s    0:00:00 (xfr#313, to-chk=397/901)
+models/TORGO/
+models/TORGO/whisper-base-finetune/
+models/TORGO/whisper-base-finetune/added_tokens.json
+         32,768  94%  186.05kB/s    0:00:00           34,604 100%  196.47kB/s    0:00:00 (xfr#314, to-chk=395/901)
+models/TORGO/whisper-base-finetune/config.json
+          1,407 100%    7.99kB/s    0:00:00            1,407 100%    7.99kB/s    0:00:00 (xfr#315, to-chk=394/901)
+models/TORGO/whisper-base-finetune/generation_config.json
+          3,802 100%   21.59kB/s    0:00:00            3,802 100%   21.59kB/s    0:00:00 (xfr#316, to-chk=393/901)
+models/TORGO/whisper-base-finetune/normalizer.json
+         32,768  62%  186.05kB/s    0:00:00           52,666 100%  297.29kB/s    0:00:00 (xfr#317, to-chk=392/901)
+models/TORGO/whisper-base-finetune/preprocessor_config.json
+            339 100%    1.91kB/s    0:00:00              339 100%    1.91kB/s    0:00:00 (xfr#318, to-chk=391/901)
+models/TORGO/whisper-base-finetune/special_tokens_map.json
+          2,194 100%   12.38kB/s    0:00:00            2,194 100%   12.38kB/s    0:00:00 (xfr#319, to-chk=390/901)
+models/TORGO/whisper-base-finetune/tokenizer.json
+         32,768   0%  184.97kB/s    0:00:21        3,930,494 100%   10.44MB/s    0:00:00 (xfr#320, to-chk=389/901)
+models/TORGO/whisper-base-finetune/tokenizer_config.json
+         32,768  11%   88.89kB/s    0:00:02          282,713 100%  662.08kB/s    0:00:00 (xfr#321, to-chk=388/901)
+models/TORGO/whisper-base-finetune/vocab.json
+         32,768   3%   76.74kB/s    0:00:13        1,036,584 100%    2.15MB/s    0:00:00 (xfr#322, to-chk=387/901)
+models/UASPEECH/
+models/UASPEECH/whisper-base-finetune/
+models/UASPEECH/whisper-base-finetune/added_tokens.json
+         32,768  94%   69.41kB/s    0:00:00           34,604 100%   73.30kB/s    0:00:00 (xfr#323, to-chk=385/901)
+models/UASPEECH/whisper-base-finetune/config.json
+          1,407 100%    2.98kB/s    0:00:00            1,407 100%    2.98kB/s    0:00:00 (xfr#324, to-chk=384/901)
+models/UASPEECH/whisper-base-finetune/generation_config.json
+          3,802 100%    8.05kB/s    0:00:00            3,802 100%    8.05kB/s    0:00:00 (xfr#325, to-chk=383/901)
+models/UASPEECH/whisper-base-finetune/normalizer.json
+         32,768  62%   69.41kB/s    0:00:00           52,666 100%  111.57kB/s    0:00:00 (xfr#326, to-chk=382/901)
+models/UASPEECH/whisper-base-finetune/preprocessor_config.json
+            339 100%    0.72kB/s    0:00:00              339 100%    0.72kB/s    0:00:00 (xfr#327, to-chk=381/901)
+models/UASPEECH/whisper-base-finetune/special_tokens_map.json
+          2,194 100%    4.64kB/s    0:00:00            2,194 100%    4.64kB/s    0:00:00 (xfr#328, to-chk=380/901)
+models/UASPEECH/whisper-base-finetune/tokenizer.json
+         32,768   0%   69.26kB/s    0:00:56        3,930,494 100%    5.21MB/s    0:00:00 (xfr#329, to-chk=379/901)
+models/UASPEECH/whisper-base-finetune/tokenizer_config.json
+         32,768  11%   44.44kB/s    0:00:05          282,713 100%  355.32kB/s    0:00:00 (xfr#330, to-chk=378/901)
+models/UASPEECH/whisper-base-finetune/vocab.json
+         32,768   3%   41.13kB/s    0:00:24        1,036,584 100%    1.22MB/s    0:00:00 (xfr#331, to-chk=377/901)
+models/VoiceBank/
+models/VoiceBank/whisper-base-finetune/
+models/VoiceBank/whisper-base-finetune/added_tokens.json
+         32,768  94%   39.36kB/s    0:00:00           34,604 100%   41.57kB/s    0:00:00 (xfr#332, to-chk=375/901)
+models/VoiceBank/whisper-base-finetune/config.json
+          1,407 100%    1.69kB/s    0:00:00            1,407 100%    1.69kB/s    0:00:00 (xfr#333, to-chk=374/901)
+models/VoiceBank/whisper-base-finetune/generation_config.json
+          3,802 100%    4.57kB/s    0:00:00            3,802 100%    4.56kB/s    0:00:00 (xfr#334, to-chk=373/901)
+models/VoiceBank/whisper-base-finetune/normalizer.json
+         32,768  62%   39.31kB/s    0:00:00           52,666 100%   63.18kB/s    0:00:00 (xfr#335, to-chk=372/901)
+models/VoiceBank/whisper-base-finetune/preprocessor_config.json
+            339 100%    0.41kB/s    0:00:00              339 100%    0.41kB/s    0:00:00 (xfr#336, to-chk=371/901)
+models/VoiceBank/whisper-base-finetune/special_tokens_map.json
+          2,194 100%    2.63kB/s    0:00:00            2,194 100%    2.63kB/s    0:00:00 (xfr#337, to-chk=370/901)
+models/VoiceBank/whisper-base-finetune/tokenizer.json
+         32,768   0%   39.26kB/s    0:01:39        1,933,312  49%    1.84MB/s    0:00:01        3,930,494 100%    3.71MB/s    0:00:01 (xfr#338, to-chk=369/901)
+models/VoiceBank/whisper-base-finetune/tokenizer_config.json
+         32,768  11%    2.60MB/s    0:00:00          282,713 100%    8.17MB/s    0:00:00 (xfr#339, to-chk=368/901)
+models/VoiceBank/whisper-base-finetune/vocab.json
+         32,768   3%  941.18kB/s    0:00:01        1,036,584 100%   13.36MB/s    0:00:00 (xfr#340, to-chk=367/901)
+output/
+output/CDSD/
+output/CDSD/whisper-base/
+output/CDSD/whisper-base/trainer_state.json
+         17,002 100%  221.38kB/s    0:00:00           17,002 100%  221.38kB/s    0:00:00 (xfr#341, to-chk=359/901)
+output/CDSD/whisper-base/checkpoint-1000/
+output/CDSD/whisper-base/checkpoint-1000/README.md
+          5,131 100%   66.81kB/s    0:00:00            5,131 100%   66.81kB/s    0:00:00 (xfr#342, to-chk=346/901)
+output/CDSD/whisper-base/checkpoint-1000/adapter_config.json
+          1,096 100%   14.27kB/s    0:00:00            1,096 100%   14.27kB/s    0:00:00 (xfr#343, to-chk=345/901)
+output/CDSD/whisper-base/checkpoint-1000/preprocessor_config.json
+            339 100%    4.41kB/s    0:00:00              339 100%    4.41kB/s    0:00:00 (xfr#344, to-chk=344/901)
+output/CDSD/whisper-base/checkpoint-1000/trainer_state.json
+          2,763 100%   35.98kB/s    0:00:00            2,763 100%   35.98kB/s    0:00:00 (xfr#345, to-chk=343/901)
+output/CDSD/whisper-base/checkpoint-2000/
+output/CDSD/whisper-base/checkpoint-2000/README.md
+          5,131 100%   66.81kB/s    0:00:00            5,131 100%   66.81kB/s    0:00:00 (xfr#346, to-chk=342/901)
+output/CDSD/whisper-base/checkpoint-2000/adapter_config.json
+          1,096 100%   14.27kB/s    0:00:00            1,096 100%   14.27kB/s    0:00:00 (xfr#347, to-chk=341/901)
+output/CDSD/whisper-base/checkpoint-2000/preprocessor_config.json
+            339 100%    4.41kB/s    0:00:00              339 100%    4.41kB/s    0:00:00 (xfr#348, to-chk=340/901)
+output/CDSD/whisper-base/checkpoint-2000/trainer_state.json
+          4,713 100%   60.56kB/s    0:00:00            4,713 100%   60.56kB/s    0:00:00 (xfr#349, to-chk=339/901)
+output/CDSD/whisper-base/checkpoint-3000/
+output/CDSD/whisper-base/checkpoint-3000/README.md
+          5,131 100%   65.93kB/s    0:00:00            5,131 100%   65.93kB/s    0:00:00 (xfr#350, to-chk=338/901)
+output/CDSD/whisper-base/checkpoint-3000/adapter_config.json
+          1,096 100%   14.08kB/s    0:00:00            1,096 100%   14.08kB/s    0:00:00 (xfr#351, to-chk=337/901)
+output/CDSD/whisper-base/checkpoint-3000/preprocessor_config.json
+            339 100%    4.36kB/s    0:00:00              339 100%    4.36kB/s    0:00:00 (xfr#352, to-chk=336/901)
+output/CDSD/whisper-base/checkpoint-3000/trainer_state.json
+          6,662 100%   85.60kB/s    0:00:00            6,662 100%   85.60kB/s    0:00:00 (xfr#353, to-chk=335/901)
+output/CDSD/whisper-base/checkpoint-4000/
+output/CDSD/whisper-base/checkpoint-4000/README.md
+          5,131 100%   65.93kB/s    0:00:00            5,131 100%   65.93kB/s    0:00:00 (xfr#354, to-chk=334/901)
+output/CDSD/whisper-base/checkpoint-4000/adapter_config.json
+          1,096 100%   14.08kB/s    0:00:00            1,096 100%   14.08kB/s    0:00:00 (xfr#355, to-chk=333/901)
+output/CDSD/whisper-base/checkpoint-4000/preprocessor_config.json
+            339 100%    4.36kB/s    0:00:00              339 100%    4.36kB/s    0:00:00 (xfr#356, to-chk=332/901)
+output/CDSD/whisper-base/checkpoint-4000/trainer_state.json
+          8,612 100%  109.22kB/s    0:00:00            8,612 100%  109.22kB/s    0:00:00 (xfr#357, to-chk=331/901)
+output/CDSD/whisper-base/checkpoint-5000/
+output/CDSD/whisper-base/checkpoint-5000/README.md
+          5,131 100%   65.07kB/s    0:00:00            5,131 100%   65.07kB/s    0:00:00 (xfr#358, to-chk=330/901)
+output/CDSD/whisper-base/checkpoint-5000/adapter_config.json
+          1,096 100%   13.90kB/s    0:00:00            1,096 100%   13.90kB/s    0:00:00 (xfr#359, to-chk=329/901)
+output/CDSD/whisper-base/checkpoint-5000/preprocessor_config.json
+            339 100%    4.30kB/s    0:00:00              339 100%    4.30kB/s    0:00:00 (xfr#360, to-chk=328/901)
+output/CDSD/whisper-base/checkpoint-5000/trainer_state.json
+         10,564 100%  133.98kB/s    0:00:00           10,564 100%  133.98kB/s    0:00:00 (xfr#361, to-chk=327/901)
+output/CDSD/whisper-base/checkpoint-6000/
+output/CDSD/whisper-base/checkpoint-6000/README.md
+          5,131 100%   65.07kB/s    0:00:00            5,131 100%   65.07kB/s    0:00:00 (xfr#362, to-chk=326/901)
+output/CDSD/whisper-base/checkpoint-6000/adapter_config.json
+          1,096 100%   13.90kB/s    0:00:00            1,096 100%   13.90kB/s    0:00:00 (xfr#363, to-chk=325/901)
+output/CDSD/whisper-base/checkpoint-6000/preprocessor_config.json
+            339 100%    4.30kB/s    0:00:00              339 100%    4.30kB/s    0:00:00 (xfr#364, to-chk=324/901)
+output/CDSD/whisper-base/checkpoint-6000/trainer_state.json
+         12,521 100%  158.80kB/s    0:00:00           12,521 100%  158.80kB/s    0:00:00 (xfr#365, to-chk=323/901)
+output/CDSD/whisper-base/checkpoint-7000/
+output/CDSD/whisper-base/checkpoint-7000/README.md
+          5,131 100%   64.24kB/s    0:00:00            5,131 100%   64.24kB/s    0:00:00 (xfr#366, to-chk=322/901)
+output/CDSD/whisper-base/checkpoint-7000/adapter_config.json
+          1,096 100%   13.72kB/s    0:00:00            1,096 100%   13.72kB/s    0:00:00 (xfr#367, to-chk=321/901)
+output/CDSD/whisper-base/checkpoint-7000/preprocessor_config.json
+            339 100%    4.24kB/s    0:00:00              339 100%    4.24kB/s    0:00:00 (xfr#368, to-chk=320/901)
+output/CDSD/whisper-base/checkpoint-7000/trainer_state.json
+         14,465 100%   46.47kB/s    0:00:00           14,465 100%   46.47kB/s    0:00:00 (xfr#369, to-chk=319/901)
+output/CDSD/whisper-base/checkpoint-8000/
+output/CDSD/whisper-base/checkpoint-8000/README.md
+          5,131 100%   16.48kB/s    0:00:00            5,131 100%   16.48kB/s    0:00:00 (xfr#370, to-chk=318/901)
+output/CDSD/whisper-base/checkpoint-8000/adapter_config.json
+          1,096 100%    3.52kB/s    0:00:00            1,096 100%    3.52kB/s    0:00:00 (xfr#371, to-chk=317/901)
+output/CDSD/whisper-base/checkpoint-8000/preprocessor_config.json
+            339 100%    1.09kB/s    0:00:00              339 100%    1.09kB/s    0:00:00 (xfr#372, to-chk=316/901)
+output/CDSD/whisper-base/checkpoint-8000/trainer_state.json
+         16,421 100%   52.58kB/s    0:00:00           16,421 100%   52.58kB/s    0:00:00 (xfr#373, to-chk=315/901)
+output/CDSD/whisper-base/checkpoint-8226/
+output/CDSD/whisper-base/checkpoint-8226/README.md
+          5,131 100%   16.43kB/s    0:00:00            5,131 100%   16.43kB/s    0:00:00 (xfr#374, to-chk=314/901)
+output/CDSD/whisper-base/checkpoint-8226/adapter_config.json
+          1,096 100%    3.51kB/s    0:00:00            1,096 100%    3.51kB/s    0:00:00 (xfr#375, to-chk=313/901)
+output/CDSD/whisper-base/checkpoint-8226/preprocessor_config.json
+            339 100%    1.09kB/s    0:00:00              339 100%    1.09kB/s    0:00:00 (xfr#376, to-chk=312/901)
+output/CDSD/whisper-base/checkpoint-8226/trainer_state.json
+         16,754 100%   53.64kB/s    0:00:00           16,754 100%   53.64kB/s    0:00:00 (xfr#377, to-chk=311/901)
+output/CDSD/whisper-base/checkpoint-best/
+output/CDSD/whisper-base/checkpoint-best/README.md
+          5,131 100%    6.11kB/s    0:00:00            5,131 100%    6.11kB/s    0:00:00 (xfr#378, to-chk=310/901)
+output/CDSD/whisper-base/checkpoint-best/adapter_config.json
+          1,096 100%    1.31kB/s    0:00:00            1,096 100%    1.31kB/s    0:00:00 (xfr#379, to-chk=309/901)
+output/CDSD/whisper-base/checkpoint-best/preprocessor_config.json
+            339 100%    0.40kB/s    0:00:00              339 100%    0.40kB/s    0:00:00 (xfr#380, to-chk=308/901)
+output/CDSD/whisper-base/checkpoint-best/trainer_state.json
+         16,421 100%   19.56kB/s    0:00:00           16,421 100%   19.56kB/s    0:00:00 (xfr#381, to-chk=307/901)
+output/CDSD/whisper-base/checkpoint-final/
+output/CDSD/whisper-base/checkpoint-final/README.md
+          5,131 100%    6.10kB/s    0:00:00            5,131 100%    6.10kB/s    0:00:00 (xfr#382, to-chk=306/901)
+output/CDSD/whisper-base/checkpoint-final/adapter_config.json
+          1,096 100%    1.30kB/s    0:00:00            1,096 100%    1.30kB/s    0:00:00 (xfr#383, to-chk=305/901)
+output/CDSD/whisper-base/runs/
+output/CDSD/whisper-base/runs/Feb26_08-02-04_aimsl-215/
+output/CDSD/whisper-base/runs/Feb26_08-02-04_aimsl-215/events.out.tfevents.1740556924.aimsl-215
+          5,893 100%    7.01kB/s    0:00:00            5,893 100%    7.01kB/s    0:00:00 (xfr#384, to-chk=294/901)
+output/CDSD/whisper-base/runs/Feb26_08-02-32_aimsl-215/
+output/CDSD/whisper-base/runs/Feb26_08-02-32_aimsl-215/events.out.tfevents.1740556953.aimsl-215
+          5,893 100%    7.01kB/s    0:00:00            5,893 100%    7.01kB/s    0:00:00 (xfr#385, to-chk=293/901)
+output/CDSD/whisper-base/runs/Feb26_08-04-06_aimsl-215/
+output/CDSD/whisper-base/runs/Feb26_08-04-06_aimsl-215/events.out.tfevents.1740557046.aimsl-215
+          5,893 100%    7.01kB/s    0:00:00            5,893 100%    7.01kB/s    0:00:00 (xfr#386, to-chk=292/901)
+output/CDSD/whisper-base/runs/Feb26_08-05-53_aimsl-215/
+output/CDSD/whisper-base/runs/Feb26_08-05-53_aimsl-215/events.out.tfevents.1740557153.aimsl-215
+          5,893 100%    7.01kB/s    0:00:00            5,893 100%    7.01kB/s    0:00:00 (xfr#387, to-chk=291/901)
+output/CDSD/whisper-base/runs/Feb26_08-17-07_aimsl-215/
+output/CDSD/whisper-base/runs/Feb26_08-17-07_aimsl-215/events.out.tfevents.1740557828.aimsl-215
+          5,893 100%    7.01kB/s    0:00:00            5,893 100%    7.01kB/s    0:00:00 (xfr#388, to-chk=290/901)
+output/CDSD/whisper-base/runs/Feb26_08-19-06_aimsl-216/
+output/CDSD/whisper-base/runs/Feb26_08-19-06_aimsl-216/events.out.tfevents.1740557947.aimsl-216
+         25,713 100%   22.70kB/s    0:00:00           25,713 100%   22.70kB/s    0:00:01 (xfr#389, to-chk=289/901)
+output/CDSD/whisper-base/runs/Feb26_12-53-51_aimsl-215/
+output/CDSD/whisper-base/runs/Feb26_12-53-51_aimsl-215/events.out.tfevents.1740574432.aimsl-215
+          5,893 100%    5.20kB/s    0:00:00            5,893 100%    5.20kB/s    0:00:01 (xfr#390, to-chk=288/901)
+output/CDSD/whisper-base/runs/Feb26_12-55-42_aimsl-216/
+output/CDSD/whisper-base/runs/Feb26_12-55-42_aimsl-216/events.out.tfevents.1740574543.aimsl-216
+         25,713 100%   22.68kB/s    0:00:00           25,713 100%   22.68kB/s    0:00:01 (xfr#391, to-chk=287/901)
+output/CDSD/whisper-base/runs/Jun24_11-48-17_aimsl-215/
+output/CDSD/whisper-base/runs/Jun24_11-48-17_aimsl-215/events.out.tfevents.1750765698.aimsl-215
+          5,890 100%    5.20kB/s    0:00:00            5,890 100%    5.20kB/s    0:00:01 (xfr#392, to-chk=286/901)
+output/CDSD/whisper-base/runs/Jun24_12-06-13_aimsl-215/
+output/CDSD/whisper-base/runs/Jun24_12-06-13_aimsl-215/events.out.tfevents.1750766773.aimsl-215
+              0 100%    0.00kB/s    0:00:00 (xfr#393, to-chk=285/901)
+output/MSDM/
+output/MSDM/whisper-base/
+output/MSDM/whisper-base/trainer_state.json
+         26,534 100%   18.57kB/s    0:00:00           26,534 100%   18.57kB/s    0:00:01 (xfr#394, to-chk=283/901)
+output/MSDM/whisper-base/checkpoint-10000/
+output/MSDM/whisper-base/checkpoint-10000/README.md
+          5,131 100%    3.59kB/s    0:00:00            5,131 100%    3.59kB/s    0:00:01 (xfr#395, to-chk=269/901)
+output/MSDM/whisper-base/checkpoint-10000/adapter_config.json
+          1,096 100%    0.77kB/s    0:00:00            1,096 100%    0.77kB/s    0:00:01 (xfr#396, to-chk=268/901)
+output/MSDM/whisper-base/checkpoint-10000/preprocessor_config.json
+            339 100%    0.24kB/s    0:00:00              339 100%    0.24kB/s    0:00:01 (xfr#397, to-chk=267/901)
+output/MSDM/whisper-base/checkpoint-10000/trainer_state.json
+         20,377 100%   14.25kB/s    0:00:00           20,377 100%   14.25kB/s    0:00:01 (xfr#398, to-chk=266/901)
+output/MSDM/whisper-base/checkpoint-11000/
+output/MSDM/whisper-base/checkpoint-11000/README.md
+          5,131 100%    3.59kB/s    0:00:00            5,131 100%    3.59kB/s    0:00:01 (xfr#399, to-chk=265/901)
+output/MSDM/whisper-base/checkpoint-11000/adapter_config.json
+          1,096 100%    0.77kB/s    0:00:00            1,096 100%    0.77kB/s    0:00:01 (xfr#400, to-chk=264/901)
+output/MSDM/whisper-base/checkpoint-11000/preprocessor_config.json
+            339 100%    0.24kB/s    0:00:00              339 100%    0.24kB/s    0:00:01 (xfr#401, to-chk=263/901)
+output/MSDM/whisper-base/checkpoint-11000/trainer_state.json
+         22,349 100%    0.00kB/s    0:00:00           22,349 100%    0.00kB/s    0:00:00 (xfr#402, to-chk=262/901)
+output/MSDM/whisper-base/checkpoint-12000/
+output/MSDM/whisper-base/checkpoint-12000/README.md
+          5,131 100%    4.89MB/s    0:00:00            5,131 100%    4.89MB/s    0:00:00 (xfr#403, to-chk=261/901)
+output/MSDM/whisper-base/checkpoint-12000/adapter_config.json
+          1,096 100%    1.05MB/s    0:00:00            1,096 100%    1.05MB/s    0:00:00 (xfr#404, to-chk=260/901)
+output/MSDM/whisper-base/checkpoint-12000/preprocessor_config.json
+            339 100%  331.05kB/s    0:00:00              339 100%  331.05kB/s    0:00:00 (xfr#405, to-chk=259/901)
+output/MSDM/whisper-base/checkpoint-12000/trainer_state.json
+         24,324 100%   23.20MB/s    0:00:00           24,324 100%   23.20MB/s    0:00:00 (xfr#406, to-chk=258/901)
+output/MSDM/whisper-base/checkpoint-13000/
+output/MSDM/whisper-base/checkpoint-13000/README.md
+          5,131 100%    4.89MB/s    0:00:00            5,131 100%    4.89MB/s    0:00:00 (xfr#407, to-chk=257/901)
+output/MSDM/whisper-base/checkpoint-13000/adapter_config.json
+          1,096 100%    1.05MB/s    0:00:00            1,096 100%    1.05MB/s    0:00:00 (xfr#408, to-chk=256/901)
+output/MSDM/whisper-base/checkpoint-13000/preprocessor_config.json
+            339 100%  331.05kB/s    0:00:00              339 100%  331.05kB/s    0:00:00 (xfr#409, to-chk=255/901)
+output/MSDM/whisper-base/checkpoint-13000/trainer_state.json
+         26,300 100%  221.41kB/s    0:00:00           26,300 100%  221.41kB/s    0:00:00 (xfr#410, to-chk=254/901)
+output/MSDM/whisper-base/checkpoint-13059/
+output/MSDM/whisper-base/checkpoint-13059/README.md
+          5,131 100%   43.20kB/s    0:00:00            5,131 100%   43.20kB/s    0:00:00 (xfr#411, to-chk=253/901)
+output/MSDM/whisper-base/checkpoint-13059/adapter_config.json
+          1,096 100%    9.15kB/s    0:00:00            1,096 100%    9.15kB/s    0:00:00 (xfr#412, to-chk=252/901)
+output/MSDM/whisper-base/checkpoint-13059/preprocessor_config.json
+            339 100%    2.83kB/s    0:00:00              339 100%    2.83kB/s    0:00:00 (xfr#413, to-chk=251/901)
+output/MSDM/whisper-base/checkpoint-13059/trainer_state.json
+         26,284 100%  219.38kB/s    0:00:00           26,284 100%  219.38kB/s    0:00:00 (xfr#414, to-chk=250/901)
+output/MSDM/whisper-base/checkpoint-5000/
+output/MSDM/whisper-base/checkpoint-5000/README.md
+          5,131 100%   42.83kB/s    0:00:00            5,131 100%   42.83kB/s    0:00:00 (xfr#415, to-chk=249/901)
+output/MSDM/whisper-base/checkpoint-5000/adapter_config.json
+          1,096 100%    2.92kB/s    0:00:00            1,096 100%    2.92kB/s    0:00:00 (xfr#416, to-chk=248/901)
+output/MSDM/whisper-base/checkpoint-5000/preprocessor_config.json
+            339 100%    0.90kB/s    0:00:00              339 100%    0.90kB/s    0:00:00 (xfr#417, to-chk=247/901)
+output/MSDM/whisper-base/checkpoint-5000/trainer_state.json
+         10,598 100%   28.28kB/s    0:00:00           10,598 100%   28.28kB/s    0:00:00 (xfr#418, to-chk=246/901)
+output/MSDM/whisper-base/checkpoint-6000/
+output/MSDM/whisper-base/checkpoint-6000/README.md
+          5,131 100%   13.69kB/s    0:00:00            5,131 100%   13.69kB/s    0:00:00 (xfr#419, to-chk=245/901)
+output/MSDM/whisper-base/checkpoint-6000/adapter_config.json
+          1,096 100%    2.92kB/s    0:00:00            1,096 100%    2.92kB/s    0:00:00 (xfr#420, to-chk=244/901)
+output/MSDM/whisper-base/checkpoint-6000/preprocessor_config.json
+            339 100%    0.90kB/s    0:00:00              339 100%    0.90kB/s    0:00:00 (xfr#421, to-chk=243/901)
+output/MSDM/whisper-base/checkpoint-6000/trainer_state.json
+         12,547 100%   33.39kB/s    0:00:00           12,547 100%   33.39kB/s    0:00:00 (xfr#422, to-chk=242/901)
+output/MSDM/whisper-base/checkpoint-7000/
+output/MSDM/whisper-base/checkpoint-7000/README.md
+          5,131 100%   13.65kB/s    0:00:00            5,131 100%   13.65kB/s    0:00:00 (xfr#423, to-chk=241/901)
+output/MSDM/whisper-base/checkpoint-7000/adapter_config.json
+          1,096 100%    2.92kB/s    0:00:00            1,096 100%    2.92kB/s    0:00:00 (xfr#424, to-chk=240/901)
+output/MSDM/whisper-base/checkpoint-7000/preprocessor_config.json
+            339 100%    0.90kB/s    0:00:00              339 100%    0.90kB/s    0:00:00 (xfr#425, to-chk=239/901)
+output/MSDM/whisper-base/checkpoint-7000/trainer_state.json
+         14,502 100%   38.59kB/s    0:00:00           14,502 100%   38.59kB/s    0:00:00 (xfr#426, to-chk=238/901)
+output/MSDM/whisper-base/checkpoint-8000/
+output/MSDM/whisper-base/checkpoint-8000/README.md
+          5,131 100%   13.65kB/s    0:00:00            5,131 100%   13.65kB/s    0:00:00 (xfr#427, to-chk=237/901)
+output/MSDM/whisper-base/checkpoint-8000/adapter_config.json
+          1,096 100%    2.92kB/s    0:00:00            1,096 100%    2.92kB/s    0:00:00 (xfr#428, to-chk=236/901)
+output/MSDM/whisper-base/checkpoint-8000/preprocessor_config.json
+            339 100%    0.90kB/s    0:00:00              339 100%    0.90kB/s    0:00:00 (xfr#429, to-chk=235/901)
+output/MSDM/whisper-base/checkpoint-8000/trainer_state.json
+         16,456 100%   29.01kB/s    0:00:00           16,456 100%   29.01kB/s    0:00:00 (xfr#430, to-chk=234/901)
+output/MSDM/whisper-base/checkpoint-9000/
+output/MSDM/whisper-base/checkpoint-9000/README.md
+          5,131 100%    9.04kB/s    0:00:00            5,131 100%    9.04kB/s    0:00:00 (xfr#431, to-chk=233/901)
+output/MSDM/whisper-base/checkpoint-9000/adapter_config.json
+          1,096 100%    1.93kB/s    0:00:00            1,096 100%    1.93kB/s    0:00:00 (xfr#432, to-chk=232/901)
+output/MSDM/whisper-base/checkpoint-9000/preprocessor_config.json
+            339 100%    0.60kB/s    0:00:00              339 100%    0.60kB/s    0:00:00 (xfr#433, to-chk=231/901)
+output/MSDM/whisper-base/checkpoint-9000/trainer_state.json
+         18,413 100%   32.40kB/s    0:00:00           18,413 100%   32.40kB/s    0:00:00 (xfr#434, to-chk=230/901)
+output/MSDM/whisper-base/checkpoint-best/
+output/MSDM/whisper-base/checkpoint-best/README.md
+          5,131 100%    9.03kB/s    0:00:00            5,131 100%    9.03kB/s    0:00:00 (xfr#435, to-chk=229/901)
+output/MSDM/whisper-base/checkpoint-best/adapter_config.json
+          1,096 100%    1.93kB/s    0:00:00            1,096 100%    1.93kB/s    0:00:00 (xfr#436, to-chk=228/901)
+output/MSDM/whisper-base/checkpoint-best/preprocessor_config.json
+            339 100%    0.60kB/s    0:00:00              339 100%    0.60kB/s    0:00:00 (xfr#437, to-chk=227/901)
+output/MSDM/whisper-base/checkpoint-best/trainer_state.json
+         26,300 100%   30.47kB/s    0:00:00           26,300 100%   30.47kB/s    0:00:00 (xfr#438, to-chk=226/901)
+output/MSDM/whisper-base/checkpoint-final/
+output/MSDM/whisper-base/checkpoint-final/README.md
+          5,131 100%    5.94kB/s    0:00:00            5,131 100%    5.94kB/s    0:00:00 (xfr#439, to-chk=225/901)
+output/MSDM/whisper-base/checkpoint-final/adapter_config.json
+          1,096 100%    1.27kB/s    0:00:00            1,096 100%    1.27kB/s    0:00:00 (xfr#440, to-chk=224/901)
+output/MSDM/whisper-base/runs/
+output/MSDM/whisper-base/runs/Feb26_08-21-19_aimsl-216/
+output/MSDM/whisper-base/runs/Feb26_08-21-19_aimsl-216/events.out.tfevents.1740558079.aimsl-216
+         32,768  88%   37.91kB/s    0:00:00           37,196 100%   43.04kB/s    0:00:00 (xfr#441, to-chk=221/901)
+output/MSDM/whisper-base/runs/Jun24_09-08-13_aimsl-215/
+output/MSDM/whisper-base/runs/Jun24_09-08-13_aimsl-215/events.out.tfevents.1750756093.aimsl-215
+          5,890 100%    6.82kB/s    0:00:00            5,890 100%    6.82kB/s    0:00:00 (xfr#442, to-chk=220/901)
+output/SpeechAccessibility/
+output/SpeechAccessibility/whisper-base/
+output/SpeechAccessibility/whisper-base/trainer_state.json
+         32,768  91%   37.91kB/s    0:00:00           35,626 100%   41.22kB/s    0:00:00 (xfr#443, to-chk=218/901)
+output/SpeechAccessibility/whisper-base/checkpoint-10000/
+output/SpeechAccessibility/whisper-base/checkpoint-10000/README.md
+          5,131 100%    5.93kB/s    0:00:00            5,131 100%    5.93kB/s    0:00:00 (xfr#444, to-chk=204/901)
+output/SpeechAccessibility/whisper-base/checkpoint-10000/adapter_config.json
+          1,098 100%    1.27kB/s    0:00:00            1,098 100%    1.27kB/s    0:00:00 (xfr#445, to-chk=203/901)
+output/SpeechAccessibility/whisper-base/checkpoint-10000/preprocessor_config.json
+            339 100%    0.39kB/s    0:00:00              339 100%    0.39kB/s    0:00:00 (xfr#446, to-chk=202/901)
+output/SpeechAccessibility/whisper-base/checkpoint-10000/trainer_state.json
+         20,387 100%    0.00kB/s    0:00:00           20,387 100%    0.00kB/s    0:00:00 (xfr#447, to-chk=201/901)
+output/SpeechAccessibility/whisper-base/checkpoint-11000/
+output/SpeechAccessibility/whisper-base/checkpoint-11000/README.md
+          5,131 100%    4.89MB/s    0:00:00            5,131 100%    4.89MB/s    0:00:00 (xfr#448, to-chk=200/901)
+output/SpeechAccessibility/whisper-base/checkpoint-11000/adapter_config.json
+          1,098 100%    1.05MB/s    0:00:00            1,098 100%    1.05MB/s    0:00:00 (xfr#449, to-chk=199/901)
+output/SpeechAccessibility/whisper-base/checkpoint-11000/preprocessor_config.json
+            339 100%  331.05kB/s    0:00:00              339 100%  331.05kB/s    0:00:00 (xfr#450, to-chk=198/901)
+output/SpeechAccessibility/whisper-base/checkpoint-11000/trainer_state.json
+         22,353 100%   21.32MB/s    0:00:00           22,353 100%   21.32MB/s    0:00:00 (xfr#451, to-chk=197/901)
+output/SpeechAccessibility/whisper-base/checkpoint-12000/
+output/SpeechAccessibility/whisper-base/checkpoint-12000/README.md
+          5,131 100%    4.89MB/s    0:00:00            5,131 100%    4.89MB/s    0:00:00 (xfr#452, to-chk=196/901)
+output/SpeechAccessibility/whisper-base/checkpoint-12000/adapter_config.json
+          1,098 100%    1.05MB/s    0:00:00            1,098 100%    1.05MB/s    0:00:00 (xfr#453, to-chk=195/901)
+output/SpeechAccessibility/whisper-base/checkpoint-12000/preprocessor_config.json
+            339 100%  331.05kB/s    0:00:00              339 100%  331.05kB/s    0:00:00 (xfr#454, to-chk=194/901)
+output/SpeechAccessibility/whisper-base/checkpoint-12000/trainer_state.json
+         24,327 100%  312.59kB/s    0:00:00           24,327 100%  312.59kB/s    0:00:00 (xfr#455, to-chk=193/901)
+output/SpeechAccessibility/whisper-base/checkpoint-13000/
+output/SpeechAccessibility/whisper-base/checkpoint-13000/README.md
+          5,131 100%   65.93kB/s    0:00:00            5,131 100%   65.07kB/s    0:00:00 (xfr#456, to-chk=192/901)
+output/SpeechAccessibility/whisper-base/checkpoint-13000/adapter_config.json
+          1,098 100%   13.93kB/s    0:00:00            1,098 100%   13.93kB/s    0:00:00 (xfr#457, to-chk=191/901)
+output/SpeechAccessibility/whisper-base/checkpoint-13000/preprocessor_config.json
+            339 100%    4.30kB/s    0:00:00              339 100%    4.30kB/s    0:00:00 (xfr#458, to-chk=190/901)
+output/SpeechAccessibility/whisper-base/checkpoint-13000/trainer_state.json
+         26,290 100%  333.43kB/s    0:00:00           26,290 100%  333.43kB/s    0:00:00 (xfr#459, to-chk=189/901)
+output/SpeechAccessibility/whisper-base/checkpoint-14000/
+output/SpeechAccessibility/whisper-base/checkpoint-14000/README.md
+          5,131 100%   65.07kB/s    0:00:00            5,131 100%   65.07kB/s    0:00:00 (xfr#460, to-chk=188/901)
+output/SpeechAccessibility/whisper-base/checkpoint-14000/adapter_config.json
+          1,098 100%   13.93kB/s    0:00:00            1,098 100%   13.93kB/s    0:00:00 (xfr#461, to-chk=187/901)
+output/SpeechAccessibility/whisper-base/checkpoint-14000/preprocessor_config.json
+            339 100%    4.30kB/s    0:00:00              339 100%    4.30kB/s    0:00:00 (xfr#462, to-chk=186/901)
+output/SpeechAccessibility/whisper-base/checkpoint-14000/trainer_state.json
+         28,257 100%  151.62kB/s    0:00:00           28,257 100%  151.62kB/s    0:00:00 (xfr#463, to-chk=185/901)
+output/SpeechAccessibility/whisper-base/checkpoint-15000/
+output/SpeechAccessibility/whisper-base/checkpoint-15000/README.md
+          5,131 100%   27.53kB/s    0:00:00            5,131 100%   27.53kB/s    0:00:00 (xfr#464, to-chk=184/901)
+output/SpeechAccessibility/whisper-base/checkpoint-15000/adapter_config.json
+          1,098 100%    5.89kB/s    0:00:00            1,098 100%    5.89kB/s    0:00:00 (xfr#465, to-chk=183/901)
+output/SpeechAccessibility/whisper-base/checkpoint-15000/preprocessor_config.json
+            339 100%    1.82kB/s    0:00:00              339 100%    1.82kB/s    0:00:00 (xfr#466, to-chk=182/901)
+output/SpeechAccessibility/whisper-base/checkpoint-15000/trainer_state.json
+         30,232 100%  162.22kB/s    0:00:00           30,232 100%  162.22kB/s    0:00:00 (xfr#467, to-chk=181/901)
+output/SpeechAccessibility/whisper-base/checkpoint-16000/
+output/SpeechAccessibility/whisper-base/checkpoint-16000/README.md
+          5,131 100%    9.38kB/s    0:00:00            5,131 100%    9.38kB/s    0:00:00 (xfr#468, to-chk=180/901)
+output/SpeechAccessibility/whisper-base/checkpoint-16000/adapter_config.json
+          1,098 100%    2.01kB/s    0:00:00            1,098 100%    2.01kB/s    0:00:00 (xfr#469, to-chk=179/901)
+output/SpeechAccessibility/whisper-base/checkpoint-16000/preprocessor_config.json
+            339 100%    0.62kB/s    0:00:00              339 100%    0.62kB/s    0:00:00 (xfr#470, to-chk=178/901)
+output/SpeechAccessibility/whisper-base/checkpoint-16000/trainer_state.json
+         32,203 100%   58.78kB/s    0:00:00           32,203 100%   58.78kB/s    0:00:00 (xfr#471, to-chk=177/901)
+output/SpeechAccessibility/whisper-base/checkpoint-17000/
+output/SpeechAccessibility/whisper-base/checkpoint-17000/README.md
+          5,131 100%    9.37kB/s    0:00:00            5,131 100%    9.37kB/s    0:00:00 (xfr#472, to-chk=176/901)
+output/SpeechAccessibility/whisper-base/checkpoint-17000/adapter_config.json
+          1,098 100%    2.00kB/s    0:00:00            1,098 100%    2.00kB/s    0:00:00 (xfr#473, to-chk=175/901)
+output/SpeechAccessibility/whisper-base/checkpoint-17000/preprocessor_config.json
+            339 100%    0.62kB/s    0:00:00              339 100%    0.62kB/s    0:00:00 (xfr#474, to-chk=174/901)
+output/SpeechAccessibility/whisper-base/checkpoint-17000/trainer_state.json
+         32,768  95%   48.48kB/s    0:00:00           34,170 100%   50.56kB/s    0:00:00 (xfr#475, to-chk=173/901)
+output/SpeechAccessibility/whisper-base/checkpoint-17739/
+output/SpeechAccessibility/whisper-base/checkpoint-17739/README.md
+          5,131 100%    7.59kB/s    0:00:00            5,131 100%    7.59kB/s    0:00:00 (xfr#476, to-chk=172/901)
+output/SpeechAccessibility/whisper-base/checkpoint-17739/adapter_config.json
+          1,098 100%    1.62kB/s    0:00:00            1,098 100%    1.62kB/s    0:00:00 (xfr#477, to-chk=171/901)
+output/SpeechAccessibility/whisper-base/checkpoint-17739/preprocessor_config.json
+            339 100%    0.50kB/s    0:00:00              339 100%    0.50kB/s    0:00:00 (xfr#478, to-chk=170/901)
+output/SpeechAccessibility/whisper-base/checkpoint-17739/trainer_state.json
+         32,768  92%   48.48kB/s    0:00:00           35,378 100%   52.35kB/s    0:00:00 (xfr#479, to-chk=169/901)
+output/SpeechAccessibility/whisper-base/checkpoint-9000/
+output/SpeechAccessibility/whisper-base/checkpoint-9000/README.md
+          5,131 100%    7.59kB/s    0:00:00            5,131 100%    7.59kB/s    0:00:00 (xfr#480, to-chk=168/901)
+output/SpeechAccessibility/whisper-base/checkpoint-9000/adapter_config.json
+          1,098 100%    1.62kB/s    0:00:00            1,098 100%    1.62kB/s    0:00:00 (xfr#481, to-chk=167/901)
+output/SpeechAccessibility/whisper-base/checkpoint-9000/preprocessor_config.json
+            339 100%    0.50kB/s    0:00:00              339 100%    0.50kB/s    0:00:00 (xfr#482, to-chk=166/901)
+output/SpeechAccessibility/whisper-base/checkpoint-9000/trainer_state.json
+         18,420 100%   27.21kB/s    0:00:00           18,420 100%   27.21kB/s    0:00:00 (xfr#483, to-chk=165/901)
+output/SpeechAccessibility/whisper-base/checkpoint-best/
+output/SpeechAccessibility/whisper-base/checkpoint-best/README.md
+          5,131 100%    5.80kB/s    0:00:00            5,131 100%    5.80kB/s    0:00:00 (xfr#484, to-chk=164/901)
+output/SpeechAccessibility/whisper-base/checkpoint-best/adapter_config.json
+          1,098 100%    1.24kB/s    0:00:00            1,098 100%    1.24kB/s    0:00:00 (xfr#485, to-chk=163/901)
+output/SpeechAccessibility/whisper-base/checkpoint-best/preprocessor_config.json
+            339 100%    0.38kB/s    0:00:00              339 100%    0.38kB/s    0:00:00 (xfr#486, to-chk=162/901)
+output/SpeechAccessibility/whisper-base/checkpoint-best/trainer_state.json
+         32,768  95%   36.99kB/s    0:00:00           34,170 100%   38.58kB/s    0:00:00 (xfr#487, to-chk=161/901)
+output/SpeechAccessibility/whisper-base/checkpoint-final/
+output/SpeechAccessibility/whisper-base/checkpoint-final/README.md
+          5,131 100%    5.79kB/s    0:00:00            5,131 100%    5.79kB/s    0:00:00 (xfr#488, to-chk=160/901)
+output/SpeechAccessibility/whisper-base/checkpoint-final/adapter_config.json
+          1,098 100%    1.24kB/s    0:00:00            1,098 100%    1.24kB/s    0:00:00 (xfr#489, to-chk=159/901)
+output/SpeechAccessibility/whisper-base/runs/
+output/SpeechAccessibility/whisper-base/runs/Jun24_12-06-47_aimsl-215/
+output/SpeechAccessibility/whisper-base/runs/Jun24_12-06-47_aimsl-215/events.out.tfevents.1750766808.aimsl-215
+              0 100%    0.00kB/s    0:00:00 (xfr#490, to-chk=156/901)
+output/SpeechAccessibility/whisper-base/runs/Jun24_12-08-13_aimsl-215/
+output/SpeechAccessibility/whisper-base/runs/Jun24_12-08-13_aimsl-215/events.out.tfevents.1750766893.aimsl-215
+         32,768  67%   30.83kB/s    0:00:00           48,306 100%   45.45kB/s    0:00:00           48,306 100%   45.45kB/s    0:00:01 (xfr#491, to-chk=155/901)
+output/TORGO/
+output/TORGO/whisper-base/
+output/TORGO/whisper-base/trainer_state.json
+          1,315 100%    1.25MB/s    0:00:00            1,315 100%    1.25MB/s    0:00:00 (xfr#492, to-chk=153/901)
+output/TORGO/whisper-base/checkpoint-234/
+output/TORGO/whisper-base/checkpoint-234/README.md
+          5,131 100%    4.89MB/s    0:00:00            5,131 100%    4.89MB/s    0:00:00 (xfr#493, to-chk=149/901)
+output/TORGO/whisper-base/checkpoint-234/adapter_config.json
+          1,096 100%    1.05MB/s    0:00:00            1,096 100%    1.05MB/s    0:00:00 (xfr#494, to-chk=148/901)
+output/TORGO/whisper-base/checkpoint-234/preprocessor_config.json
+            339 100%  331.05kB/s    0:00:00              339 100%  331.05kB/s    0:00:00 (xfr#495, to-chk=147/901)
+output/TORGO/whisper-base/checkpoint-234/trainer_state.json
+          1,072 100%    1.02MB/s    0:00:00            1,072 100%    1.02MB/s    0:00:00 (xfr#496, to-chk=146/901)
+output/TORGO/whisper-base/checkpoint-final/
+output/TORGO/whisper-base/checkpoint-final/README.md
+          5,131 100%    4.89MB/s    0:00:00            5,131 100%    4.89MB/s    0:00:00 (xfr#497, to-chk=145/901)
+output/TORGO/whisper-base/checkpoint-final/adapter_config.json
+          1,096 100%    1.05MB/s    0:00:00            1,096 100%    1.05MB/s    0:00:00 (xfr#498, to-chk=144/901)
+output/TORGO/whisper-base/runs/
+output/TORGO/whisper-base/runs/Feb26_08-23-10_aimsl-215/
+output/TORGO/whisper-base/runs/Feb26_08-23-10_aimsl-215/events.out.tfevents.1740558190.aimsl-215
+          6,668 100%    6.36MB/s    0:00:00            6,668 100%    6.36MB/s    0:00:00 (xfr#499, to-chk=137/901)
+output/TORGO/whisper-base/runs/Feb26_13-24-11_aimsl-216/
+output/TORGO/whisper-base/runs/Feb26_13-24-11_aimsl-216/events.out.tfevents.1740576252.aimsl-216
+          6,668 100%    6.36MB/s    0:00:00            6,668 100%    6.36MB/s    0:00:00 (xfr#500, to-chk=136/901)
+output/TORGO/whisper-base/runs/Feb26_13-30-39_aimsl-216/
+output/TORGO/whisper-base/runs/Feb26_13-30-39_aimsl-216/events.out.tfevents.1740576639.aimsl-216
+          6,668 100%    6.36MB/s    0:00:00            6,668 100%    6.36MB/s    0:00:00 (xfr#501, to-chk=135/901)
+output/TORGO/whisper-base/runs/Jun24_09-42-42_aimsl-215/
+output/TORGO/whisper-base/runs/Jun24_09-42-42_aimsl-215/events.out.tfevents.1750758163.aimsl-215
+          5,893 100%    5.62MB/s    0:00:00            5,893 100%    5.62MB/s    0:00:00 (xfr#502, to-chk=134/901)
+output/TORGO/whisper-base/runs/Jun24_09-43-46_aimsl-215/
+output/TORGO/whisper-base/runs/Jun24_09-43-46_aimsl-215/events.out.tfevents.1750758226.aimsl-215
+          5,893 100%    5.62MB/s    0:00:00            5,893 100%    5.62MB/s    0:00:00 (xfr#503, to-chk=133/901)
+output/TORGO/whisper-base/runs/Jun24_11-21-41_aimsl-215/
+output/TORGO/whisper-base/runs/Jun24_11-21-41_aimsl-215/events.out.tfevents.1750764101.aimsl-215
+          5,893 100%    5.62MB/s    0:00:00            5,893 100%    5.62MB/s    0:00:00 (xfr#504, to-chk=132/901)
+output/UASPEECH/
+output/UASPEECH/whisper-base/
+output/UASPEECH/whisper-base/trainer_state.json
+         32,768  43%  136.75kB/s    0:00:00           75,543 100%  315.27kB/s    0:00:00 (xfr#505, to-chk=130/901)
+output/UASPEECH/whisper-base/checkpoint-30000/
+output/UASPEECH/whisper-base/checkpoint-30000/README.md
+          5,131 100%   21.41kB/s    0:00:00            5,131 100%   21.41kB/s    0:00:00 (xfr#506, to-chk=116/901)
+output/UASPEECH/whisper-base/checkpoint-30000/adapter_config.json
+          1,096 100%    4.55kB/s    0:00:00            1,096 100%    4.55kB/s    0:00:00 (xfr#507, to-chk=115/901)
+output/UASPEECH/whisper-base/checkpoint-30000/preprocessor_config.json
+            339 100%    1.41kB/s    0:00:00              339 100%    1.41kB/s    0:00:00 (xfr#508, to-chk=114/901)
+output/UASPEECH/whisper-base/checkpoint-30000/trainer_state.json
+         32,768  54%   57.35kB/s    0:00:00           59,997 100%  105.00kB/s    0:00:00 (xfr#509, to-chk=113/901)
+output/UASPEECH/whisper-base/checkpoint-31000/
+output/UASPEECH/whisper-base/checkpoint-31000/README.md
+          5,131 100%    8.98kB/s    0:00:00            5,131 100%    8.98kB/s    0:00:00 (xfr#510, to-chk=112/901)
+output/UASPEECH/whisper-base/checkpoint-31000/adapter_config.json
+          1,096 100%    1.85kB/s    0:00:00            1,096 100%    1.85kB/s    0:00:00 (xfr#511, to-chk=111/901)
+output/UASPEECH/whisper-base/checkpoint-31000/preprocessor_config.json
+            339 100%    0.57kB/s    0:00:00              339 100%    0.57kB/s    0:00:00 (xfr#512, to-chk=110/901)
+output/UASPEECH/whisper-base/checkpoint-31000/trainer_state.json
+         32,768  52%   55.36kB/s    0:00:00           61,981 100%  104.72kB/s    0:00:00 (xfr#513, to-chk=109/901)
+output/UASPEECH/whisper-base/checkpoint-32000/
+output/UASPEECH/whisper-base/checkpoint-32000/README.md
+          5,131 100%    7.71kB/s    0:00:00            5,131 100%    7.71kB/s    0:00:00 (xfr#514, to-chk=108/901)
+output/UASPEECH/whisper-base/checkpoint-32000/adapter_config.json
+          1,096 100%    1.64kB/s    0:00:00            1,096 100%    1.61kB/s    0:00:00 (xfr#515, to-chk=107/901)
+output/UASPEECH/whisper-base/checkpoint-32000/preprocessor_config.json
+            339 100%    0.50kB/s    0:00:00              339 100%    0.50kB/s    0:00:00 (xfr#516, to-chk=106/901)
+output/UASPEECH/whisper-base/checkpoint-32000/trainer_state.json
+         32,768  51%   48.27kB/s    0:00:00           63,960 100%   83.84kB/s    0:00:00 (xfr#517, to-chk=105/901)
+output/UASPEECH/whisper-base/checkpoint-33000/
+output/UASPEECH/whisper-base/checkpoint-33000/README.md
+          5,131 100%    6.73kB/s    0:00:00            5,131 100%    6.73kB/s    0:00:00 (xfr#518, to-chk=104/901)
+output/UASPEECH/whisper-base/checkpoint-33000/adapter_config.json
+          1,096 100%    1.44kB/s    0:00:00            1,096 100%    1.44kB/s    0:00:00 (xfr#519, to-chk=103/901)
+output/UASPEECH/whisper-base/checkpoint-33000/preprocessor_config.json
+            339 100%    0.44kB/s    0:00:00              339 100%    0.44kB/s    0:00:00 (xfr#520, to-chk=102/901)
+output/UASPEECH/whisper-base/checkpoint-33000/trainer_state.json
+         32,768  49%   42.90kB/s    0:00:00           65,944 100%   76.12kB/s    0:00:00 (xfr#521, to-chk=101/901)
+output/UASPEECH/whisper-base/checkpoint-34000/
+output/UASPEECH/whisper-base/checkpoint-34000/README.md
+          5,131 100%    5.92kB/s    0:00:00            5,131 100%    5.92kB/s    0:00:00 (xfr#522, to-chk=100/901)
+output/UASPEECH/whisper-base/checkpoint-34000/adapter_config.json
+          1,096 100%    1.27kB/s    0:00:00            1,096 100%    1.27kB/s    0:00:00 (xfr#523, to-chk=99/901)
+output/UASPEECH/whisper-base/checkpoint-34000/preprocessor_config.json
+            339 100%    0.39kB/s    0:00:00              339 100%    0.39kB/s    0:00:00 (xfr#524, to-chk=98/901)
+output/UASPEECH/whisper-base/checkpoint-34000/trainer_state.json
+         32,768  48%   36.91kB/s    0:00:00           67,939 100%   70.43kB/s    0:00:00 (xfr#525, to-chk=97/901)
+output/UASPEECH/whisper-base/checkpoint-35000/
+output/UASPEECH/whisper-base/checkpoint-35000/README.md
+          5,131 100%    5.32kB/s    0:00:00            5,131 100%    5.31kB/s    0:00:00 (xfr#526, to-chk=96/901)
+output/UASPEECH/whisper-base/checkpoint-35000/adapter_config.json
+          1,096 100%    1.13kB/s    0:00:00            1,096 100%    1.13kB/s    0:00:00 (xfr#527, to-chk=95/901)
+output/UASPEECH/whisper-base/checkpoint-35000/preprocessor_config.json
+            339 100%    0.35kB/s    0:00:00              339 100%    0.35kB/s    0:00:00 (xfr#528, to-chk=94/901)
+output/UASPEECH/whisper-base/checkpoint-35000/trainer_state.json
+         32,768  46%   33.83kB/s    0:00:01           65,536  93%   63.18kB/s    0:00:00           69,916 100%   67.40kB/s    0:00:01 (xfr#529, to-chk=93/901)
+output/UASPEECH/whisper-base/checkpoint-36000/
+output/UASPEECH/whisper-base/checkpoint-36000/README.md
+          5,131 100%    4.89MB/s    0:00:00            5,131 100%    4.89MB/s    0:00:00 (xfr#530, to-chk=92/901)
+output/UASPEECH/whisper-base/checkpoint-36000/adapter_config.json
+          1,096 100%    1.05MB/s    0:00:00            1,096 100%    1.05MB/s    0:00:00 (xfr#531, to-chk=91/901)
+output/UASPEECH/whisper-base/checkpoint-36000/preprocessor_config.json
+            339 100%  331.05kB/s    0:00:00              339 100%  331.05kB/s    0:00:00 (xfr#532, to-chk=90/901)
+output/UASPEECH/whisper-base/checkpoint-36000/trainer_state.json
+         32,768  45%   31.25MB/s    0:00:00           71,900 100%  900.19kB/s    0:00:00 (xfr#533, to-chk=89/901)
+output/UASPEECH/whisper-base/checkpoint-37000/
+output/UASPEECH/whisper-base/checkpoint-37000/README.md
+          5,131 100%   63.43kB/s    0:00:00            5,131 100%   63.43kB/s    0:00:00 (xfr#534, to-chk=88/901)
+output/UASPEECH/whisper-base/checkpoint-37000/adapter_config.json
+          1,096 100%   13.55kB/s    0:00:00            1,096 100%   13.55kB/s    0:00:00 (xfr#535, to-chk=87/901)
+output/UASPEECH/whisper-base/checkpoint-37000/preprocessor_config.json
+            339 100%    4.19kB/s    0:00:00              339 100%    4.19kB/s    0:00:00 (xfr#536, to-chk=86/901)
+output/UASPEECH/whisper-base/checkpoint-37000/trainer_state.json
+         32,768  44%  405.06kB/s    0:00:00           73,889 100%  490.87kB/s    0:00:00 (xfr#537, to-chk=85/901)
+output/UASPEECH/whisper-base/checkpoint-37806/
+output/UASPEECH/whisper-base/checkpoint-37806/README.md
+          5,131 100%   34.09kB/s    0:00:00            5,131 100%   34.09kB/s    0:00:00 (xfr#538, to-chk=84/901)
+output/UASPEECH/whisper-base/checkpoint-37806/adapter_config.json
+          1,096 100%    7.28kB/s    0:00:00            1,096 100%    7.28kB/s    0:00:00 (xfr#539, to-chk=83/901)
+output/UASPEECH/whisper-base/checkpoint-37806/preprocessor_config.json
+            339 100%    2.25kB/s    0:00:00              339 100%    2.25kB/s    0:00:00 (xfr#540, to-chk=82/901)
+output/UASPEECH/whisper-base/checkpoint-37806/trainer_state.json
+         32,768  43%  216.22kB/s    0:00:00           75,290 100%  384.95kB/s    0:00:00 (xfr#541, to-chk=81/901)
+output/UASPEECH/whisper-base/checkpoint-5000/
+output/UASPEECH/whisper-base/checkpoint-5000/README.md
+          5,131 100%   26.23kB/s    0:00:00            5,131 100%   26.23kB/s    0:00:00 (xfr#542, to-chk=80/901)
+output/UASPEECH/whisper-base/checkpoint-5000/adapter_config.json
+          1,096 100%    5.60kB/s    0:00:00            1,096 100%    5.60kB/s    0:00:00 (xfr#543, to-chk=79/901)
+output/UASPEECH/whisper-base/checkpoint-5000/preprocessor_config.json
+            339 100%    1.72kB/s    0:00:00              339 100%    1.72kB/s    0:00:00 (xfr#544, to-chk=78/901)
+output/UASPEECH/whisper-base/checkpoint-5000/trainer_state.json
+         10,637 100%   54.10kB/s    0:00:00           10,637 100%   54.10kB/s    0:00:00 (xfr#545, to-chk=77/901)
+output/UASPEECH/whisper-base/checkpoint-best/
+output/UASPEECH/whisper-base/checkpoint-best/README.md
+          5,131 100%   26.10kB/s    0:00:00            5,131 100%   26.10kB/s    0:00:00 (xfr#546, to-chk=76/901)
+output/UASPEECH/whisper-base/checkpoint-best/adapter_config.json
+          1,096 100%    5.57kB/s    0:00:00            1,096 100%    5.57kB/s    0:00:00 (xfr#547, to-chk=75/901)
+output/UASPEECH/whisper-base/checkpoint-best/preprocessor_config.json
+            339 100%    1.72kB/s    0:00:00              339 100%    1.72kB/s    0:00:00 (xfr#548, to-chk=74/901)
+output/UASPEECH/whisper-base/checkpoint-best/trainer_state.json
+         10,637 100%   54.10kB/s    0:00:00           10,637 100%   54.10kB/s    0:00:00 (xfr#549, to-chk=73/901)
+output/UASPEECH/whisper-base/checkpoint-final/
+output/UASPEECH/whisper-base/checkpoint-final/README.md
+          5,131 100%   26.10kB/s    0:00:00            5,131 100%   26.10kB/s    0:00:00 (xfr#550, to-chk=72/901)
+output/UASPEECH/whisper-base/checkpoint-final/adapter_config.json
+          1,096 100%    5.57kB/s    0:00:00            1,096 100%    5.57kB/s    0:00:00 (xfr#551, to-chk=71/901)
+output/UASPEECH/whisper-base/runs/
+output/UASPEECH/whisper-base/runs/Feb26_08-23-36_aimsl-215/
+output/UASPEECH/whisper-base/runs/Feb26_08-23-36_aimsl-215/events.out.tfevents.1740558217.aimsl-215
+         32,768  33%  165.80kB/s    0:00:00           97,011 100%  388.27kB/s    0:00:00 (xfr#552, to-chk=69/901)
+output/VoiceBank/
+output/VoiceBank/whisper-base/
+output/VoiceBank/whisper-base/trainer_state.json
+          7,797 100%   17.71kB/s    0:00:00            7,797 100%   17.71kB/s    0:00:00 (xfr#553, to-chk=67/901)
+output/VoiceBank/whisper-base/checkpoint-1000/
+output/VoiceBank/whisper-base/checkpoint-1000/README.md
+          5,131 100%   11.65kB/s    0:00:00            5,131 100%   11.65kB/s    0:00:00 (xfr#554, to-chk=59/901)
+output/VoiceBank/whisper-base/checkpoint-1000/adapter_config.json
+          1,096 100%    2.49kB/s    0:00:00            1,096 100%    2.49kB/s    0:00:00 (xfr#555, to-chk=58/901)
+output/VoiceBank/whisper-base/checkpoint-1000/preprocessor_config.json
+            339 100%    0.77kB/s    0:00:00              339 100%    0.77kB/s    0:00:00 (xfr#556, to-chk=57/901)
+output/VoiceBank/whisper-base/checkpoint-1000/trainer_state.json
+          2,771 100%    6.29kB/s    0:00:00            2,771 100%    6.29kB/s    0:00:00 (xfr#557, to-chk=56/901)
+output/VoiceBank/whisper-base/checkpoint-2000/
+output/VoiceBank/whisper-base/checkpoint-2000/README.md
+          5,131 100%   11.65kB/s    0:00:00            5,131 100%   11.65kB/s    0:00:00 (xfr#558, to-chk=55/901)
+output/VoiceBank/whisper-base/checkpoint-2000/adapter_config.json
+          1,096 100%    2.49kB/s    0:00:00            1,096 100%    2.49kB/s    0:00:00 (xfr#559, to-chk=54/901)
+output/VoiceBank/whisper-base/checkpoint-2000/preprocessor_config.json
+            339 100%    0.77kB/s    0:00:00              339 100%    0.77kB/s    0:00:00 (xfr#560, to-chk=53/901)
+output/VoiceBank/whisper-base/checkpoint-2000/trainer_state.json
+          4,734 100%   10.73kB/s    0:00:00            4,734 100%   10.73kB/s    0:00:00 (xfr#561, to-chk=52/901)
+output/VoiceBank/whisper-base/checkpoint-3000/
+output/VoiceBank/whisper-base/checkpoint-3000/README.md
+          5,131 100%   11.63kB/s    0:00:00            5,131 100%   11.63kB/s    0:00:00 (xfr#562, to-chk=51/901)
+output/VoiceBank/whisper-base/checkpoint-3000/adapter_config.json
+          1,096 100%    2.48kB/s    0:00:00            1,096 100%    2.48kB/s    0:00:00 (xfr#563, to-chk=50/901)
+output/VoiceBank/whisper-base/checkpoint-3000/preprocessor_config.json
+            339 100%    0.77kB/s    0:00:00              339 100%    0.77kB/s    0:00:00 (xfr#564, to-chk=49/901)
+output/VoiceBank/whisper-base/checkpoint-3000/trainer_state.json
+          6,698 100%   15.18kB/s    0:00:00            6,698 100%   15.18kB/s    0:00:00 (xfr#565, to-chk=48/901)
+output/VoiceBank/whisper-base/checkpoint-3510/
+output/VoiceBank/whisper-base/checkpoint-3510/README.md
+          5,131 100%   11.63kB/s    0:00:00            5,131 100%   11.63kB/s    0:00:00 (xfr#566, to-chk=47/901)
+output/VoiceBank/whisper-base/checkpoint-3510/adapter_config.json
+          1,096 100%    2.48kB/s    0:00:00            1,096 100%    2.48kB/s    0:00:00 (xfr#567, to-chk=46/901)
+output/VoiceBank/whisper-base/checkpoint-3510/preprocessor_config.json
+            339 100%    0.77kB/s    0:00:00              339 100%    0.77kB/s    0:00:00 (xfr#568, to-chk=45/901)
+output/VoiceBank/whisper-base/checkpoint-3510/trainer_state.json
+          7,549 100%   17.10kB/s    0:00:00            7,549 100%   17.10kB/s    0:00:00 (xfr#569, to-chk=44/901)
+output/VoiceBank/whisper-base/checkpoint-best/
+output/VoiceBank/whisper-base/checkpoint-best/README.md
+          5,131 100%   11.60kB/s    0:00:00            5,131 100%   11.60kB/s    0:00:00 (xfr#570, to-chk=43/901)
+output/VoiceBank/whisper-base/checkpoint-best/adapter_config.json
+          1,096 100%    2.48kB/s    0:00:00            1,096 100%    2.48kB/s    0:00:00 (xfr#571, to-chk=42/901)
+output/VoiceBank/whisper-base/checkpoint-best/preprocessor_config.json
+            339 100%    0.77kB/s    0:00:00              339 100%    0.77kB/s    0:00:00 (xfr#572, to-chk=41/901)
+output/VoiceBank/whisper-base/checkpoint-best/trainer_state.json
+          6,698 100%   15.14kB/s    0:00:00            6,698 100%   15.14kB/s    0:00:00 (xfr#573, to-chk=40/901)
+output/VoiceBank/whisper-base/checkpoint-final/
+output/VoiceBank/whisper-base/checkpoint-final/README.md
+          5,131 100%   11.60kB/s    0:00:00            5,131 100%   11.60kB/s    0:00:00 (xfr#574, to-chk=39/901)
+output/VoiceBank/whisper-base/checkpoint-final/adapter_config.json
+          1,096 100%    2.48kB/s    0:00:00            1,096 100%    2.48kB/s    0:00:00 (xfr#575, to-chk=38/901)
+output/VoiceBank/whisper-base/runs/
+output/VoiceBank/whisper-base/runs/Feb26_08-25-08_aims-211/
+output/VoiceBank/whisper-base/runs/Feb26_08-25-08_aims-211/events.out.tfevents.1740558308.aims-211
+         14,455 100%   32.68kB/s    0:00:00           14,455 100%   32.68kB/s    0:00:00 (xfr#576, to-chk=36/901)
+results/
+results/CDSD/
+results/MSDM/
+results/SpeechAccessibility/
+results/TORGO/
+results/TROGO/
+results/UASPEECH/
+results/VoiceBank/
+static/
+static/index.css
+          1,521 100%    3.43kB/s    0:00:00            1,521 100%    3.43kB/s    0:00:00 (xfr#577, to-chk=28/901)
+static/record.js
+          8,706 100%   19.63kB/s    0:00:00            8,706 100%   19.63kB/s    0:00:00 (xfr#578, to-chk=27/901)
+static/record.png
+          5,225 100%   11.78kB/s    0:00:00            5,225 100%   11.78kB/s    0:00:00 (xfr#579, to-chk=26/901)
+static/recording.gif
+          4,244 100%    9.57kB/s    0:00:00            4,244 100%    9.57kB/s    0:00:00 (xfr#580, to-chk=25/901)
+templates/
+templates/index.html
+          5,535 100%   12.48kB/s    0:00:00            5,535 100%   12.48kB/s    0:00:00 (xfr#581, to-chk=24/901)
+tools/
+tools/TextConvert.py
+            211 100%    0.48kB/s    0:00:00              211 100%    0.48kB/s    0:00:00 (xfr#582, to-chk=23/901)
+tools/audiofolder.py
+          2,139 100%    4.82kB/s    0:00:00            2,139 100%    4.82kB/s    0:00:00 (xfr#583, to-chk=22/901)
+tools/compute_speed_ct2.py
+          2,493 100%    5.62kB/s    0:00:00            2,493 100%    5.62kB/s    0:00:00 (xfr#584, to-chk=21/901)
+tools/compute_speed_tf.py
+          3,691 100%    8.32kB/s    0:00:00            3,691 100%    8.32kB/s    0:00:00 (xfr#585, to-chk=20/901)
+tools/create_wenetspeech_data.py
+         12,552 100%   19.43kB/s    0:00:00           12,552 100%   19.43kB/s    0:00:00 (xfr#586, to-chk=19/901)
+tools/datalist_convert.py
+          3,308 100%    5.12kB/s    0:00:00            3,308 100%    5.12kB/s    0:00:00 (xfr#587, to-chk=18/901)
+tools/ljspeech.py
+          1,810 100%    2.80kB/s    0:00:00            1,810 100%    2.80kB/s    0:00:00 (xfr#588, to-chk=17/901)
+tools/mel_filters.npz
+          4,271 100%    6.60kB/s    0:00:00            4,271 100%    6.60kB/s    0:00:00 (xfr#589, to-chk=16/901)
+tools/run_compute.sh
+          4,276 100%    6.61kB/s    0:00:00            4,276 100%    6.61kB/s    0:00:00 (xfr#590, to-chk=15/901)
+utils/
+utils/__init__.py
+              0 100%    0.00kB/s    0:00:00 (xfr#591, to-chk=14/901)
+utils/binary.py
+          2,390 100%    3.69kB/s    0:00:00            2,390 100%    3.69kB/s    0:00:00 (xfr#592, to-chk=13/901)
+utils/callback.py
+          1,179 100%    1.82kB/s    0:00:00            1,179 100%    1.82kB/s    0:00:00 (xfr#593, to-chk=12/901)
+utils/data_utils.py
+          2,421 100%    3.74kB/s    0:00:00            2,421 100%    3.74kB/s    0:00:00 (xfr#594, to-chk=11/901)
+utils/model_utils.py
+            622 100%    0.96kB/s    0:00:00              622 100%    0.96kB/s    0:00:00 (xfr#595, to-chk=10/901)
+utils/reader.py
+         15,215 100%   23.51kB/s    0:00:00           15,215 100%   23.51kB/s    0:00:00 (xfr#596, to-chk=9/901)
+utils/utils.py
+          2,677 100%    4.14kB/s    0:00:00            2,677 100%    4.14kB/s    0:00:00 (xfr#597, to-chk=8/901)
+utils/__pycache__/
+utils/__pycache__/__init__.cpython-310.pyc
+            178 100%    0.28kB/s    0:00:00              178 100%    0.27kB/s    0:00:00 (xfr#598, to-chk=6/901)
+utils/__pycache__/binary.cpython-310.pyc
+          2,684 100%    4.14kB/s    0:00:00            2,684 100%    4.14kB/s    0:00:00 (xfr#599, to-chk=5/901)
+utils/__pycache__/callback.cpython-310.pyc
+          1,166 100%    1.80kB/s    0:00:00            1,166 100%    1.80kB/s    0:00:00 (xfr#600, to-chk=4/901)
+utils/__pycache__/data_utils.cpython-310.pyc
+          2,403 100%    3.71kB/s    0:00:00            2,403 100%    3.71kB/s    0:00:00 (xfr#601, to-chk=3/901)
+utils/__pycache__/model_utils.cpython-310.pyc
+            900 100%    1.39kB/s    0:00:00              900 100%    1.39kB/s    0:00:00 (xfr#602, to-chk=2/901)
+utils/__pycache__/reader.cpython-310.pyc
+         10,059 100%    9.77kB/s    0:00:00           10,059 100%    9.77kB/s    0:00:01 (xfr#603, to-chk=1/901)
+utils/__pycache__/utils.cpython-310.pyc
+          3,068 100%    2.98kB/s    0:00:00            3,068 100%    2.98kB/s    0:00:01 (xfr#604, to-chk=0/901)
+
+sent 187,886,759 bytes  received 13,123 bytes  8,739,529.40 bytes/sec
+total size is 187,784,360  speedup is 1.00

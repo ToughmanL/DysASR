@@ -1,0 +1,3 @@
+- distributed_training.distributed_port=5000
+- task.data=/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec/data/CDSD
+- model.w2v_path=/mnt/shareEEx/liuxiaokang/data/pretrainmodel/wav2vec2-base/chinese-wav2vec2-base/chinese-wav2vec2-base.pt
