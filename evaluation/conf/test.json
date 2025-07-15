@@ -1,0 +1,16 @@
+{
+  "cdsd":{
+    "lang":"zh",
+    "level_file":null,
+    "dev":{
+      "whisper": {
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+        "ref_path": "dataset/CDSD/dev.json",
+        "decode": [
+          "init_results/CDSD/dev.json_decode.txt",
+          "results/CDSD/dev.json_decode.txt"
+        ]
+      }
+    }
+  }
+}

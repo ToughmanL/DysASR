@@ -1,0 +1,25 @@
+# 忽略特定后缀文件
+*.ltr
+*.text
+*.tsv
+*.wrd
+*.ltr.idx
+*.idx
+
+# 忽略编译/生成文件
+__pycache__/
+*.egg-info/
+*.so
+*.out
+*.exe
+
+# 忽略IDE和编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# 忽略日志文件
+*.log

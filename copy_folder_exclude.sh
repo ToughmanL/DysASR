@@ -3,7 +3,7 @@
 #!/bin/bash
 
 
-stage=3
+stage=4
 
 if [ $stage -eq 1 ]; then
     # 定义源和目标路径的数组
@@ -154,6 +154,54 @@ elif [ $stage -eq 3 ]; then
             --exclude='tensorboard/' \
             --exclude='audio/' \
             --exclude='log/' \
+            "$SRC/" "$DST/"
+
+        echo "✅ 完成同步: $SRC -> $DST"
+        echo "---------------------------------------------"
+    done
+
+    echo "🎉 所有模型目录同步完成！"
+elif [ $stage -eq 4 ]; then
+    # 定义源和目标路径的数组
+    SRC_DIRS=(
+        "/mnt/shareEEx/liuxiaokang/workspace/DysarthriaASR"
+    )
+
+    DST_DIRS=(
+        "evaluation"
+    )
+
+    # 遍历并同步每对路径
+    for i in "${!SRC_DIRS[@]}"; do
+        SRC="${SRC_DIRS[$i]}"
+        DST="${DST_DIRS[$i]}"
+
+        echo "🔄 正在同步: $SRC -> $DST"
+        mkdir -p "$DST"
+
+        rsync -avP --partial \
+            --exclude='*.log' \
+            --exclude='*.pt' \
+            --exclude='*.pth' \
+            --exclude='*.wav' \
+            --exclude='*.txt' \
+            --exclude='*.ckpt' \
+            --exclude='*.onnx' \
+            --exclude='*.bin' \
+            --exclude='*.safetensors' \
+            --exclude='onnxruntime/' \
+            --exclude='examples/' \
+            --exclude='model_zoo/' \
+            --exclude='.git/' \
+            --exclude='dataroot/' \
+            --exclude='docs/' \
+            --exclude='models--bert-base-chinese/' \
+            --exclude='models--ynie--roberta-large-snli_mnli_fever_anli_R1_R
+            2_R3-nli/' \
+            --exclude='plots/' \
+            --exclude='results/' \
+            --exclude='roberta-large/' \
+            --exclude='.cache/' \
             "$SRC/" "$DST/"
 
         echo "✅ 完成同步: $SRC -> $DST"

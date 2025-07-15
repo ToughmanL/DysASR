@@ -1,0 +1,630 @@
+{
+  "uaspeech":{
+  "lang":"en",
+  "level_file":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/uaspeech/250225/data/level_split.json",
+  "test":{
+    "conformer":{
+      "root":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/uaspeech/250225/",
+      "ref_path":"data/test/text",
+      "decode":[
+        "exp/librispeech_model/uaspeech_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+        "exp/librispeech_model/uaspeech_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+        "exp/librispeech_model/uaspeech_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text",
+        "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+        "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+        "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text",
+        "exp/train_u2++_conformer_fintune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+        "exp/train_u2++_conformer_fintune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+        "exp/train_u2++_conformer_fintune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text"
+      ]
+    },
+    "paraformer":{
+      "root":"/mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/UASpeech/paraformer/",
+      "ref_path":"data/test/text",
+      "decode":[
+        "exp/pretrained_model/uaspeech/inference-model.pt.best/test/1best_recog/text",
+        "exp/baseline_paraformer_en_en_bpe_finetune/inference-model.pt.best/test/1best_recog/text",
+        "exp/baseline_paraformer_en_en_bpe/inference-model.pt.best/test/1best_recog/text"
+      ]
+    },
+    "wav2vec":{
+      "root":"/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec",
+      "ref_path":"data/UASpeech/test.text",
+      "decode":[
+        "results/finetune/UASpeech/test.wav2vec2.text",
+        "results/nofinetune/UASpeech/test.wav2vec2.text"
+      ]
+    },
+    "whisper": {
+      "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+      "ref_path": "",
+      "decode": [
+        "init_results/UASPEECH/test.json_decode.txt",
+        "results/UASPEECH/test.json_decode.txt"
+      ]
+    },
+    "qwen2audio":{
+      "root": "/mnt/shareEEx/liuxiaokang/workspace/LLM/Qwen2-Audio",
+      "ref_path": "asr_data/uaspeech/test/text",
+      "decode": [
+        "results/uaspeech_test_text",
+        "ms-swift-fintune/output/uaspeech/checkpoint/infer_result/test_text"
+      ]
+    }
+  },
+  "dev":{
+    "conformer":{
+      "root":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/uaspeech/250225",
+      "ref_path":"data/dev/text",
+      "decode":
+        [
+        "exp/librispeech_model/uaspeech_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+        "exp/librispeech_model/uaspeech_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+        "exp/librispeech_model/uaspeech_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text",
+        "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+        "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+        "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text",
+        "exp/train_u2++_conformer_fintune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+        "exp/train_u2++_conformer_fintune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+        "exp/train_u2++_conformer_fintune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text"
+      ]
+    },
+    "paraformer":{
+      "root":"/mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/UASpeech/paraformer/",
+      "ref_path":"data/dev/text",
+      "decode":[
+        "exp/pretrained_model/uaspeech/inference-model.pt.best/dev/1best_recog/text",
+        "exp/baseline_paraformer_en_en_bpe_finetune/inference-model.pt.best/dev/1best_recog/text",
+        "exp/baseline_paraformer_en_en_bpe/inference-model.pt.best/dev/1best_recog/text"
+      ]
+    },
+    "wav2vec":{
+      "root":"/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec",
+      "ref_path":"data/UASpeech/dev.text",
+      "decode":[
+        "results/finetune/UASpeech/dev.wav2vec2.text",
+        "results/nofinetune/UASpeech/dev.wav2vec2.text"
+      ]
+    },
+    "whisper": {
+      "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+      "ref_path": "",
+      "decode": [
+        "init_results/UASPEECH/dev.json_decode.txt",
+        "results/UASPEECH/dev.json_decode.txt"
+      ]
+    },
+    "qwen2audio":{
+      "root": "/mnt/shareEEx/liuxiaokang/workspace/LLM/Qwen2-Audio",
+      "ref_path": "asr_data/uaspeech/dev/text",
+      "decode": [
+        "results/uaspeech_dev_text",
+        "ms-swift-fintune/output/uaspeech/checkpoint/infer_result/dev_text"
+      ]
+    }
+  }
+  },
+  "torgo":{
+    "lang":"en",
+    "level_file":null,
+    "test":{
+      "conformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/TROGO/250224/",
+        "ref_path":"data/test/text",
+        "decode":[
+          "exp/librispeech_model/torgo_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+          "exp/librispeech_model/torgo_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+          "exp/librispeech_model/torgo_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text"
+        ]
+      },
+      "paraformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/TROGO/paraformer/",
+        "ref_path":"data/test/text",
+        "decode":[
+          "exp/pretrained_model/torgo/inference-model.pt.best/test/1best_recog/text",
+          "exp/baseline_paraformer_en_en_bpe_finetune/inference-model.pt.best/test/1best_recog/text",
+          "exp/baseline_paraformer_en_en_bpe/inference-model.pt.best/test/1best_recog/text"
+        ]
+      },
+      "wav2vec":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec",
+        "ref_path":"data/TROGO/test.text",
+        "decode":[
+          "results/finetune/TROGO/test.wav2vec2.text",
+          "results/nofinetune/TROGO/test.wav2vec2.text"
+        ]
+      },
+      "whisper": {
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+        "ref_path": "",
+        "decode": [
+          "init_results/TORGO/test.json_decode.txt",
+          "results/TROGO/test.json_decode.txt"
+        ]
+      },
+      "qwen2audio":{
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/LLM/Qwen2-Audio",
+        "ref_path": "asr_data/TROGO/test/text",
+        "decode": [
+          "results/TROGO_test_text",
+          "ms-swift-fintune/output/TROGO/checkpoint/infer_result/test_text"
+        ]
+      }
+    },
+    "dev":{
+      "conformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/TROGO/250224/",
+        "ref_path":"data/dev/text",
+        "decode":
+          [
+          "exp/librispeech_model/torgo_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+          "exp/librispeech_model/torgo_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+          "exp/librispeech_model/torgo_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text"
+        ]
+      },
+      "paraformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/TROGO/paraformer/",
+        "ref_path":"data/dev/text",
+        "decode":[
+          "exp/pretrained_model/torgo/inference-model.pt.best/dev/1best_recog/text",
+          "exp/baseline_paraformer_en_en_bpe_finetune/inference-model.pt.best/dev/1best_recog/text",
+          "exp/baseline_paraformer_en_en_bpe/inference-model.pt.best/dev/1best_recog/text"
+        ]
+      },
+      "wav2vec":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec",
+        "ref_path":"data/TROGO/dev.text",
+        "decode":[
+          "results/finetune/TROGO/dev.wav2vec2.text",
+          "results/nofinetune/TROGO/dev.wav2vec2.text"
+        ]
+      },
+      "whisper": {
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+        "ref_path": "",
+        "decode": [
+          "init_results/TORGO/dev.json_decode.txt",
+          "results/TROGO/dev.json_decode.txt"
+        ]
+      },
+      "qwen2audio":{
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/LLM/Qwen2-Audio",
+        "ref_path": "asr_data/TROGO/dev/text",
+        "decode": [
+          "results/TROGO_dev_text",
+          "ms-swift-fintune/output/TROGO/checkpoint/infer_result/dev_text"
+        ]
+      }
+    }
+  },
+  "cdsd":{
+    "lang":"zh",
+    "level_file":null,
+    "test":{
+      "conformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/cdsd/250224/",
+        "ref_path":"data/test/text",
+        "decode":[
+          "exp/aishell_model/cdsd_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text", 
+          "exp/aishell_model/cdsd_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text", 
+          "exp/aishell_model/cdsd_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer_fintune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+          "exp/train_u2++_conformer_fintune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+          "exp/train_u2++_conformer_fintune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text"
+        ]
+      },
+      "paraformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/CDSD/paraformer/",
+        "ref_path":"data/test/text",
+        "decode":[
+          "exp/pretrained_model/cdsd/inference-model.pt.best/test/1best_recog/text",
+          "exp/baseline_paraformer_zh_zh_char_/inference-model.pt.best/test/1best_recog/text",
+          "exp/baseline_paraformer_zh_zh_char_pretrained_model/model.pt/inference-model.pt.best/test/1best_recog/text"
+        ]
+      },
+      "wav2vec":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec",
+        "ref_path":"data/CDSD/test.text",
+        "decode":[
+          "results/finetune/CDSD/test.wav2vec2.text",
+          "results/nofinetune/CDSD/test.wav2vec2.text"
+        ]
+      },
+      "whisper": {
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+        "ref_path": "",
+        "decode": [
+          "init_results/CDSD/test.json_decode.txt",
+          "results/CDSD/test.json_decode.txt"
+        ]
+      },
+      "qwen2audio":{
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/LLM/Qwen2-Audio",
+        "ref_path": "asr_data/cdsd/test/text",
+        "decode": [
+          "results/cdsd_test_text",
+          "ms-swift-fintune/output/cdsd/checkpoint/infer_result/test_text"
+        ]
+      }
+    },
+    "dev":{
+      "conformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/cdsd/250224/",
+        "ref_path":"data/dev/text",
+        "decode":[
+          "exp/aishell_model/cdsd_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text", 
+          "exp/aishell_model/cdsd_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text", 
+          "exp/aishell_model/cdsd_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer_fintune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+          "exp/train_u2++_conformer_fintune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+          "exp/train_u2++_conformer_fintune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text"
+        ]
+      },
+      "paraformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/CDSD/paraformer/",
+        "ref_path":"data/dev/text",
+        "decode":[
+          "exp/pretrained_model/cdsd/inference-model.pt.best/dev/1best_recog/text",
+          "exp/baseline_paraformer_zh_zh_char_/inference-model.pt.best/dev/1best_recog/text",
+          "exp/baseline_paraformer_zh_zh_char_pretrained_model/model.pt/inference-model.pt.best/dev/1best_recog/text"
+        ]
+      },
+      "wav2vec":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec",
+        "ref_path":"data/CDSD/dev.text",
+        "decode":[
+          "results/finetune/CDSD/dev.wav2vec2.text",
+          "results/nofinetune/CDSD/dev.wav2vec2.text"
+        ]
+      },
+      "whisper": {
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+        "ref_path": "dataset/CDSD/dev.json",
+        "decode": [
+          "init_results/CDSD/dev.json_decode.txt",
+          "results/CDSD/dev.json_decode.txt"
+        ]
+      },
+      "qwen2audio":{
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/LLM/Qwen2-Audio",
+        "ref_path": "asr_data/cdsd/dev/text",
+        "decode": [
+          "results/cdsd_dev_text",
+          "ms-swift-fintune/output/cdsd/checkpoint/infer_result/dev_text"
+        ]
+      }
+    }
+  },
+  "msdm":{
+    "lang":"zh",
+    "level_file":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/msdm/250225/data/level_split.json",
+    "test":{
+      "conformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/msdm/250225/",
+        "ref_path":"data/test/text",
+        "decode":[
+          "exp/aishell_model/msdm_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+          "exp/aishell_model/msdm_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+          "exp/aishell_model/msdm_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text"
+        ]
+      },
+      "paraformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/MSDM/paraformer/",
+        "ref_path":"data/test/text",
+        "decode":[
+          "exp/pretrained_model/msdm/inference-model.pt.best/test/1best_recog/text",
+          "exp/baseline_paraformer_zh_zh_char_/inference-model.pt.best/test/1best_recog/text",
+          "exp/baseline_paraformer_zh_zh_char_pretrained_model/model.pt/inference-model.pt.best/test/1best_recog/text"
+        ]
+      },
+      "wav2vec":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec",
+        "ref_path":"data/MSDM/test.text",
+        "decode":[
+          "results/finetune/MSDM/test.wav2vec2.text",
+          "results/nofinetune/MSDM/test.wav2vec2.text"
+        ]
+      },
+      "whisper": {
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+        "ref_path": "",
+        "decode": [
+          "init_results/MSDM/test.json_decode.txt",
+          "results/MSDM/test.json_decode.txt"
+        ]
+      },
+      "qwen2audio":{
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/LLM/Qwen2-Audio",
+        "ref_path": "asr_data/msdm/test/text",
+        "decode": [
+          "results/msdm_test_text",
+          "ms-swift-fintune/output/msdm/checkpoint/infer_result/test_text"
+        ]
+      }
+
+    },
+    "dev":{
+      "conformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/msdm/250225/",
+        "ref_path":"data/dev/text",
+        "decode":[
+          "exp/aishell_model/msdm_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+          "exp/aishell_model/msdm_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+          "exp/aishell_model/msdm_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text"
+        ]
+      },
+      "paraformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/MSDM/paraformer/",
+        "ref_path":"data/dev/text",
+        "decode":[
+          "exp/pretrained_model/msdm/inference-model.pt.best/dev/1best_recog/text",
+          "exp/baseline_paraformer_zh_zh_char_/inference-model.pt.best/dev/1best_recog/text",
+          "exp/baseline_paraformer_zh_zh_char_pretrained_model/model.pt/inference-model.pt.best/dev/1best_recog/text"
+        ]
+      },
+      "wav2vec":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec",
+        "ref_path":"data/MSDM/dev.text",
+        "decode":[
+          "results/finetune/MSDM/dev.wav2vec2.text",
+          "results/nofinetune/MSDM/dev.wav2vec2.text"
+        ]
+      },
+      "whisper": {
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+        "ref_path": "",
+        "decode": [
+          "init_results/MSDM/dev.json_decode.txt",
+          "results/MSDM/dev.json_decode.txt"
+        ]
+      },
+      "qwen2audio":{
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/LLM/Qwen2-Audio",
+        "ref_path": "asr_data/msdm/dev/text",
+        "decode": [
+          "results/msdm_dev_text",
+          "ms-swift-fintune/output/msdm/checkpoint/infer_result/dev_text"
+        ]
+      }
+    }
+  },
+  "voicebank":{
+    "lang":"zh",
+    "level_file":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/voicebank/250224/data/level_split.json",
+    "test":{
+      "conformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/voicebank/250224/",
+        "ref_path":"data/test/text",
+        "decode":[
+          "exp/aishell_model/voicebank_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+          "exp/aishell_model/voicebank_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+          "exp/aishell_model/voicebank_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/attention_rescoring/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_greedy_search/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/test/ctc_prefix_beam_search/text"
+        ]
+      },
+      "paraformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/VoiceBank/paraformer/",
+        "ref_path":"data/test/text",
+        "decode":[
+          "exp/pretrained_model/voicebank/inference-model.pt.best/test/1best_recog/text",
+          "exp/baseline_paraformer_zh_zh_char_/inference-model.pt.best/test/1best_recog/text",
+          "exp/baseline_paraformer_zh_zh_char_pretrained_model/model.pt/inference-model.pt.best/test/1best_recog/text"
+        ]
+      },
+      "wav2vec":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec",
+        "ref_path":"data/VoiceBank/test.text",
+        "decode":[
+          "results/finetune/VoiceBank/test.wav2vec2.text",
+          "results/nofinetune/VoiceBank/test.wav2vec2.text"
+        ]
+      },
+      "whisper": {
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+        "ref_path": "",
+        "decode": [
+          "init_results/VoiceBank/test.json_decode.txt",
+          "results/VoiceBank/test.json_decode.txt"
+        ]
+      },
+      "qwen2audio":{
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/LLM/Qwen2-Audio",
+        "ref_path": "asr_data/voicebank/test/text",
+        "decode": [
+          "results/voicebank_test_text",
+          "ms-swift-fintune/output/voicebank/checkpoint/infer_result/test_text"
+        ]
+      }
+    },
+    "dev":{
+      "conformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/voicebank/250224/",
+        "ref_path":"data/dev/text",
+        "decode":[
+          "exp/aishell_model/voicebank_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+          "exp/aishell_model/voicebank_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+          "exp/aishell_model/voicebank_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+          "exp/train_u2++_conformer/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/attention_rescoring/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_greedy_search/text",
+          "exp/train_u2++_conformer_finetune/avg_5_maxepoch_100.pt_chunk-1_ctc0.3_reverse0.5/dev/ctc_prefix_beam_search/text"
+        ]
+      },
+      "paraformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/VoiceBank/paraformer/",
+        "ref_path":"data/dev/text",
+        "decode":[
+          "exp/pretrained_model/voicebank/inference-model.pt.best/dev/1best_recog/text",
+          "exp/baseline_paraformer_zh_zh_char_/inference-model.pt.best/dev/1best_recog/text",
+          "exp/baseline_paraformer_zh_zh_char_pretrained_model/model.pt/inference-model.pt.best/dev/1best_recog/text"
+        ]
+      },
+      "wav2vec":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec",
+        "ref_path":"data/VoiceBank/dev.text",
+        "decode":[
+          "results/finetune/VoiceBank/dev.wav2vec2.text",
+          "results/nofinetune/VoiceBank/dev.wav2vec2.text"
+        ]
+      },
+      "whisper": {
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+        "ref_path": "",
+        "decode": [
+          "init_results/VoiceBank/dev.json_decode.txt",
+          "results/VoiceBank/dev.json_decode.txt"
+        ]
+      },
+      "qwen2audio":{
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/LLM/Qwen2-Audio",
+        "ref_path": "asr_data/voicebank/dev/text",
+        "decode": [
+          "results/voicebank_dev_text",
+          "ms-swift-fintune/output/voicebank/checkpoint/infer_result/dev_text"
+        ]
+      }
+    }
+  },
+  "SpeechAccessibility":{
+    "lang":"en",
+    "level_file":null,
+    "test":{
+      "conformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/SpeechAccessibility/conformer/",
+        "ref_path":"data/test/text",
+        "decode":[
+          "exp/sp_spec_aug/SpeechAccess_test/attention_rescoring/text",
+          "exp/sp_spec_aug/SpeechAccess_test/ctc_greedy_search/text",
+          "exp/sp_spec_aug/SpeechAccess_test/ctc_prefix_beam_search/text",
+          "exp/no_pretrain/test/attention_rescoring/text",
+          "exp/no_pretrain/test/ctc_greedy_search/text",
+          "exp/no_pretrain/test/ctc_prefix_beam_search/text",
+          "exp/conformer/test/attention_rescoring/text",
+          "exp/conformer/test/ctc_greedy_search/text",
+          "exp/conformer/test/ctc_prefix_beam_search/text"
+        ]
+      },
+      "paraformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/SpeechAccessibility/paraformer/",
+        "ref_path":"data/test/text",
+        "decode":[
+          "exp/pretrained_model/SAP/inference-model.pt.best/test/1best_recog/text",
+          "exp/baseline_paraformer_en_en_bpe_finetune/inference-model.pt.best/test/1best_recog/text",
+          "exp/baseline_paraformer_en_en_bpe/inference-model.pt.best/test/1best_recog/text"
+        ]
+      },
+      "wav2vec":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec",
+        "ref_path":"data/SpeechAccessibility/test.text",
+        "decode":[
+          "results/finetune/SpeechAccessibility/test.wav2vec2.text",
+          "results/nofinetune/SpeechAccessibility/test.wav2vec2.text"
+        ]
+      },
+      "whisper": {
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+        "ref_path": "",
+        "decode": [
+          "init_results/SpeechAccessibility/test.json_decode.txt",
+          "results/SpeechAccessibility/test.json_decode.txt"
+        ]
+      },
+      "qwen2audio":{
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/LLM/Qwen2-Audio",
+        "ref_path": "asr_data/SpeechAccessibility/test/text",
+        "decode": [
+          "results/SpeechAccessibility_test_text",
+          "ms-swift-fintune/output/SpeechAccessibility/checkpoint/infer_result/test_text"
+        ]
+      }
+    },
+    "dev":{
+      "conformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/wenet/wenet-3.1.0/examples/SpeechAccessibility/conformer",
+        "ref_path":"data/dev/text",
+        "decode":
+          [
+          "exp/sp_spec_aug/SpeechAccess_dev/attention_rescoring/text",
+          "exp/sp_spec_aug/SpeechAccess_dev/ctc_greedy_search/text",
+          "exp/sp_spec_aug/SpeechAccess_dev/ctc_prefix_beam_search/text",
+          "exp/no_pretrain/dev/attention_rescoring/text",
+          "exp/no_pretrain/dev/ctc_greedy_search/text",
+          "exp/no_pretrain/dev/ctc_prefix_beam_search/text",
+          "exp/conformer/dev/attention_rescoring/text",
+          "exp/conformer/dev/ctc_greedy_search/text",
+          "exp/conformer/dev/ctc_prefix_beam_search/text"
+        ]
+      },
+      "paraformer":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/funasr/FunASR-250301/examples/SpeechAccessibility/paraformer/",
+        "ref_path":"data/dev/text",
+        "decode":[
+          "exp/pretrained_model/SAP/inference-model.pt.best/dev/1best_recog/text",
+          "exp/baseline_paraformer_en_en_bpe_finetune/inference-model.pt.best/dev/1best_recog/text",
+          "exp/baseline_paraformer_en_en_bpe/inference-model.pt.best/dev/1best_recog/text"
+        ]
+      },
+      "wav2vec":{
+        "root":"/mnt/shareEEx/liuxiaokang/workspace/selfsupervised/fairseq/examples/wav2vec",
+        "ref_path":"data/SpeechAccessibility/dev.text",
+        "decode":[
+          "results/finetune/SpeechAccessibility/dev.wav2vec2.text",
+          "results/nofinetune/SpeechAccessibility/dev.wav2vec2.text"
+        ]
+      },
+      "whisper": {
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/whisper/Whisper-Finetune-250225",
+        "ref_path": "",
+        "decode": [
+          "init_results/SpeechAccessibility/dev.json_decode.txt",
+          "results/SpeechAccessibility/dev.json_decode.txt"
+        ]
+      },
+      "qwen2audio":{
+        "root": "/mnt/shareEEx/liuxiaokang/workspace/LLM/Qwen2-Audio",
+        "ref_path": "asr_data/SpeechAccessibility/dev/text",
+        "decode": [
+          "results/SpeechAccessibility_dev_text",
+          "ms-swift-fintune/output/SpeechAccessibility/checkpoint/infer_result/dev_text"
+        ]
+      }
+    }
+    }
+}

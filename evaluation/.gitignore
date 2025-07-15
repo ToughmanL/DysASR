@@ -1,0 +1,27 @@
+# 排除所有 .backup 文件夹
+**/.backup/
+**/.cache/
+
+# 排除所有模型文件夹
+**/dataroot/
+**/models--bert-base-chinese/
+**/models--ynie--roberta-large-snli_mnli_fever_anli_R1_R2_R3-nli/
+
+# 排除所有 .log 文件
+# *.log
+# 排除所有 .tmp 文件
+*.tmp
+*.gz
+*.bst
+*.bbl*
+
+# 排除所有 .wav 和 .pt 文件
+*.wav
+*.pt
+*.bin
+*.pkl
+*.h5
+*.safetensors
+*.msgpack
+*.gz
+

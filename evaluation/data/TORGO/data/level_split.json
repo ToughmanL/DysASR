@@ -1,0 +1,1 @@
+{"normal": {"train": ["MC03", "FC01", "FC02", "FC03", "MC01", "MC02", "MC04"]}, "mild": {"dev": ["F04"], "test": ["M03"]}, "severe": {"train": ["F01", "M04", "M05"], "dev": ["M01"], "test": ["M02", "F03"]}}
